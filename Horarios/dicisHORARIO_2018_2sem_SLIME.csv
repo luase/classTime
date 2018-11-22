@@ -1,0 +1,352 @@
+""IILI03002,Aire Acondicionado y Refrigeración,3,Transferencia de Calor,M1,,08:00-9:30,,,08:00-9:30,,A306,"BELMAN FLORES Juan Manuel, Dr.","DAMIÁN ASCENCIO César
+Eduardo, Dr.","HERNANDEZ GUERRERO
+Abel, Dr."
+""NELI06001,Algebra Lineal,4,Ninguno,NI-M2,,12:00-14:00,,,12:00-14:00,,A301,"RAZO HERNÁNDEZ Claudia, M.I.","RICO MARTÍNEZ José María,
+Dr.","BELMAN FLORES
+Juan Manuel, Dr."
+""NELI06001,Algebra Lineal,4,Ninguno,NI-M1,08:00-10:00,,,08:00-10:00,,,A201,"RICO MARTÍNEZ José María, Dr.","RAZO HERNÁNDEZ Claudia,
+M.I.","BELMAN FLORES
+Juan Manuel, Dr."
+""IILI04010,Análisis y Síntesis de Mecanismos,3,"Dinámica de Cuerpo
+Rígido",M1,,10:00-11:30,,,10:00-11:30,,Aula Lab. Manuf.,"GARCÍA MURILLO Mario Alberto,
+Dr.","CERVANTES SÁNCHEZ J.
+Jesús, Dr.","AGUILERA CORTES Luz
+Antonio, Dr."
+""IILI04010,Análisis y Síntesis de Mecanismos,3,"Dinámica de Cuerpo
+Rígido",M1,,10:00-11:30,,,10:00-11:30,,Aula Lab. Termo.,"MARTÍNEZ MARTÍNEZ Ricardo,
+M.I.","AGUILERA CORTES Luz
+Antonio, Dr.","RICO MARTÍNEZ José
+María, Dr."
+""NELI06002,Calculo Diferencial,4,Ninguno,NI-M2,08:00-10:00,,,08:00-10:00,,,A301,"BELMAN FLORES Juan Manuel, Dr.","AGUILERA CORTÉS Luz
+Antonio, Dr.","RAMÍREZ ELIAS Víctor
+Alfonso, Dr."
+""NELI06002,Calculo Diferencial,4,Ninguno,NI-M1,,08:00-10:00,,,08:00-10:00,,A201,"RAZO HERNÁNDEZ Claudia, M.I.","AGUILERA CORTÉS Luz
+Antonio, Dr.","RAMÍREZ ELIAS Víctor
+Alfonso, Dr."
+""NELI06002,Cálculo Diferencial (Repetidores),4,Ninguno,S2,18:00-20:00,,,18:00-20:00,,,A310,"ALFARO NAVARRO José Juan, Ing.","IBARRA MANZANO Mario
+Alberto, Dr.","GARCÍA CAPULÍN Carlos
+Hugo, Dr."
+""NELI06003,Cálculo Integral,4,Cálculo Diferencial,REC-C2,16:00-18:00,,,16:00-18:00,,,B101,"MARQUEZ FIGUEROA Sandra M.
+en I.","IBARRA MANZANO Mario
+Alberto, Dr.","TRUJILLO ROMERO Felipe
+de Jesús, Dr."
+""NELI06003,Cálculo Integral,4,Cálculo Diferencial,M1,12:00-14:00,,,12:00-14:00,,,A201,"RANGEL HERNÁNDEZ Víctor Hugo,
+Dr.","RAMÍREZ ELIAS Víctor
+Alfonso, Dr.","AGUILERA CORTÉS Luz
+Antonio, Dr."
+""NELI06003,Cálculo Integral,4,Cálculo Diferencial,M2,12:00-14:00,,,12:00-14:00,,,A301,"RAZO HERNÁNDEZ Claudia, M.I.","RAMÍREZ ELIAS Víctor
+Alfonso, Dr.","AGUILERA CORTÉS Luz
+Antonio, Dr."
+""NELI06004,Calculo Vectorial Multivariable,5,Cálculo Integral,M1,14:00-15:40,,14:00-15:40,14:00-15:40,,,A201,"RAZO MEDINA Daniel Alberto, Dr.","RAZO HERNÁNDEZ Claudia,
+M.I.","RANGEL HERNÁNDEZ
+Víctor Hugo, Dr."
+""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M2,,14:00-16:00,,,14:00-16:00,,A201,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias
+Rigoberto, Dr.","HERNANDEZ PEREZ Adrian,
+Dr."
+""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M1,,10:00-12:00,,,10:00-12:00,,A304,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias
+Rigoberto, Dr.","HERNANDEZ PEREZ Adrian,
+Dr."
+""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M4,,14:00-16:00,,,14:00-16:00,,A301,"HERNÁNDEZ RODRÍGUEZ Eric Noé,
+Dr.","LEDESMA OROZCO Elias
+Rigoberto, Dr.","HERNANDEZ PEREZ Adrian,
+Dr."
+""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M3,,10:00-12:00,,,10:00-12:00,,A305,"ROJAS SALINAS Wilma Betzabé,
+Q.F.B.","LEDESMA OROZCO Elias
+Rigoberto, Dr.","HERNANDEZ PEREZ Adrian,
+Dr."
+""IILI04017,Ciencia de Materiales para Ingeniería Mecánica,3,"Ciencia de Materiales
+para Ingeniería",M1,16:00-17:30,,,16:00-17:30,,,A201,"BALVANTÍN GARCÍA Antonio de
+Jesús, Dr.","HERNÁNDEZ RODRIGUEZ
+Erick Noe, Dr.","HERNANDEZ PEREZ Adrian,
+Dr."
+""IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica;
+Mecánica de Fluidos",M3,,12:00-13:30,,,12:00-13:30,,Aula Lab. Manuf.,"COLÍN VENEGAS José, Dr.","LEDESMA OROZCO Elias
+Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
+""IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica;
+Mecánica de Fluidos",M1,,12:00-13:30,,,12:00-13:30,,A305,"NÚÑEZ ALTAMIRANO Diego
+Alfredo, Dr.","LEDESMA OROZCO Elias
+Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
+""IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica;
+Mecánica de Fluidos",M2,,12:00-13:30,,,12:00-13:30,,A306,"TORRES DEL CARMEN Felipe de
+Jesús, Dr.","LEDESMA OROZCO Elias
+Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
+""IILI04033,Controladores Lógicos Programables,4,"Fundamentos de
+Ingeniería Eléctrica",M2,,12:00-14:00,,,12:00-14:00,,Aula Lab. Termo.,"CAPILLA GONZÁLEZ Gustavo, Dr.","PLASCENCIA MORA Héctor,
+Dr.","VIDAL LESSO Agustín, Dr."
+""IILI04033,Controladores Lógicos Programables,4,"Fundamentos de
+Ingeniería Eléctrica",M1,18:00-20:00,,,18:00-20:00,,,A304,"COLÍN ROBLES José de Jesús, Ing.","PLASCENCIA MORA Héctor,
+Dr.","VIDAL LESSO Agustín, Dr."
+""IILI04033,Controladores Lógicos Programables,4,"Fundamentos de
+Ingeniería Eléctrica",M3,,16:00-18:00,,,16:00-18:00,,Aula Lab. Termo.,Por asignar,"PLASCENCIA MORA Héctor,
+Dr.","VIDAL LESSO Agustín, Dr."
+""SHLI03009,Desarrollo Humano y Comunicación,2,Ninguno,NI-M2,,,10:00-12:00,,,,A301,"GARRIDO ACEVES Paulina Lizeth,
+Lic.","ZALETA AGUILAR Alejandro,
+Dr.","GUEVARA RAMÍREZ Nadia
+Olivia, Lic."
+""IILI04040,Dibujo de Ingeniería,3,Ninguno,M1,14:00-15:30,,,14:00-15:30,,,Lab. Cómputo B,"CAPILLA GONZÁLEZ Gustavo, Dr.","LEDESMA OROZCO Elias
+Rigoberto, Dr.","AGUILERA GÓMEZ
+Eduardo, Dr."
+""IILI04040,Dibujo de Ingeniería,3,Ninguno,M2,16:00-17:30,,,16:00-17:30,,,Lab. Cómputo B,Por asignar,"LEDESMA OROZCO Elias
+Rigoberto, Dr.","AGUILERA GÓMEZ
+Eduardo, Dr."
+""IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A305,"AGUILERA CORTÉS Luz Antonio,
+Dr.","CERVANTES SÁNCHEZ J.
+Jesús, Dr.","COLÍN VENEGAS José, Dr."
+""IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A306,"CERVANTES SÁNCHEZ J. Jesús, Dr.","COLÍN VENEGAS José, Dr.","RICO MARTÍNEZ José
+María, Dr."
+""IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A304,"COLÍN VENEGAS José, Dr.","GARCÍA MURILLO Mario
+Alberto, Dr.","CERVANTES SÁNCHEZ J.
+Jesús, Dr."
+""IILI04042,Dinámica de la Partícula,3,Estática,M1,14:00-15:30,,,14:00-15:30,,,A301,"COLÍN VENEGAS José, Dr.","AGUILERA CORTÉS Luz
+Antonio, Dr.","RICO MARTÍNEZ José
+María, Dr."
+""IILI04042,Dinámica de la Partícula,3,Estática,M3,14:00-15:30,,,14:00-15:30,,,Aula Lab. Termo.,"GARCÍA MURILLO Mario Alberto,
+Dr.","AGUILERA CORTÉS Luz
+Antonio, Dr.","RICO MARTÍNEZ José
+María, Dr."
+""IILI04042,Dinámica de la Partícula,3,Estática,M2,14:00-15:30,,,14:00-15:30,,,Aula Taller Mec.,"RICO MARTÍNEZ José María, Dr.","COLÍN VENEGAS José, Dr.","GARCÍA MURILLO Mario
+Alberto, Dr."
+""IILI04043,Dinámica de Maquinaria,3,"Dinámica de Cuerpo
+Rígido",M1,10:00-11:30,,,10:00-11:30,,,Aula Taller Mec.,"CERVANTES SÁNCHEZ J. Jesús, Dr.","GONZALEZ PALACIOS
+Maximino Antonio, Dr.","GARCÍA MURILLO Mario
+Alberto, Dr."
+""IILI04045,Diseño de Elementos de Máquinas,3,Diseño Mecánico,M1,10:00-11:30,,,10:00-11:30,,,A304,"VIDAL LESSO Agustín, Dr.","AGUILERA GOMEZ Eduardo,
+Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI04046,Diseño de Experimentos y Probabilístico,3,"Diseño Mecánico,
+Probabilidad y
+Estadística",M1,08:00-9:30,,,08:00-9:30,,,Aula Lab. Termo.,"LEDESMA OROZCO Elias
+Rigoberto, Dr.","VIDAL LESSO Agustin, Dr.","AGUILERA GOMEZ
+Eduardo, Dr."
+""IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,16:00-17:40,,16:00-17:40,16:00-17:40,,,A304,"GUTIERREZ RIVERA Miguel
+Ernesto, Dr.","BALVANTÍN GARCÍA Antonio
+de Jesús, Dr.","AGUILERA GÓMEZ
+Eduardo, Dr."
+""IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,16:00-17:40,,16:00-17:40,16:00-17:40,,,A305,"HERNÁNDEZ PÉREZ Adrián, Dr.","BALVANTÍN GARCÍA Antonio
+de Jesús, Dr.","AGUILERA GÓMEZ
+Eduardo, Dr."
+""IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,,14:20-16:00,14:20-16:00,,14:20-16:00,,Aula Lab. Termo.,"VIDAL LESSO Agustín, Dr.","BALVANTÍN GARCÍA Antonio
+de Jesús, Dr.","AGUILERA GÓMEZ
+Eduardo, Dr."
+""IILI04168,Diseño y Aplicación de Materiales Compuestos,3,"Ciencia de Materiales
+para Ingeniería
+Mecánica",M1,10:00-11:30,,,10:00-11:30,,,A305,"RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA José
+Angel, Dr.","BALVANTIN GARCIA
+Antonio de Jesus, Dr."
+""NELI06005,Ecuaciones Diferenciales,4,Cálculo Integral,M1,,12:00-14:00,,,12:00-14:00,,A201,"AGUILERA CORTÉS Luz Antonio,
+Dr.","RAMÍREZ ELIAS Víctor
+Alfonso, Dr.","RAZO HERNÁNDEZ Claudia,
+M.I."
+""NELI06006,Electromagnetismo y Ondas,4,Ninguno,M1,,16:00-18:00,,,16:00-18:00,,A201,"RAZO MEDINA Daniel Alberto, Dr.","BALVANTÍN GARCÍA Antonio
+de Jesús, Dr.","HERNÁNDEZ RODRIGUEZ
+Erick Noe, Dr."
+""EALI03009,Espíritu Emprendedor,2,Ninguno,M1,,,16:00-18:00,,,,A201,"RODRÍGUEZ GARCÍA Juan Manuel ,
+C.P.","ZALETA AGUILAR Alejandro,
+Dr.","GARRIDO ACEVES Paulina
+Lizeth, Lic."
+""IILI04055,Estática,3,Cálculo Integral,M3,08:00-9:30,,,08:00-9:30,,,Aula Taller Mec.,"NEGRETE ROMERO Guillermo, M.
+en I.","BALVANTIN GARCIA Antonio
+de Jesus, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI04055,Estática,3,Cálculo Integral,M1,08:00-9:30,,,08:00-9:30,,,Aula Lab. Manuf.,"PLASCENCIA MORA Héctor, Dr.","BALVANTIN GARCIA Antonio
+de Jesus, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI04055,Estática,3,Cálculo Integral,M4,,08:00-9:30,,,08:00-9:30,,Aula Taller Mec.,"DIOSDADO DE LA PEÑA José
+Angel, Dr.","BALVANTIN GARCIA Antonio
+de Jesus, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI04055,Estática,3,Cálculo Integral,M2,,08:00-9:30,,,08:00-9:30,,Aula Lab. Manuf.,"RAMÍREZ ELIAS Víctor Alfonso, Dr.","BALVANTIN GARCIA Antonio
+de Jesus, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""SHLI03019,Formación Cultural e Intercultural,2,Ninguno,M1,,,12:00-14:00,,,,A201,"GARRIDO ACEVES Paulina Lizeth,
+Lic.","GUEVARA RAMÍREZ Nadia
+Olivia, Lic.","PLASCENCIA MORA Héctor,
+Dr."
+"",FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
+"",FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB ""A""", "VAN AMERONGEN Saskia, Dra.",,
+""IILI06060,Fundamentos de Ingeniería Eléctrica,4,70 Créditos,M1,10:00-12:00,,,10:00-12:00,,,A306,"HERNÁNDEZ RODRÍGUEZ Eric Noé,
+Dr.","CANO ANDRADE Sergio, Dr.","LEDESMA OROZCO Elias
+Rigoberto, Dr."
+""IILI06061,Fundamentos de los Sistemas de Información,4,Ninguno,NI-M1,,10:00-12:00,,,10:00-12:00,,A201,"NÚÑEZ ALTAMIRANO Diego
+Alfredo, Dr.","TORRES DEL CARMEN Felipe
+de Jesús, Dr.","LUVIANO ORTIZ, Jose Luis,
+Dr."
+""IILI06061,Fundamentos de los Sistemas de Información,4,Ninguno,NI-M2,,10:00-12:00,,,10:00-12:00,,A301,"RAMÍREZ SILVA Marco Aurelio,
+Ing.","TORRES DEL CARMEN Felipe
+de Jesús, Dr.","LUVIANO ORTIZ, Jose Luis,
+Dr."
+""IILI03065,Impacto Ambiental,2,160 Créditos,M1,,,12:00-14:00,,,,A306,"ROJAS SALINAS Wilma Betzabé,
+Q.F.B.","VIOLANTE GAVIRA Amanda
+Enriqueta, Mtra.","ZALETA AGUILAR
+Alejandro, Dr."
+""EALI03014,Ingeniería Económica,2,90 Créditos,M1,,,14:00-16:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro,
+Dr.","PLASCENCIA MORA Héctor,
+Dr."
+""EALI03014,Ingeniería Económica,2,90 Créditos,M2,,,16:00-18:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro,
+Dr.","PLASCENCIA MORA Héctor,
+Dr."
+""EALI04016,Ingenieria Industrial y de Métodos,3,"Algebra Lineal;
+Ingeniería Económica",M1,,12:00-13:30,,,12:00-13:30,,Aula Taller Mec.,"ALMANZA ROBLES Francisco
+Javier, Ing.","DIOSDADO DE LA PEÑA José
+Angel, Dr.","AGUILERA GOMEZ
+Eduardo, Dr."
+"",INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
+"",INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
+"",INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
+"",INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
+"",INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
+"",INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel,
+MATSOL",,
+"",INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
+"",INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
+""ACLI10001,Inmersión en el Ambiente Laboral,0,200 Créditos,M1,,,,,,08:00-10:00,A201,"DIOSDADO DE LA PEÑA José
+Angel, Dr.","ZALETA AGUILAR Alejandro,
+Dr.","LEDESMA OROZCO Elias
+Rigoberto, Dr."
+""IILI04070,Instalaciones Industriales,3,"Transferencia de Calor;
+Procesos de
+Manufactura; Dibujo de",M1,,18:00-19:30,,,18:00-19:30,,A201,"PÉREZ CARETA Eduardo, M.I.","VIOLANTE GAVIRA Amanda
+Enriqueta, Mtra.","CANO ANDRADE Sergio, Dr."
+""SHLI01041,Integración a la Vida Universitaria,1,Ninguno,NI-M1,,,08:00-09:00,,,,A201,"GUEVARA RAMÍREZ Nadia Olivia,
+Lic.","DIOSDADO DE LA PEÑA José
+Angel, Dr.","GARRIDO ACEVES Paulina
+Lizeth, Lic."
+""SHLI01041,Integración a la Vida Universitaria,1,Ninguno,NI-M2,,,09:00-10:00,,,,A301,"GUEVARA RAMÍREZ Nadia Olivia,
+Lic.","DIOSDADO DE LA PEÑA José
+Angel, Dr.","GARRIDO ACEVES Paulina
+Lizeth, Lic."
+""IILI02075,Laboratorio de Mediciones,2,Ninguno,M1,,8:00-10:00,,,,,Lab. Electrónica,"CANEDO ROMERO Gerardo
+Enrique, M.I.","BALVANTIN GARCIA Antonio
+de Jesus, Dr.","CAPILLA GONZÁLEZ
+Gustavo, Dr."
+""IILI02075,Laboratorio de Mediciones,2,Ninguno,M2,,,,,8:00-10:00,,Lab. Electrónica,Por asignar,"BALVANTIN GARCIA Antonio
+de Jesus, Dr.","CAPILLA GONZÁLEZ
+Gustavo, Dr."
+""IILI03078,Manufactura Avanzada,3,150 Créditos,M1,10:00-11:30,,,10:00-11:30,,,Celdas de Manuf.,"AGUILERA GÓMEZ Eduardo, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI03078,Manufactura Avanzada,3,150 Créditos,M5,,,08:00-11:00,,,,Celdas de Manuf.,"BALVANTÍN GARCÍA Antonio de
+Jesús, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI03078,Manufactura Avanzada,3,150 Créditos,M6,,,11:00-14:00,,,,Celdas de Manuf.,"BALVANTÍN GARCÍA Antonio de
+Jesús, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI03078,Manufactura Avanzada,3,150 Créditos,M3,,10:00-11:30,,,10:00-11:30,,Celdas de Manuf.,"MARTÍNEZ RAMÍREZ Israel, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI03078,Manufactura Avanzada,3,150 Créditos,M2,12:00-13:30,,,12:00-13:30,,,Celdas de Manuf.,"REVELES ARREDONDO Juan
+Francisco, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI03081,Máquinas Hidráulicas y Neumáticas,3,"Termodinámica;
+Mecánica de Fluidos",M1,14:00-15:30,,,14:00-15:30,,,A304,"ZALETA AGUILAR Alejandro, Dr.","BELMAN FLORES
+Juan Manuel, Dr.","ELIZALDE BLANCAS
+Francisco, Dr."
+""IILI06083,Mecánica de Fluidos,5,"Ecuaciones
+Diferenciales",M1,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Lab. Manuf.,"DAMIÁN ASCENCIO César
+Eduardo, Dr.","HERNANDEZ GUERRERO
+Abel, Dr.","BELMAN FLORES
+Juan Manuel, Dr."
+""IILI06083,Mecánica de Fluidos,5,"Ecuaciones
+Diferenciales",M2,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Taller Mec.,"LUVIANO ORTÍZ José Luis, Dr.","HERNANDEZ GUERRERO
+Abel, Dr.","BELMAN FLORES
+Juan Manuel, Dr."
+""IILI06083,Mecánica de Fluidos,5,"Ecuaciones
+Diferenciales",M2,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Lab. Termo.,"RIESCO ÁVILA José Manuel, Dr.","HERNANDEZ GUERRERO
+Abel, Dr.","BELMAN FLORES
+Juan Manuel, Dr."
+""IILI06084,Mecánica de Sólidos,5,Estática,M2,,12:00-14:00,13:00-14:00,,12:00-14:00,,A304,"NEGRETE ROMERO Guillermo, M.
+en I.","RAMÍREZ ELIAS Víctor
+Alfonso, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI06084,Mecánica de Sólidos,5,Estática,M1,,08:00-9:40,08:00-9:40,,08:00-9:40,,A305,"PLASCENCIA MORA Héctor, Dr.","RAMÍREZ ELIAS Víctor
+Alfonso, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI03085,Mecánica de Sólidos Avanzada,3,Mecánica de Sólidos,M1,,08:30-10:00,,,08:30-10:00,,A304,"HERNÁNDEZ PÉREZ Adrián, Dr.","RAMÍREZ ELIAS Víctor
+Alfonso, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""NELI04011,Métodos Numéricos,3,Cálculo Integral,M2,,10:00-11:30,,,10:00-11:30,,A306,"RAZO HERNÁNDEZ Claudia, M.I.","RANGEL HERNANDEZ Victor
+Hugo, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""NELI04011,Métodos Numéricos,3,Cálculo Integral,M1,16:00-17:30,,,16:00-17:30,,,A301,"RAZO MEDINA Daniel Alberto, Dr.","RANGEL HERNANDEZ Victor
+Hugo, Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI04092,Motores de Combustión Interna,3,Termodinámica,M1,,16:00-17:30,,,16:00-17:30,,Aula Lab. Manuf.,"RIESCO ÁVILA José Manuel, Dr.","HERNANDEZ GUERRERO
+Abel, Dr.","LUVIANO ORTIZ, Jose Luis,
+Dr."
+""IILI06094,Plantas Térmicas y Uso Racional de la Energía,5,"Termodinámica;
+Mecánica de Fluidos",M1,,08:00-9:40,08:00-9:40,,08:00-9:40,,Aula Lab. Termo.,"ZALETA AGUILAR Alejandro, Dr.","BELMAN FLORES
+Juan Manuel, Dr.","CANO ANDRADE Sergio, Dr."
+""NELI06014,Probabilidad y Estadística,4,Cálculo Integral,M1,,16:00-18:00,,,16:00-18:00,,A301,"ARELLANO VELÁZQUEZ Noé
+Ricardo, Ing.","VIDAL LESSO Agustín, Dr.","LEDESMA OROZCO Elias
+Rigoberto, Dr."
+""IILI04098,Procesos de Corte,3,"Ciencia de Materiales
+para Ingeniería
+Mecánica",M1,,10:00-11:30,,,10:00-11:30,,Aula Taller Mec.,"NEGRETE ROMERO Guillermo, M.
+en I.","AGUILERA GOMEZ Eduardo,
+Dr.","DIOSDADO DE LA PEÑA
+Jose Angel, Dr."
+""IILI04099,Procesos de Manufactura,3,"Ciencia de Materiales
+para Ingeniería
+Mecánica",M1,,14:00-15:30,,,14:00-15:30,,Aula Taller Mec.,"AGUILERA GÓMEZ Eduardo, Dr.","LEDESMA OROZCO Elias
+Rigoberto, Dr.",VIDAL LESSO Agustin Dr.
+""EALI06037,Proyectos en Ingeniería,4,120 Créditos,M1,14:00-16:00,,,14:00-16:00,,,A306,"VIOLANTE GAVIRA Amanda
+Enriqueta, Mtra.","PLASCENCIA MORA Héctor,
+Dr.","ZALETA AGUILAR
+Alejandro, Dr."
+""NELI06016,Química Universitaria,4,Ninguno,NI-M2,10:00-12:00,,,10:00-12:00,,,A301,"ROJAS SALINAS Wilma Betzabé,
+Q.F.B.","HERNÁNDEZ PÉREZ Adrian,
+Dr.","HERNÁNDEZ RODRIGUEZ
+Erick Noe, Dr."
+""NELI06016,Química Universitaria,4,Ninguno,NI-M1,10:00-12:00,,,10:00-12:00,,,A201,"VIOLANTE GAVIRA Amanda
+Enriqueta, Mtra.","HERNÁNDEZ RODRIGUEZ
+Erick Noe, Dr.","HERNÁNDEZ PÉREZ Adrian,
+Dr."
+""SHLI03063,Responsabilidad Social,2,Ninguno,M2,,,14:00-16:00,,,,A306,"GARRIDO ACEVES Paulina Lizeth,
+Lic.","RODRÍGUEZ GARCÍA Juan
+Manuel , C.P.","LEDESMA OROZCO Elias
+Rigoberto, Dr."
+""SHLI03063,Responsabilidad Social,2,Ninguno,M1,,,14:00-16:00,,,,A304,ORTEGA ZÚÑIGA Lourdes Paulina.,"RODRÍGUEZ GARCÍA Juan
+Manuel , C.P.","LEDESMA OROZCO Elias
+Rigoberto, Dr."
+""IILI04112,Robótica,3,"Análisis y Síntesis de
+Mecanismos",M1,,07:00-08:30,,,07:00-08:30,,A304,"GARCÍA MURILLO Mario Alberto,
+Dr.","RICO MARTINEZ Jose Maria,
+Dr.","CERVANTES SANCHEZ Jose
+Jesus, Dr."
+""SHLI03065,Seminario de Proy. de Titulación,2,220 Créditos,M1,,,08:00-10:00,,,,Aula Lab. Manuf.,"MARTÍNEZ MARTÍNEZ Ricardo,
+M.I.","VIDAL LESSO Agustín, Dr.","CANO ANDRADE Sergio, Dr."
+""IILI04120,Sistemas de Control,3,120 Créditos,M1,16:00-17:30,,,16:00-17:30,,,Aula Lab. Manuf.,"TORRES DEL CARMEN Felipe de
+Jesús, Dr.","GONZALEZ PALACIOS
+Maximino Antonio, Dr.","NÚÑEZ ALTAMIMRANO
+Diego Armando, Dr."
+""IILI03165,"Taller de
+Diseño",3,"Diseño de Elementos
+de Máquinas",,,14:00-15:30,,,14:00-15:30,,A306,"GUTIERREZ RIVERA Miguel
+Ernesto, Dr.","LEDESMA OROZCO Elias
+Rigoberto, Dr.","PLASCENCIA MORA Héctor,
+Dr."
+""IILI06130,Termodinámica,5,Cálculo Integral,M3,08:00-9:40,,08:00-9:40,08:00-9:40,,,A306,"CANO ANDRADE Sergio, Dr.","ELIZALDE BLANCAS Francisco,
+Dr.","DAMIAN ASCENCIO Cesar
+Eduardo, Dr."
+""IILI06130,Termodinámica,5,Cálculo Integral,M1,08:00-9:40,,08:00-9:40,08:00-9:40,,,A304,"HERNÁNDEZ GUERRERO Abel, Dr.","ELIZALDE BLANCAS Francisco,
+Dr.","DAMIAN ASCENCIO Cesar
+Eduardo, Dr."
+""IILI03164,Termoeconomía,3,"Termodinámica;
+Ingenieria Economica",M1,,16:00-17:30,,,16:00-17:30,,A305,"RANGEL HERNÁNDEZ Víctor Hugo,
+Dr.","ZALETA AGUILAR Alejandro,
+Dr.","BELMAN FLORES
+Juan Manuel, Dr."
+""IILI06138,Transferencia de Calor,5,"Termodinámica;
+Ecuaciones
+Diferenciales",M1,10:00-11:40,,10:00-11:40,10:00-11:40,,,Aula Lab. Manuf.,"ELIZALDE BLANCAS Francisco, Dr.","LUVIANO ORTIZ, Jose Luis, Dr.","DAMIAN ASCENCIO Cesar
+Eduardo, Dr."
+""IILI06138,Transferencia de Calor,5,"Termodinámica;
+Ecuaciones
+Diferenciales",M1,10:00-11:40,,10:00-11:40,10:00-11:40,,,Aula Lab. Termo.,"HERNÁNDEZ GUERRERO Abel, Dr.","LUVIANO ORTIZ, Jose Luis, Dr.","DAMIAN ASCENCIO Cesar
+Eduardo, Dr."
+""IILI06142,Turbomáquinas y Equipos Térmicos,5,"Mecánica de Fluidos;
+Transferencia de Calor",M1,14:00-15:40,,14:00-15:40,14:00-15:40,,,A305,"LUVIANO ORTÍZ José Luis, Dr.","ZALETA AGUILAR Alejandro,
+Dr.","RIESCO AVILA Jose Manuel,
+Dr."
+""IILI06143,Vibraciones Mecánicas,4,"Dinámica de Cuerpo
+Rígido",M1,,14:00-16:00,,,14:00-16:00,,A304,"COLÍN VENEGAS José, Dr.","GONZÁLEZ PALACIOS
+Maximino Antonio, Dr.","TORRES DEL CARMEN
+Felipe de Jesús, Dr."
