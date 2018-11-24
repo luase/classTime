@@ -1,11 +1,11 @@
 Keycode,Name,Hours At Week
-IILI06146,(SISTEMAS ELÉCTRICOS EN MEDIA  Y ALTA,4
-ILLI06006,ALTA TENSIÓN,6
-IILI06009,ANÁLISIS DE SISTEMAS ELÉCTRICOS DE POTENCIA,4
+IILI06146,Sistemas Electricos en Media y Alta,4
+ILLI06006,Alta Tensión,6
+IILI06009,Analisis de Sistemas Electricos de Potencia,4
 SHLI03001,Administración de Proyecto de Tesis,2
 IILI06001,Administración de la Tecnología Informática,4
 IILI03002,Aire Acondicionado y Refrigeración,3
-NELI06001,Algebra Lineal,4
+NELI06001,Álgebra Lineal,4
 IILI06004,Algoritmos y Estructuras de Datos,4
 ARLI06002,Animación Digital  I,4
 IILI06007,Análisis de Circuitos Eléctricos en Frecuencia,4
@@ -19,26 +19,21 @@ ARLI04005,Apreciación Musical,3
 ARLI06006,Arte del Siglo XX y Últimas Tendencias,4
 ARLI06007,Arte y Tecnología,4
 ARLI04008,Arte y Visualidad de la Prehistoria al Siglo XIX,4
-IILI06015,CALIDAD DE LA ENERGIA,4
-IILI06016,CENTRALES ELÉCTRICAS,4
-IILI06018,CIENCIA DE LOS MATERIALES,4
-IILI06020,CIRCUITOS ELÉCTRICOS DE C.A.,4
-IILI06021,CIRCUITOS ELÉCTRICOS DE C.D.,4
-IILI04029,CONTROL CONTINUO,3
-IILI04030,CONTROL DE EQUIPO ELÉCTRICO,3
-IILI06035,COORDINACIÓN DE PROTECCIONES,4
+IILI06015,Calidad de la Energía,4
+IILI06016,Centrales Electrícas,4
+IILI06018,Ciencia de los Materiales,4
+IILI06021,Circuitos Eléctricos De C.D.,4
+IILI04029,Control Continuo,3
+IILI04030,Control de Equipo Eléctrico,3
+IILI06035,Coordinación de Protecciones,4
 NELI06002,Calculo Diferencial,4
-NELI06004,Calculo Vectorial Multivariable,5
-IILI06018,Ciencia de Materiales para Ingeniería,4
 IILI04017,Ciencia de Materiales para Ingeniería Mecánica,3
-IILI06018,Ciencia de materiales para Ingeniería,4
 IILI06022,Circuitos Electrónicos,4
 IILI06019,Circuitos Eléctricos,4
 IILI03023,Circuitos Hidráulicos y Neumáticos,3
 IILI06024,Circuitos Integrados Lineales,4
 EALI05003,Comercio Internacional,4
 IILI06025,Compiladores,4
-EALI04005,Comportamiento Oganizacional,3
 EALI04005,Comportamiento Organizacional,3
 EALI04004,Comportamiento del Consumidor,3
 SHLI06024,Comunicación Oral y Escrita,3
@@ -49,23 +44,15 @@ IILI04029,Control Continuo,3
 IILI04031,Control Discreto,3
 IILI04033,Controladores Lógicos Programables,4
 EALI04007,Cultura de la Calidad,3
-NELI06002,CÁLCULO DIFERENCIAL,4
-NELI06003,CÁLCULO INTEGRAL,4
-NELI06004,CÁLCULO VECTORIAL Y MULTIVARIABLE,5
-IILI06014,CÁLCULO Y MODELADO DE REDES ELÉCTRICAS,4
-,Cálculo Diferencial,4
-NELI06002,Cálculo Diferencial (Repetidores),4
 NELI06003,Cálculo Integral,4
-NELI06004,Cálculo Vectorial y Multivariable,5
-SHLI03009,DESARROLLO HUMANO Y COMUNICACIÓN,2
-IILI06006,DETECCIÓN DE FALLAS EN MÁQUINAS ELÉCTRICAS,4
-IILI04040,DIBUJO EN INGENIERÍA,3
-IILI06047,DISEÑO DE MAQUINAS ELÉCTRICAS,4
-SHLI03009,Desarrollo Humano y Comunicación,2
+IILI06014,Cálculo y Modelado de Redes Eléctricas,4
+NELI06004,Cálculo Vectorial y Multiváriable,5
+IILI06006,Detección de Fallas en Maquinas Eléctricas,4
+IILI04040,Dibujo en Ingeniería,3
+IILI06047,Diseño de Maquina Eléctricas,4
 SHLI03009,Desarrollo Humano y comunicación,2
 IILI04036,Desarrollo de Nuevos Productos,3
 IILI06037,Desarrollo de Software,4
-IILI04040,Dibujo de Ingeniería,3
 IILI04041,Dinámica de Cuerpo Rígido,3
 IILI04043,Dinámica de Maquinaria,3
 IILI04042,Dinámica de la Partícula,3
@@ -77,66 +64,53 @@ IILI04045,Diseño de Elementos de Máquinas,3
 IILI04046,Diseño de Experimentos y Probabilístico,3
 ARLI06010,Diseño de Publicaciones para Plataformas Digitales,4
 IILI04168,Diseño y Aplicación de Materiales Compuestos,3
-NELI06005,ECUACIONES DIFERENCIALES,4
-NELI06006,ELECTROMAGNETÍSMO Y ONDAS,4
-IILI06052,ELECTRÓNICA DE POTENCIA,4
-EALI03009,ESPÍRITU EMPRENDEDOR,2
-SHLI03018,EXPRESIÓN VERBAL EN EL AMBIENTE LABORAL,3
 NELI06005,Ecuaciones Diferenciales,4
+NELI06006,Electromagnetismo y ondas,4
+IILI06052,Electrónica de Potencia,4
 ARLI06013,Edición de Audio Digital,4
-NELI06006,Electromagnetismo y Ondas,4
 IILI06051,Electrónica Analógica,4
 IILI06053,Electrónica Digital,4
-EALI03008,Emprendurismo Social,3
+EALI03008,Emprendúrismo Social,3
 EALI03009,Espíritu Emprendedor,2
-NELI05003,Estadística Descriptiva e Inferencial,4
+NELI05003,Estadística Descriptiva e Inférencial,4
 ARLI06014,Estudios Visuales,4
 IILI04055,Estática,3
 SHLI03018,Expresión Verbal en Ambiente Profesional,2
-SHLI03019,FORMACIÓN CULTURAL E INTERCULTURAL,2
 ,FRANCES A1.1,4
 ,FRANCES A2.1,4
-IILI06059,FUENTES RENOVABLES DE ENERGÍA,4
-IILI06061,FUNDAMENTOS DE LOS SISTEMAS DE INFORMACIÓN,4
+IILI06059,Fuentes Renovables de Energía,4
 IILI06056,Fibras Ópticas,4
 SHLI03019,Formación Cultural e Intercultural,2
-SHLI03019,Formación Cultural e intercultural,2
 SHLI03020,"Formulación, Delimitación y Elaboración de Protocolo de Tesis",3
 ARLI06016,"Fotografía, Ilustración y Diseño",4
 IILI03058,Fuentes no Convencionales de Energía,3
 ARLI06017,Fundamentos de Audio Digital,4
 IILI06060,Fundamentos de Ingeniería Eléctrica,4
 IILI06062,Fundamentos de los Sistemas Eléctricos,4
-IILI06061,Fundamentos de los Sistemas de Información,4
 IILI06061,Fundamentos de los sistemas de información,4
 ARLI06018,Fundamentos del Diseño y Objetos Vectoriales,4
 ARLI06019,Fundamentos y Edición de Video,4
 NELI04008,Física de Semiconductores,3
 IILI06063,Geometría Computacional,4
 EALI05012,Gestión Financiera,4
-EALI03014,INGENIERÍA ECONÓMICA,2
-EALI03015,INGENIERÍA INDUSTRIAL,2
+EALI03014,Ingeniería Económica,2
+EALI03015,Ingeniería Industrial,2
 ,INGLÉS 1A,4
 ,INGLÉS 1B,4
 ,INGLÉS 2A,4
 ,INGLÉS 2B,4
 ,INGLÉS 3A,4
-SHLI03065,INMERSIÓN EN EL AMBIENTE LABORAL,2
-IILI06069,INSTALACIONES ELÉCTRICAS,4
-SHLI01041,INTEGRACIÓN A LA VIDA UNIVERSITARIA,1
-IILI06074,INTRODUCCIÓN A LAS REDES INTELIGENTES,4
+SHLI03065,Inmersión en el Ambiente Laboral,2
+IILI06069,Instalaciones Eléctricas,4
+IILI06074,Introducción a las Redes Inteligentes,4
 IILI03065,Impacto Ambiental,2
 EALI05013,Implementación de Estrategias,4
 IILI06066,Informática Industrial,4
-EALI04016,Ingenieria Industrial y de Métodos,3
-EALI03014,Ingeniería Económica,2
+EALI04016,Ingeniería Industrial y de Métodos,3
 IILI06068,Ingeniería de Software,4
-ACLI10001,Inmersión en el Ambiente Laboral,0
 EALI03050,Innovación y Desarrollo Tecnológico,3
 IILI04070,Instalaciones Industriales,3
 IILI06072,Instrumentación Digital,4
-SHLI01041,Integración a la Vida Universitaria,1
-SHLI01041,Integración a la Vida Universitaria (N. I.),1
 SHLI01041,Integración a la vida Universitaria,1
 IILI06073,Inteligencia Artificial,4
 EALI06013,Inteligencia Competitiva,3
@@ -146,8 +120,7 @@ SHLI06025,Legislación Empresarial,4
 ARLI06020,Lenguaje Audiovisual,4
 EALI03011,Logística Internacional,3
 IILI04077,Logística y Cadenas de Suministros,3
-NELI06010,MECÁNICA,4
-IILI04086,MEDICIONES ELÉCTRICAS,3
+IILI04086,Mediciones Eléctricas,3
 EALI06021,Macroeconomía,4
 IILI03078,Manufactura Avanzada,3
 EALI06022,Matemáticas Aplicadas,4
@@ -164,37 +137,34 @@ SHLI04005,Metodología de la Investigación,3
 ARLI06021,Metodología y Visualidad en el Diseño,4
 EALI06028,Microeconomía,4
 IILI06088,Microondas,4
-IILI06089,Microprocesadores y Microcontroladores,4
+IILI06089,Microprocesadores y Microcontróladores,4
 ARLI06022,Modelado 3D,4
 IILI04092,Motores de Combustión Interna,3
 ARLI06023,Multimedia,4
-IILI06079,MÁQUINAS DE C.D. Y TRANSFORMADORES,4
-IILI06082,MÁQUINAS SÍNCRONAS Y ASÍNCRONAS,4
-NELI04011,MÉTODOS NUMÉRICOS,3
+IILI06079,Máquinas de C.D. Y Transformadores,4
+IILI06082,Máquinas Síncronas Y Asíncrona,4
+NELI04011,Métodos Númericos,3
 IILI03081,Máquinas Hidráulicas y Neumáticas,3
 EALI06027,Métodos Cuantitativos,4
-NELI04011,Métodos Numéricos,3
 EALI04029,Negocios Electrónicos,3
 EALI06053,Negocios Sustentables,3
-IILI06064,OPTATIVA DISCIPLINAR (Programación Científica),4
-IILI06026,OPTATIVA PROFUNDIZACIÓN (Robótica Móvil),4
-IILI06114,OPTATIVA PROFUNDIZACIÓN (Seguridad en Redes),4
+IILI06064,Optativa Disciplinar (Programación Científica),4
+IILI06026,Optativa Profundización (Robótica Móvil),4
+IILI06114,Optativa Profundización (Seguridad en Redes),4
 EALI06031,Obligaciones Fiscales,4
 IILI06093,Optoelectrónica,4
-IILI04105,PROGRAMACIÓN EN INGENIERÍA ELÉCTRICA,3
-EALI06037,PROYECTOS DE INGENIERÍA,4
+IILI04105,Programación en Ingeniería Eléctrica,3
 ARLI04025,Pensamiento Creativo y Materiales,3
 EALI05032,Plan de Negocios,3
 EALI05033,Planeación Estratégica,4
 IILI06094,Plantas Térmicas y Uso Racional de la Energía,5
 NELI06014,Probabilidad y Estadística,4
 IILI06097,Procesamiento Digital de Señales,4
-IILI06096,Procesamiento de Datos. Diseño Generativo,4
+IILI06096,Procesamiento de Datos,4
 NELI05015,Procesos Estocásticos,4
 IILI04098,Procesos de Corte,3
 IILI04099,Procesos de Manufactura,3
 EALI03008,Procuración de Fondos,3
-,Prodiedad Industrial y Transferencia de Tecnología,4
 IILI05100,Producción y Manufactura,4
 IILI06106,Programación Interactiva,4
 IILI06107,Programación Orientada a Objetos,4
@@ -202,29 +172,22 @@ IILI06104,Programación en Ingeniería,4
 EALI05036,Proyecto Empresarial de Base Tecnológica,3
 SHLI03058,Proyecto de Tesis,3
 ARLI06026,Proyectos de Instalación,4
-,Proyectos en Ingeniería,4
 EALI06037,Proyectos en ingeniería,4
 EALI03038,Psicología de la Empresa,3
 ARLI04027,Psicología de la Percepción,3
-NELI06016,QUÍMICA UNIVERSITARIA,4
 NELI06016,Química Universitaria,4
-SHLI03062,REDACCIÓN DE CV Y ENTREVISTA DE TRABAJO,3
-SHLI03063,RESPONSABILIDAD SOCIAL,2
 EALI04039,Recursos Humanos,3
 SHLI03062,Redacción de CV y Entrevista de Trabajo,2
 IILI06110,Redes de Computadoras I,4
 IILI06111,Redes de Computadoras II,4
 SHLI03063,Responsabilidad Social,2
 IILI04112,Robótica,3
-ACLI10001,SEMINARIO DE PROYECTO DE TITULACIÓN,2
-IILI06115,SEÑALES Y SISTEMAS,4
-IILI06121,SISTEMAS DE DISTRIBUCIÓN,4
-IILI04129,SUBESTACIONES ELÉCTRICAS,4
+IILI06115,Señales y Sistemas,4
+IILI06121,Sistemas de Distribución,4
+IILI04129,Subestaciones Eléctricas,4
 EALI04040,Sectores Empresariales,3
 EALI03050,Seminario de Desarrollo Tecnológico,3
-SHLI03065,Seminario de Proy. de Titulación,2
 SHLI03065,Seminario de Proyecto de Titulación,2
-SHLI03065,Seminario de Proyecto deTitulación,2
 ARLI06028,Semiótica y Visualidad,4
 IILI06115,Señales y Sistemas,4
 IILI04118,Simulación de Sistemas Mecatrónicos,3
@@ -240,7 +203,6 @@ IILI06123,Sistemas de la Comunicación,4
 IILI06128,Sistemas Ópticos de Comunicación,4
 EALI03042,Sistematización de Datos,3
 ARLI06029,Sublime Contemporáneo,4
-NELI06017,TEORÍA ELECTROMAGNÉTICA,4
 ARLI06031,Taller de Arte I Fotografía creativa y retoque digital,4
 ARLI06035,Taller de Arte Sonoro,4
 ARLI06036,Taller de Arte Tipografía aplicada al arte,4
@@ -259,6 +221,4 @@ IILI06142,Turbomáquinas y Equipos Térmicos,5
 IILI06136,Tópico Selecto en Sistemas Computacionales (Programación en JAVA),4
 EALI04014,Tópicos Selectos de Desarrollo Tecnológico,3
 IILI06143,Vibraciones Mecánicas,4
-NELI06001,ÁLGEBRA LINEAL,4
-NELI06001,Álgebra Lineal,4
 NELI06013,Óptica y Acústica,4

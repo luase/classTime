@@ -2,16 +2,15 @@ Keycode,Name,Hours At Week
 SHLI03001,Administración de Proyecto de Tesis,2
 IILI06007,Análisis de Circuitos Eléctricos en Frecuencia,4
 IILI06008,Análisis de Circuitos Eléctricos en Tiempo,4
-IILI06018,Ciencia de Materiales para Ingeniería,4
+IILI06018,Ciencia de los Materiales,4
 IILI06022,Circuitos Electrónicos,4
 IILI06024,Circuitos Integrados Lineales,4
 IILI04029,Control Continuo,3
 IILI04031,Control Discreto,3
-NELI06002,Cálculo Diferencial,4
-NELI06002,Cálculo Diferencial (Repetidores),4
+NELI06002,Calculo Diferencial,4
 NELI06003,Cálculo Integral,4
-NELI06004,Cálculo Vectorial y Multivariable,5
-SHLI03009,Desarrollo Humano y Comunicación,2
+NELI06004,Cálculo Vectorial y Multiváriable,5
+SHLI03009,Desarrollo Humano y comunicación,2
 IILI04044,Diseño de Circuitos Impresos,3
 NELI06005,Ecuaciones Diferenciales,4
 IILI06053,Electrónica Digital,4
@@ -34,7 +33,7 @@ SHLI01041,Integración a la Vida Universitaria,1
 IILI02075,Laboratorio de Mediciones,2
 NELI06010,Mecánica,4
 IILI06088,Microondas,4
-IILI06089,Microprocesadores y Microcontroladores,4
+IILI06089,Microprocesadores y Microcontróladores,4
 NELI04011,Métodos Numéricos,3
 IILI06093,Optoelectrónica,4
 NELI06014,Probabilidad y Estadística,4
@@ -48,7 +47,6 @@ SHLI03062,Redacción de CV y Entrevista de Trabajo,2
 IILI06110,Redes de Computadoras I,4
 SHLI03063,Responsabilidad Social,2
 SHLI03065,Seminario de Proyecto de Titulación,2
-SHLI03065,Seminario de Proyecto deTitulación,2
 IILI06115,Señales y Sistemas,4
 IILI06125,Sistemas Digitales,4
 IILI06126,Sistemas Electrónicos de Potencia,4
