@@ -1,17 +1,16 @@
 Keycode,Name,Hours At Week
 IILI03002,Aire Acondicionado y Refrigeración,3
-NELI06001,Algebra Lineal,4
+NELI06001,Álgebra Lineal,4
 IILI04010,Análisis y Síntesis de Mecanismos,3
 NELI06002,Calculo Diferencial,4
-NELI06004,Calculo Vectorial Multivariable,5
-IILI06018,Ciencia de Materiales para Ingeniería,4
+NELI06004,Cálculo Vectorial y Multiváriable,5
+IILI06018,Ciencia de los Materiales,4
 IILI04017,Ciencia de Materiales para Ingeniería Mecánica,3
 IILI03023,Circuitos Hidráulicos y Neumáticos,3
 IILI04033,Controladores Lógicos Programables,4
-NELI06002,Cálculo Diferencial (Repetidores),4
 NELI06003,Cálculo Integral,4
 SHLI03009,Desarrollo Humano y Comunicación,2
-IILI04040,Dibujo de Ingeniería,3
+IILI04040,Dibujo en Ingeniería,3
 IILI04041,Dinámica de Cuerpo Rígido,3
 IILI04043,Dinámica de Maquinaria,3
 IILI04042,Dinámica de la Partícula,3
@@ -55,7 +54,7 @@ EALI06037,Proyectos en Ingeniería,4
 NELI06016,Química Universitaria,4
 SHLI03063,Responsabilidad Social,2
 IILI04112,Robótica,3
-SHLI03065,Seminario de Proy. de Titulación,2
+SHLI03065,Seminario de Proyecto de Titulación,2
 IILI04120,Sistemas de Control,3
 IILI03165,Taller de Diseño,3
 IILI06130,Termodinámica,5
