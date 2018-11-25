@@ -1,5 +1,5 @@
 """
-WSGI config for classtime project.
+WSGI config for classTime project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'classtime.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'classTime.settings')
 
 application = get_wsgi_application()
