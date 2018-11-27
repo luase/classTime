@@ -11,7 +11,7 @@ professors = [
     )
     for index, row in tmp_data.iterrows()
 ]
-Profesor.objects.bulk_create(professors)
+Professor.objects.bulk_create(professors)
 
 # para importar los datos de las materias
 
