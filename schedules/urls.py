@@ -7,8 +7,8 @@ urlpatterns = [
     # ex: /schedules/
     path('', views.IndexView.as_view(), name='index'),
 
-    # # ex: /schedules/course/5
-    # path('course/<int:pk>/', views.CourseView.as_view(), name='course'),
+    # ex: /schedules/career/
+    path('/career/', views.CareerView.as_view(), name='career'),
 
     # # ex: /events/user/23/followers
     # path('user/<int:pk>/followers',

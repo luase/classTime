@@ -8,7 +8,7 @@
   {% if career_list %}
   {% for career in career_list %}
   <div class="careerchoice">
-    <a href="">{{career}}</a>
+    <a href="{% url 'schedules:career' career.id %}">{{career}}</a>
   </div>
   {% endfor %}
   {% else %}

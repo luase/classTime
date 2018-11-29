@@ -18,6 +18,13 @@ class IndexView(generic.ListView):
     def get_queryset(self):
         return Career.objects.all()
 
+# view para la pagina de las carreras
+
+
+class CareerView(generic.DetailView):
+    model = Career
+    template_name = 'schedules/career.html'
+
 # view para los cursos
 
 #
