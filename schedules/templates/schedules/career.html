@@ -1,14 +1,18 @@
 <div class="title">
-  classTime
+  <h1>classTime</h1>
 </div>
 <div class="container">
-  <div class="subtitle">
-    Materias
-  </div>
+  <h4>
+    <div class="subtitle">
+      Materias
+    </div>
+  </h4>
   <div class="texto">
     Selecciona materias para crear tu horario
   </div>
-  {% for subject in career.subject.all %}
-  {{subject}}
+  {% for entry in career.subjects.all %}
+  <div class="option">
+    {{entry.subject.name}}
+  </div>
   {% endfor %}
 </div>

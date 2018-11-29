@@ -8,7 +8,7 @@ urlpatterns = [
     path('', views.IndexView.as_view(), name='index'),
 
     # ex: /schedules/career/
-    path('/career/', views.CareerView.as_view(), name='career'),
+    path('career/<int:pk>/', views.CareerView.as_view(), name='career'),
 
     # # ex: /events/user/23/followers
     # path('user/<int:pk>/followers',

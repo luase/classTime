@@ -50,8 +50,10 @@ class Schedule(models.Model):
 class Career_Subject(models.Model):
     class Meta:
         unique_together = (('career', 'subject'))
-    career = models.ForeignKey(Career, on_delete=models.CASCADE)
-    subject = models.ForeignKey(Subject, on_delete=models.CASCADE)
+    career = models.ForeignKey(
+        Career, on_delete=models.CASCADE, related_name='subjects')
+    subject = models.ForeignKey(
+        Subject, on_delete=models.CASCADE, related_name='career')
 
     def __str__(self):
         return self.career.name + " - " + self.subject.name
