@@ -1,566 +1,566 @@
-""NELI06001,Algebra Lineal,4,Ninguno,A1 NI,,12:00-14:00,,,12:00-14:00,,307,"MARTÍNEZ ROMERO Elizabeth, Mtra.","PÉREZ CRESPO José Armando, Dr.","HERNÁNDEZ BELMONTE Uriel Haile, Dr."
-""NELI06001,Algebra Lineal,4,Ninguno,A2 NI,,10:00-12:00,,,10:00-12:00,,209,"MARTÍNEZ ROMERO Elizabeth, Mtra.","PÉREZ CRESPO José Armando, Dr.","GÓMEZ SARABIA Cristina Margarita, Dra."
-""ARLI06002,Animación Digital  I,4,147 Créditos,A,18:00-20:00,,,18:00-20:00,,,103,"REGALADO VILLALOBOS Jesús Gerardo, Lic.","PÉREZ CRESPO José Armando, Dr.","MORENO ORTIZ Benjamín Roberto, Mtro."
-""ARLI06004,Apreciación Cinematográfica,4,127 Créditos,A,16:00-18:00,,,16:00-18:00,,,307,"REYES ESPINO Víctor Manuel, Mtro.","PÉREZ CRESPO José Armando, Dr.","GARCILITA DURÁN Francisco, Mtro."
-""ARLI04005,Apreciación Musical,3,Ninguno,A,07:00-8:30,,,07:00-8:30,,,204,"MATA RODRÍGUEZ Alejandro, Lic.","PÉREZ CRESPO José Armando, Dr.","HERRERA DELGADO Pedro, Lic."
-""ARLI06006,Arte del Siglo XX y Últimas Tendencias,4,"Teoria del Arte y la Estética Cursada y Aprobada",A2,14:00-16:00,,,14:00-16:00,,,204,"GRANADOS VÁZQUEZ Clara Carmina Lic.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
-""ARLI06006,Arte del Siglo XX y Últimas Tendencias,4,"Teoria del Arte y la Estética Cursada y Aprobada",A1,10:00-12:00,,,10:00-12:00,,,103,"GRANADOS VÁZQUEZ Clara Carmina Lic.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
-""ARLI06007,Arte y Tecnología,4,127 Créditos,A,,08:00-10:00,,,08:00-10:00,,307,"THOMPSON LÓPEZ Reynaldo, Dr.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
-""ARLI04008,Arte y Visualidad de la Prehistoria al Siglo XIX,4,Ninguno,A1 NI,10:00-12:00,,,10:00-12:00,,,307,"MENDOZA MORENO Claudia, Mtra.","PÉREZ CRESPO José Armando, Dr.","GRANADOS VÁZQUEZ Clara Carmina Lic."
-""ARLI04008,Arte y Visualidad de la Prehistoria al Siglo XIX,4,Ninguno,A2 NI,08:00-10:00,,,08:00-10:00,,,209,"MENDOZA MORENO Claudia, Mtra.","PÉREZ CRESPO José Armando, Dr.","GRANADOS VÁZQUEZ Clara Carmina Lic."
-""EALI04005,Comportamiento Oganizacional,3,Ninguno,A,08:30-10:00,,,08:30-10:00,,,204,"JIMÉNEZ BARCENAS Eduardo, Mtro.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
-""SHLI03009,Desarrollo Humano y Comunicación,2,Ninguno,A1 NI,,,07:00-09:00,,,,307,"MATA RODRÍGUEZ Alejandro, Lic.","PÉREZ CRESPO José Armando, Dr.","MENDOZA MORENO Claudia, Mtra."
-""SHLI03009,Desarrollo Humano y Comunicación,2,Ninguno,A2 NI,,,12:00-14:00,,,,209,"JIMÉNEZ BARCENAS Eduardo, Mtro.","PÉREZ CRESPO José Armando, Dr.","MENDOZA MORENO Claudia, Mtra."
-""ARLI06010,Diseño de Publicaciones para Plataformas Digitales,4,Ninguno,A,,10:00-12:00,,,10:00-12:00,,"LAB A", "GURIEVA Natalia, Dra.","PÉREZ CRESPO José Armando, Dr.","MORENO ORTIZ Benjamín Roberto, Mtro."
-""ARLI06012,Diseño Multimedia Interactivo I,4,"Programación Interactiva Cursada y Aprobada",A,,16:00-18:00,,,16:00-18:00,,204,"AGUILAR JARAMILLO Luis Jesús, Lic.","PÉREZ CRESPO José Armando, Dr.","MORENO ORTIZ Benjamín Roberto, Mtro."
-""ARLI06011,Diseño Multimedia Interactivo II,4,"Diseño Multimedia Interactivo I Cursada y Aprobada",A,,14:00-16:00,,,14:00-16:00,,204,"AGUILAR JARAMILLO Luis Jesús, Lic.","PÉREZ CRESPO José Armando, Dr.","MORENO ORTIZ Benjamín Roberto, Mtro."
-""ARLI06013,Edición de Audio Digital,4,"Fundamentos de Audio Digital Cursada y Aprobada",A1,,14:00-16:00,,,14:00-16:00,,307,"HERRERA DELGADO Pedro, Lic.","PÉREZ CRESPO José Armando, Dr.","AGUILAR JARAMILLO Luis Jesús, Lic."
-""ARLI06013,Edición de Audio Digital,4,"Fundamentos de Audio Digital Cursada y Aprobada",A2,,16:00-18:00,,,16:00-18:00,,307,"HERRERA DELGADO Pedro, Lic.","PÉREZ CRESPO José Armando, Dr.","AGUILAR JARAMILLO Luis Jesús, Lic."
-""EALI03009,Espíritu Emprendedor,2,Ninguno,A2,,,12:00-14:00,,,,307,"MENDOZA MORENO Claudia, Mtra.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ BARCENAS Eduardo, Mtro."
-""EALI03009,Espíritu Emprendedor,2,Ninguno,A1,,,08:00-10:00,,,,103,"PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr.","JIMÉNEZ BARCENAS Eduardo, Mtro."
-""ARLI06014,Estudios Visuales,4,"Arte del Siglo XX y Últimas Tendencias Cursada y Aprobada",A,,14:00-16:00,,,14:00-16:00,,103,"Mukhopadhyay Tirtha Prasad, Dr.","PÉREZ CRESPO José Armando, Dr.","REYES ESPINO Víctor Manuel, Mtro."
-""SHLI03019,Formación Cultural e Intercultural,2,Ninguno,A1,,,10:00-12:00,,,,307,"MATA RODRÍGUEZ Alejandro, Lic.","PÉREZ CRESPO José Armando, Dr.","MENDOZA MORENO Claudia, Mtra."
-""SHLI03019,Formación Cultural e Intercultural,2,Ninguno,A2,,,10:00-12:00,,,,209,"JIMÉNEZ BARCENAS Eduardo, Mtro.","PÉREZ CRESPO José Armando, Dr.","MENDOZA MORENO Claudia, Mtra."
-""SHLI03020,"Formulación, Delimitación y Elaboración de Protocolo de Tesis",3,Ninguno,A,,08:00-9:30,,,08:00-9:30,,"CUBÍCULO BIBLIOTECA","REYES ESPINO Víctor Manuel, Mtro.","PÉREZ CRESPO José Armando, Dr.","ZÁRATE FLORES Alfredo, Dr."
-""ARLI06016,"Fotografía, Ilustración y Diseño",4,"Fundamentos del Diseño y Objetos Vectoriales Cursada y",A1,,08:00-10:00,,,08:00-10:00,,"LAB A","GURIEVA Natalia, Dra.","PÉREZ CRESPO José Armando, Dr.","GÓMEZ VILLANUEVA Brenda, L.D.G."
-"",FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
-"",FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A","VAN AMERONGEN Saskia, Dra.",,
-""ARLI06017,Fundamentos de Audio Digital,4,Apreciación Musical,A2,12:00-14:00,,,12:00-14:00,,,307,"MATA RODRÍGUEZ Alejandro, Lic.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
-""ARLI06017,Fundamentos de Audio Digital,4,Apreciación Musical,A1,10:00-12:00,,,10:00-12:00,,,204,"MATA RODRÍGUEZ Alejandro, Lic.","PÉREZ CRESPO José Armando, Dr.","HERRERA DELGADO Pedro, Lic."
-""ARLI06018,Fundamentos del Diseño y Objetos Vectoriales,4,"Teoría del Color Cursada y Aprobada",A,14:00-16:00,,,14:00-16:00,,,"LAB A","GÓMEZ VILLANUEVA Brenda, L.D.G.","PÉREZ CRESPO José Armando, Dr.","GURIEVA Natalia, Dra."
-""ARLI06019,Fundamentos y Edición de Video,4,"Lenguaje Audiovisual Cursadas y Aprobada",A,,,14:00-18:00,,,,307,"GRANADOS VÁZQUEZ Clara Carmina Lic.","PÉREZ CRESPO José Armando, Dr.","AGUILAR JARAMILLO Luis Jesús, Lic."
-""ARLI06019,Fundamentos y Edición de Video,4,"Lenguaje Audiovisual Cursadas y Aprobada",A,14:00-16:00,,,14:00-16:00,,,103,"AGUILAR JARAMILLO Luis Jesús, Lic.","PÉREZ CRESPO José Armando, Dr.","GRANADOS VÁZQUEZ Clara Carmina Lic."
-""IILI06063,Geometría Computacional,4,"Programación en Ingeniería Cursada y Aprobada",A,,16:00-18:00,,,16:00-18:00,,103,"HERNÁNDEZ BELMONTE Uriel Haile, Dr.","PÉREZ CRESPO José Armando, Dr.","MORENO ORTIZ Benjamín Roberto, Mtro."
-"",INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
-"",INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
-"",INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
-"",INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
-"",INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
-""SHLI01041,Integración a la Vida Universitaria,1,Ninguno,A1 NI,,,09:00-10:00,,,,307,"MENDOZA MORENO Claudia, Mtra.","PÉREZ CRESPO José Armando, Dr.","MENDOZA MORENO Claudia, Mtra."
-""SHLI01041,Integración a la Vida Universitaria,1,Ninguno,A2 NI,,,09:00-10:00,,,,209,"MATA RODRÍGUEZ Alejandro, Lic.","PÉREZ CRESPO José Armando, Dr.","MENDOZA MORENO Claudia, Mtra."
-""SHLI06045,Investigación y Publicación de Textos Académicos,4,Ninguno,A1 NI,,10:00-12:00,,,10:00-12:00,,307,"REYES ESPINO Víctor Manuel, Mtro.","PÉREZ CRESPO José Armando, Dr.","ZÁRATE FLORES Alfredo, Dr."
-""SHLI06045,Investigación y Publicación de Textos Académicos,4,Ninguno,A2 NI,,08:00-10:00,,,08:00-10:00,,209,"ZÁRATE FLORES Alfredo, Dr.","PÉREZ CRESPO José Armando, Dr.","REYES ESPINO Víctor Manuel, Mtro."
-""ARLI06020,Lenguaje Audiovisual,4,Ninguno,A1,,12:00-14:00,,,12:00-14:00,,209,"GARCILITA DURÁN Francisco, Mtro.","PÉREZ CRESPO José Armando, Dr.","Mukhopadhyay Tirtha Prasad, Dr."
-""ARLI06020,Lenguaje Audiovisual,4,Ninguno,A2,,12:00-14:00,,,12:00-14:00,,103,"Mukhopadhyay Tirtha Prasad, Dr.","PÉREZ CRESPO José Armando, Dr.","GARCILITA DURÁN Francisco, Mtro."
-""NELI06009,Matemáticas Discretas,4,Ninguno,A,,12:00-14:00,,,12:00-14:00,,204,"GÓMEZ SARABIA Cristina Margarita, Dra.","PÉREZ CRESPO José Armando, Dr.","MARTÍNEZ ROMERO Elizabeth, Mtra."
-""ARLI06021,Metodología y Visualidad en el Diseño,4,"Fotografía, Ilustración y Diseño Cursada y Aprobada",A2,16:00-18:00,,,16:00-18:00,,,103,"JIMÉNEZ ARREDONDO Víctor Hugo, Dr.","PÉREZ CRESPO José Armando, Dr.","GRANADOS VÁZQUEZ Clara Carmina Lic."
-""ARLI06022,Modelado 3D,4,Ninguno,A,16:00-18:00,,,16:00-18:00,,,209,"REGALADO VILLALOBOS Jesús Gerardo, Lic.","PÉREZ CRESPO José Armando, Dr.","AGUILAR JARAMILLO Luis Jesús, Lic."
-""ARLI06023,Multimedia,4,"Fundamentos y Edición de Video Cursada y Aprobada",A,12:00-14:00,,,12:00-14:00,,,204,"REGALADO VILLALOBOS Jesús Gerardo, Lic.","PÉREZ CRESPO José Armando, Dr.","AGUILAR JARAMILLO Luis Jesús, Lic."
-""ARLI04025,Pensamiento Creativo y Materiales,3,Ninguno,A1 NI,08:30-10:00,,,08:30-10:00,,,307,"PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr.","GÓMEZ VILLANUEVA Brenda, L.D.G."
-""ARLI04025,Pensamiento Creativo y Materiales,3,Ninguno,A2 NI,10:00-11:30,,,10:00-11:30,,,209,"PÉREZ CRESPO José Armando, Dr.","PÉREZ CRESPO José Armando, Dr.","GÓMEZ VILLANUEVA Brenda, L.D.G."
-""IILI06096,Procesamiento de Datos. Diseño Generativo,4,147 Créditos,A,,10:00-12:00,,,10:00-12:00,,204,"MORENO ORTIZ Benjamín Roberto, Mtro.","PÉREZ CRESPO José Armando, Dr.","HERNÁNDEZ BELMONTE Uriel Haile, Dr."
-""IILI06104,Programación en Ingeniería,4,Ninguno,A1,16:00-18:00,,,16:00-18:00,,,204,"LIZARRÁGA MORALES Rocío Alfonsina, Dra.","PÉREZ CRESPO José Armando, Dr.","LIZARRÁGA MORALES Rocío Alfonsina, Dra."
-""IILI06104,Programación en Ingeniería,4,Ninguno,A2,,08:00-10:00,,,08:00-10:00,,103,"HERNÁNDEZ BELMONTE Uriel Haile, Dr.","PÉREZ CRESPO José Armando, Dr.","HERNÁNDEZ BELMONTE Uriel Haile, Dr."
-""IILI06106,Programación Interactiva,4,"Programación Orientada a Objetos Cursada y Aprobada",A,,,14:00-18:00,,,,103,"MORENO ORTIZ Benjamín Roberto, Mtro.","PÉREZ CRESPO José Armando, Dr.","HERNÁNDEZ BELMONTE Uriel Haile, Dr."
-""IILI06107,Programación Orientada a Objetos,4,Ninguno,A1,,14:00-16:00,,,14:00-16:00,,209,"MORENO ORTIZ Benjamín Roberto, Mtro.","PÉREZ CRESPO José Armando, Dr.","HERNÁNDEZ BELMONTE Uriel Haile, Dr."
-""IILI06107,Programación Orientada a Objetos,4,Ninguno,A2,12:00-14:00,,,12:00-14:00,,,103,"MORENO ORTIZ Benjamín Roberto, Mtro.","PÉREZ CRESPO José Armando, Dr.","HERNÁNDEZ BELMONTE Uriel Haile, Dr."
-""SHLI03058,Proyecto de Tesis,3,"Formulación, Delimitación y Elaboración de",A,,12:00-13:30,,,12:00-13:30,,"CUBÍCULO BIBLIOTECA","ZÁRATE FLORES Alfredo, Dr.","PÉREZ CRESPO José Armando, Dr.","REYES ESPINO Víctor Manuel, Mtro."
-""ARLI06026,Proyectos de Instalación,4,117 Créditos,A,,,08:00-12:00,,,,204,"THOMPSON LÓPEZ Reynaldo, Dr.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
-""ARLI04027,Psicología de la Percepción,3,Teoría del Color,A,,8:30-10:00,,,08:30-10:00,,204,"GARCILITA DURÁN Francisco, Mtro.","PÉREZ CRESPO José Armando, Dr.","REYES ESPINO Víctor Manuel, Mtro."
-""SHLI03063,Responsabilidad Social,2,Ninguno,A1 NI,,,14:00-16:00,,,,209,"JIMÉNEZ BARCENAS Eduardo, Mtro.","PÉREZ CRESPO José Armando, Dr.","GRANADOS VÁZQUEZ Clara Carmina Lic."
-""SHLI03063,Responsabilidad Social,2,Ninguno,A2 NI,,,16:00-18:00,,,,209,"JIMÉNEZ BARCENAS Eduardo, Mtro.","PÉREZ CRESPO José Armando, Dr.","GRANADOS VÁZQUEZ Clara Carmina Lic."
-""ARLI06028,Semiótica y Visualidad,4,Ninguno,A,14:00-16:00,,,14:00-16:00,,,209,"REYES ESPINO Víctor Manuel, Mtro.","PÉREZ CRESPO José Armando, Dr.","GARCILITA DURÁN Francisco, Mtro."
-""IILI06127,Sistemas Operativos,4,147 Créditos,A,,,,,,10:00-14:00,307,"CANEDO MONTOYA Enrique Daniel, Ing.","PÉREZ CRESPO José Armando, Dr.","LIZARRÁGA MORALES Rocío Alfonsina, Dra."
-""ARLI06029,Sublime Contemporáneo,4,117 Créditos,A,,,12:00-16:00,,,,204,"THOMPSON LÓPEZ Reynaldo, Dr.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
-""ARLI06031,"Taller de Arte I Fotografía creativa y retoque digital",4,211 Créditos Cursados,A,,,10:00-14:00,,,,"LAB A","GURIEVA Natalia, Dra.","PÉREZ CRESPO José Armando, Dr.","GÓMEZ VILLANUEVA Brenda, L.D.G."
-""ARLI06035,Taller de Arte Sonoro,4,201 Créditos,A,,,,,,08:00-12:00,209,"HERRERA DELGADO Pedro, Lic.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
-""ARLI06036,Taller de Arte Tipografía aplicada al arte,4,201 Créditos,A,08:00-10:00,,,08:00-10:00,,,103,"JIMÉNEZ ARREDONDO Víctor Hugo, Dr.","PÉREZ CRESPO José Armando, Dr.","GURIEVA Natalia, Dra."
-""ARLI06037,Taller de Arte Video Mapping 3D,4,201 Créditos,A,,,10:00-14:00,,,,103,"MENDOZA ORNELAS Juanita del Carmen, Lic.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
-""ARLI06038,Temas Selectos de Animación,4,147 Créditos,A,16:00-18:00,,,16:00-18:00,,,"LAB A","AGUILAR JARAMILLO Luis Jesús, Lic.","PÉREZ CRESPO José Armando, Dr.","REGALADO VILLALOBOS Jesús Gerardo, Lic."
-""ARLI06039,Temas Selectos de Electrónica,4,147 Créditos,A,,,08:00-12:00,,,,106,"MARTÍNEZ ROMERO Elizabeth, Mtra.","PÉREZ CRESPO José Armando, Dr.","LIZARRÁGA MORALES Rocío Alfonsina, Dra."
-""ARLI06038,Temas Selectos Multimedia,4,147 Créditos,A,14:00-16:00,,,14:00-16:00,,,307,"REGALADO VILLALOBOS Jesús Gerardo, Lic.","PÉREZ CRESPO José Armando, Dr.","MORENO ORTIZ Benjamín Roberto, Mtro."
-""ARLI04041,Teoría del Color,3,Ninguno,A2 NI,12:00-13:30,,,12:00-13:30,,,208,"GÓMEZ SARABIA Cristina Margarita, Dra.","PÉREZ CRESPO José Armando, Dr.","GÓMEZ VILLANUEVA Brenda, L.D.G."
-""ARLI06042,Teorías del Arte y la Estética,4,Ninguno,A,,10:00-12:00,,,10:00-12:00,,103,"ZÁRATE FLORES Alfredo, Dr.","PÉREZ CRESPO José Armando, Dr.","Mukhopadhyay Tirtha Prasad, Dr."
-""NELI06001,Álgebra Lineal,4,Ninguno,NI-G1,,12:00-14:00,,,12:00-14:00,,A106,"OROS FLORES Marvella Izamar, M en I.","Lizárraga Morales Rocio A. Dra.","CANEDO MONTOYA Enrique Daniel, Ing."
-""NELI06001,Álgebra Lineal,4,Ninguno,NI-G2,,12:00-14:00,,,12:00-14:00,,A203,"ROSTRO GONZÁLEZ Horacio, Dr.","Lizárraga Morales Rocio A. Dra.","SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro."
-""EALI04002,Análisis de Factibilidad,3,Ninguno,G1,08:30-10:00,,,08:30-10:00,,,A203,"MACÍAS LÓPEZ Francisco, M.F.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-"",Cálculo Diferencial,4,Ninguno,G2,,08:00-10:00,,,08:00-10:00,,A205,"Salazar Villanueva Fernando, Mtro.","Lizárraga Morales Rocio A. Dra.","CANEDO MONTOYA Enrique Daniel, Ing."
-"",Cálculo Diferencial,4,Ninguno,G1,,10:00-12:00,,,10:00-12:00,,A208,"Salazar Villanueva Fernando, Mtro.","Lizárraga Morales Rocio A. Dra.","CANEDO MONTOYA Enrique Daniel, Ing."
-""EALI05003,Comercio Internacional,4,Ninguno,G1,,12:00-14:00,,,12:00-14:00,,A205,"CISNEROS REYES Yashiro Danahí, Mtra.","Lizárraga Morales Rocio A. Dra.","ESPINOZA RODRÍGUEZ Victor Manuel, Ing."
-""EALI04004,Comportamiento del Consumidor,3,Ninguno,NI-G1,14:30-16:00,,,14:30-16:00,,,A106,"Rodríguez García Juan Manuel, Mtro.","Lizárraga Morales Rocio A. Dra.","MAKI DÍAZ Griselda, Dra"
-""EALI04004,Comportamiento del Consumidor,3,Ninguno,NI-G2,14:30-16:00,,,14:30-16:00,,,A203,"GAMIÑO CONEJO Miriam, Mtra.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI04005,Comportamiento Organizacional,3,Ninguno,NI-G1,,,,,,08:00-11:00,A106,"SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""EALI04005,Comportamiento Organizacional,3,Ninguno,NI-G2,,,,,,08:00-11:00,A203,"MUÑOZ GONZÁLEZ, Marco Antonio, M.A.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""SHLI06024,Comunicación Oral y Escrita,3,Ninguno,G2,14:30-16:00,,,14:30-16:00,,,A205,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""SHLI06024,Comunicación Oral y Escrita,3,Ninguno,G1,16:00-17:30,,,16:00-17:30,,,A208,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""EALI06006,Contabilidad Financiera,4,Ninguno,NI-G1,16:00-18:00,,,16:00-18:00,,,A106,"MACÍAS LÓPEZ Francisco, M.F.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI06006,Contabilidad Financiera,4,Ninguno,NI-G2,16:00-18:00,,,16:00-18:00,,,A203,"MUÑOZ GONZÁLEZ, Marco Antonio, M.A.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""SHLI03007,Contexto Socioeconómico Internacional,3,Ninguno,G1,,10:30-12:00,,,10:30-12:00,,A106,"CISNEROS REYES Yashiro Danahí, Mtra.","Lizárraga Morales Rocio A. Dra.","ESPINOZA RODRÍGUEZ Victor Manuel, Ing."
-""SHLI03008,Contexto Socioeconómico Nacional,3,Ninguno,G1,18:00-19:30,,,18:00-19:30,,,A205,"MUÑOZ GONZÁLEZ, Marco Antonio, M.A.","Lizárraga Morales Rocio A. Dra.","CISNEROS REYES Yashiro Danahí, Mtra."
-""EALI04007,Cultura de la Calidad,3,Ninguno,G1,,12:00-13:30,,,12:00-13:30,,A308,"ARAIZA ORTÍZ Araceli Margarita, M.D.O.","Lizárraga Morales Rocio A. Dra.","BANDA GUZMÁN Judith, Dra."
-""IILI04036,Desarrollo de Nuevos Productos,3,Ninguno,G1,,14:30-16:00,,,14:30-16:00,,A205,"ROCHA IBARRA Jesús  Ernesto, Dr.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""AG0204,Desarrollo Humano y Comunicación,2,Ninguno,NI-G1,,,14:00-16:00,,,,A106,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""AG0204,Desarrollo Humano y Comunicación,2,Ninguno,NI-G2,,,14:00-16:00,,,,A203,"Rodríguez García Juan Manuel, Mtro.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""EALI03008,Emprendurismo Social,3,Ninguno,G1,,,,,,12:00-15:00,A205,"ARIAS VELÁZQUEZ Ma. Gabriela, M.D.O.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""AG0304,Espíritu Emprendedor,2,Ninguno,G2,,,08:00-10:00,,,,A205,"Rodríguez García Juan Manuel, Mtro.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
-""AG0304,Espíritu Emprendedor,2,Ninguno,G1,,,08:00-10:00,,,,A208,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""NELI05003,Estadística Descriptiva e Inferencial,4,Ninguno,G1,,18:00-20:00,,,18:00-20:00,,A106,"SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro.","Lizárraga Morales Rocio A. Dra.","CANEDO MONTOYA Enrique Daniel, Ing."
-""AG0504,Formación Cultural e Intercultural,2,Ninguno,G1,,,10:00-12:00,,,,A106,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-"",FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
-"",FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A","VAN AMERONGEN Saskia, Dra.",,
-""EALI05012,Gestión Financiera,4,Ninguno,G1,12:00-14:00,,,12:00-14:00,,,A106,"BANDA GUZMÁN Judith, Dra.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI05013,Implementación de Estrategias,4,Planeacion Estrategica,G1,,08:00-10:00,,,08:00-10:00,,A203,"MAKI DÍAZ Griselda, Dra","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-"",INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
-"",INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
-"",INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
-"",INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
-"",INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
-""EALI03050,Innovación y Desarrollo Tecnológico,3,Ninguno,G1,,16:30-18:00,,,16:30-18:00,,A308,"CANEDO MONTOYA Enrique Daniel, Ing.","Lizárraga Morales Rocio A. Dra.","CISNEROS REYES Yashiro Danahí, Mtra."
-""EALI03050,Innovación y Desarrollo Tecnológico,3,Ninguno,G1,,,16:00-19:00,,,,A306,"CANEDO MONTOYA Enrique Daniel, Ing.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
-""AG0104,Integración a la Vida Universitaria,1,Ninguno,NI-G1,,,16:00-17:00,,,,A106,"GONZÁLEZ RINCÓN Iván, M.F.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""AG0104,Integración a la Vida Universitaria,1,Ninguno,NI-G2,,,16:00-17:00,,,,A203,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI06013,Inteligencia Competitiva,3,Ninguno,G1,,,14:00-17:00,,,,A208,"ESPINOZA RODRÍGUEZ Victor Manuel, Ing.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
-""SHLI06025,Legislación Empresarial,4,Ninguno,G1,,,16:00-20:00,,,,A308,"MÉNDEZ SÁNCHEZ  Jorge Alberto, MF.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI03011,Logística Internacional,3,160 créditos cursados,G1,08:30-10:00,,,08:30-10:00,,,A308,"ESPINOZA RODRÍGUEZ Victor Manuel, Ing.","Lizárraga Morales Rocio A. Dra.","CISNEROS REYES Yashiro Danahí, Mtra."
-""IILI04077,Logística y Cadenas de Suministros,3,Ninguno,G1,10:30-12:00,,,10:30-12:00,,,A203,"ESPINOZA RODRÍGUEZ Victor Manuel, Ing.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""EALI06021,Macroeconomía,4,Calculo Diferencial,G1,10:00-12:00,,,10:00-12:00,,,A205,"LEÓN SÁNCHEZ María Mercedes, Dra.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
-""EALI06022,Matemáticas Aplicadas,4,Calculo Diferencial,G1,10:00-12:00,,,10:00-12:00,,,A106,"RODRÍGUEZ VILLALÓN Ovaldo, Dr.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""EALI04004,Matemáticas Financieras,3,Ninguno,G1,,,,,,12:00-15:00,A106,"SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI04024,Medición y Evaluación de la Calidad,3,"Estadistica Descriptiva e Inferencial",G2,,10:30-12:00,,,10:30-12:00,,A205,"ARAIZA ORTÍZ Araceli Margarita, M.D.O.","Lizárraga Morales Rocio A. Dra.","MAKI DÍAZ Griselda, Dra"
-""EALI05025,Mercadotecnia Estratégica,3,Ninguno,G1,,16:30-18:00,,,16:30-18:00,,A106,"SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro.","Lizárraga Morales Rocio A. Dra.","MAKI DÍAZ Griselda, Dra"
-""EALI03026,Mercadotecnia Internacional,3,Ningunao,G1,,,,,,09:00-12:00,A205,"ARIAS VELÁZQUEZ Ma. Gabriela, M.D.O.","Lizárraga Morales Rocio A. Dra.","CISNEROS REYES Yashiro Danahí, Mtra."
-""SHLI04005,Metodología de la Investigación,3,Ninguno,G1,08:30-10:00,,,08:30-10:00,,,A208,"CISNEROS REYES Yashiro Danahí, Mtra.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""EALI06027,Métodos Cuantitativos,4,Matematicas Aplicadas,G1,08:00-10:00,,,08:00-10:00,,,A205,"ALVARADO MÉNDEZ Ma. Concepción Dra.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
-""EALI06028,Microeconomía,4,Calculo Diferencial,G1,08:00-10:00,,,08:00-10:00,,,A106,"LEÓN SÁNCHEZ María Mercedes, Dra.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
-""EALI04029,Negocios Electrónicos,3,Ninguno,G1,18:00-19:30,,,18:00-19:30,,,A106,"CANEDO MONTOYA Enrique Daniel, Ing.","Lizárraga Morales Rocio A. Dra.","CISNEROS REYES Yashiro Danahí, Mtra."
-""EALI06053,Negocios Sustentables,3,Ninguno,G1,,,16:00-19:00,,,,A205,"MUÑOZ GONZÁLEZ, Marco Antonio, M.A.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI06031,Obligaciones Fiscales,4,Legislación Empresarial,G1,,10:00-12:00,,,10:00-12:00,,A308,"BANDA GUZMÁN Judith, Dra.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI05032,Plan de Negocios,3,120 Creditos,G1,10:00-11:30,,,10:00-11:30,,,A208,"MACÍAS LÓPEZ Francisco, M.F.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""EALI05033,Planeación Estratégica,4,Ninguno,G1,,12:00-14:00,,,12:00-14:00,,A208,"ALVARADO MÉNDEZ Ma. Concepción Dra.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI03008,Procuración de Fondos,3,Ninguno,G1,18:00-19:30,,18:00-19:30,,,,A208,"SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-"",Prodiedad Industrial y Transferencia de Tecnología,4,Ninguno,G1,,14:00-16:00,,,14:00-16:00,,A106,"MAKI DÍAZ Griselda, Dra","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""IILI05100,Producción y Manufactura,4,"Logistica y Cadenas de Suministro y Métodos Cuantitativos",G1,,,10:00-14:00,,,,A208,"ESPINOZA RODRÍGUEZ Victor Manuel, Ing.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""SHLI03058,Proyecto de Tesis,2,Ninguno,G1,,,08:00-10:00,,,,A203,"MEDINA CUELLAR Sergio Ernesto, Dr.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""EALI05036,Proyecto Empresarial de Base Tecnológica,3,Ninguno,G1,16:30-18:00,,,16:30-18:00,,,CTermofluidos,"RANGEL LEON María Catalina, L.G.E.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
-"",Proyectos en Ingeniería,4,120 Creditos,G1,12:00-14:00,,,12:00-14:00,,,A205,"MACÍAS LÓPEZ Francisco, M.F.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""EALI03038,Psicología de la Empresa,3,Ninguno,G1,,10:30-12:00,,,10:30-12:00,,A203,"ROCHA IBARRA Jesús  Ernesto, Dr.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
-""EALI04039,Recursos Humanos,3,Ninguno,G2,16:30-18:00,,,16:30-18:00,,,A205,"GARCÍA PÉREZ Álvaro, Mtro.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI04039,Recursos Humanos,3,Ninguno,G1,,16:30-18:00,,,16:30-18:00,,A208,"GARCÍA PÉREZ Álvaro, Mtro.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""AG0404,Responsabilidad Social,2,Ninguno,G1,,,12:00-14:00,,,,A106,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI04040,Sectores Empresariales,3,Ninguno,G1,07:00-08:30,,,07:00-08:30,,,A208,"MEDINA CUELLAR Sergio Ernesto, Dr.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI03050,Seminario de Desarrollo Tecnológico,3,Ninguno,G1,12:00-13:30,,,12:00-13:30,,,A203,"ESPINOZA RODRÍGUEZ Victor Manuel, Ing.","Lizárraga Morales Rocio A. Dra.","CISNEROS REYES Yashiro Danahí, Mtra."
-""EALI06041,Sistemas de Costeo y Presupuestos,4,Contabilidad Financiera,G2,,16:00-18:00,,,16:00-18:00,,A205,"GONZÁLEZ RINCÓN Iván, M.F.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI06041,Sistemas de Costeo y Presupuestos,4,Contabilidad Financiera,G1,14:00-16:00,,,14:00-16:00,,,A208,"MACÍAS LÓPEZ Francisco, M.F.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
-""EALI03042,Sistematización de Datos,3,Ninguno,G1,,16:00-17:30,,,16:00-17:30,,A203,"FLORES LOZANO Sandra, Mtra.","Lizárraga Morales Rocio A. Dra.","CANEDO MONTOYA Enrique Daniel, Ing."
-""EALI04014,Tópicos Selectos de Desarrollo Tecnológico,3,160 Créditos,G1,,,14:00-17:00,,,,A103,"SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro.","Lizárraga Morales Rocio A. Dra.","CANEDO MONTOYA Enrique Daniel, Ing."
-""IILI06022,Circuitos Electrónicos,4,90 Créditos,C1,10:00-12:00,,,"10:00-12:00 BLabEle",,,B101,"CASTRO SÁNCHEZ Rogelio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""SHLI03001,Administración de Proyecto de Tesis,2,220 Créditos,C1,,,14:00-16:00,,,,A105,"OROS FLORES Marvella Izamar, M. en I","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06001,Álgebra Lineal,4,Ninguno,C1,10:00-12:00,,,10:00-12:00,,,A105,"IBARRA MANZANO Oscar Gerardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06007,Análisis de Circuitos Eléctricos en Frecuencia,4,"Análisis de Circuitos Eléctricos en Tiempo",C1,14:00-16:00,,,14:00-16:00,,,A105,"AVIÑA CERVANTES Juan Gabriel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06008,Análisis de Circuitos Eléctricos en Tiempo,4,Ninguno,C1,,14:00-16:00,,,14:00-16:00,,B101,"REYES AYONA José Roberto, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06002,Cálculo Diferencial,4,Ninguno,NI-C1,08:00-10:00,,,08:00-10:00,,,B101,"ALMANZA OJEDA Dora Luz, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06002,Cálculo Diferencial (Repetidores),4,Ninguno,S2,18:00-20:00,,,18:00-20:00,,,A310,"ALFARO NAVARRO José Juan, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06003,Cálculo Integral,4,Cálculo Diferencial,REC-C2,16:00-18:00,,,16:00-18:00,,,B101,"MARQUEZ FIGUEROA Sandra M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06003,Cálculo Integral,4,Cálculo Diferencial,C1,,08:00-10:00,,,08:00-10:00,,B101,"SIERRA HERNÁNDEZ Juan Manuel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06004,Cálculo Vectorial y Multivariable,5,Cálculo Integral,C1,,08:00-10:00,09:00-10:00,,08:00-10:00,,A302,"IBARRA MANZANO Oscar Gerardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,C1,,10:00-12:00,,,10:00-12:00,,A105,"ZAMORA GARCIA Ileana del Rocio, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06024,Circuitos Integrados Lineales,4,120 créditos,C1,,12:00-14:00,,,"12:00-14:00 BLabEle",,B101,"HERNÁNDEZ FUSILIER Donato, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI04029,Control Continuo,3,Señales y Sistemas,C1,14:00-15:30,,,14:00-15:30,,,A302,"TORRES ZÚÑIGA Jesús Ixbalank, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI04031,Control Discreto,3,Control Continuo,C1,,14:00-15:30,,,14:00-15:30,,A105,"MARTIN-DIAZ Ignacio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""SHLI03009,Desarrollo Humano y Comunicación,2,Ninguno,NI-C1,,,10:00-12:00,,,,A105,"ZÀRATE BANDA Ma. Magdalena, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI04044,Diseño de Circuitos Impresos,3,Ninguno,C1,,,12:00-15:00,,,,A302,"MATAJIRA RUEDA David, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06005,Ecuaciones Diferenciales,4,Cálculo Integral,C1,12:00-14:00,,,12:00-14:00,,,A309,"SIERRA HERNÁNDEZ Juan Manuel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06053,Electrónica Digital,4,"Laboratorio de Mediciones",C1,"10:00-12:00 BLabEle",,,10:00-12:00,,,B101,"CAMARENA MARTÍNEZ David, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""EALI03009,Espíritu Emprendedor,2,Ninguno,C1,,,10:00-12:00,,,,A302,"ZÀRATE BANDA Ma. Magdalena, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06056,Fibras Ópticas,4,Ninguno,C1,12:00-14:00,,,12:00-14:00,,,A105,"ROJAS LAGUNA Roberto, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI04008,Física de Semiconductores,3,Ninguno,C1,,16:00-17:30,,,16:00-17:30,,A302,"SHULIKA Oleksiy, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""SHLI03019,Formación Cultural e Intercultural,2,Ninguno,C1,,,12:00-14:00,,,,A309,"VAN AMERONGEN Saskia, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-"",FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
-"",FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A","VAN AMERONGEN Saskia, Dra.",,
-""IILI06066,Informática Industrial,4,"Microprocesadores y Microcontroladores",C1,16:00-18:00,,,16:00-18:00,,,A309,"MARTIN-DIAZ Ignacio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""EALI03014,Ingeniería Económica,2,90 Créditos,M1,,,14:00-16:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
-""EALI03014,Ingeniería Económica,2,90 Créditos,M2,,,16:00-18:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
-"",INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
-"",INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
-"",INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
-"",INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
-"",INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
-""ACLI10001,Inmersión en el Ambiente Laboral,0,200 Créditos,C1,,,,,,,,"TRUJILLO ROMERO Felipe de Jesús, Dr.","LIZÁRRAGA MORALES Rocío Alfonsina, Dra.","IBARRA MANZANO Mario Alberto, Dr."
-""IILI06072,Instrumentación Digital,4,Sistemas de Medición,C1,,"12:00-14:00 BLabEle",,,12:00-14:00,,B101,"AVIÑA CERVANTES Juan Gabriel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""SHLI01041,Integración a la Vida Universitaria,1,Ninguno,NI-C1,,,09:00-10:00,,,,A309,"ZÀRATE BANDA Ma. Magdalena, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI02075,Laboratorio de Mediciones,2,Ninguno,C1,,,10:00-12:00,,,,BLabEle,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06010,Mecánica,4,Ninguno,NI-C1,,10:00-12:00,,,10:00-12:00,,B101,"BELMAN FLORES Juan Manuel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI04011,Métodos Numéricos,3,Cálculo Integral,C1,14:00-15:30,,,14:00-15:30,,,B101,"IBARRA MANZANO Mario Alberto, Dr.","LIZÁRRAGA MORALES Rocío Alfonsina, Dra.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06088,Microondas,4,Ninguno,C1,,16:00-18:00,,,16:00-18:00,,A105,"REYES AYONA José Roberto, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06089,Microprocesadores y Microcontroladores,4,Electrónica Digital,C1,12:00-14:00,,,"12:00-14:00 BLabEle",,,B101,"CERDA VILLAFAÑA Gustavo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06013,Óptica y Acústica,4,Ninguno,C1,12:00-14:00,,,12:00-14:00,,,A302,"ANDRADE LUCIO José Amparo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06093,Optoelectrónica,4,Ninguno,C1,08:00-10:00,,,08:00-10:00,,,A309,"ANDRADE LUCIO José Amparo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06014,Probabilidad y Estadística,4,Cálculo Integral,C1,10:00-12:00,,,10:00-12:00,,,A302,"GARCÍA PÉREZ Arturo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06097,Procesamiento Digital de Señales,4,Señales y Sistemas,C1,,16:00-18:00,,,16:00-18:00,,B101,"SEVERIANO CARRILLO Israel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI05015,Procesos Estocásticos,4,Ninguno,C1,,10:00-12:00,,,10:00-12:00,,A302,"GARCÍA PÉREZ Arturo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06104,Programación en Ingeniería,4,Ninguno,C1,08:00-10:00,,,08:00-10:00,,,A105,"IBARRA MANZANO Mario Alberto, Dr.","LIZÁRRAGA MORALES Rocío Alfonsina, Dra.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06107,Programación Orientada a Objetos,4,"Programación en Ingeniería",S1,12:00-14:00,,,12:00-14:00,,,A310,"LEDESMA OROZCO Sergio Eduardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""EALI06037,Proyectos en Ingeniería,4,80 Créditos,C1,08:00-10:00,,,08:00-10:00,,,A302,"ZÀRATE BANDA Ma. Magdalena, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06016,Química Universitaria,4,Ninguno,NI-C1,,12:00-14:00,,,12:00-14:00,,A302,"ZAMORA GARCIA Ileana del Rocio, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""SHLI03062,Redacción de CV y Entrevista de Trabajo,2,Ninguno,C1,,,,,,12:00-14:00,A309,"ALMANZA OJEDA María Yanet, Lic.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06110,Redes de Computadoras I,4,"Sistemas de Administración de Datos",S1,,16:00-18:00,,,16:00-18:00,,A104,"TURRUBIATES GARCÍA Héctor, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""SHLI03063,Responsabilidad Social,2,Ninguno,NI-C1,,,12:00-14:00,,,,A105,"ZÀRATE BANDA Ma. Magdalena, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""SHLI03065,Seminario de Proyecto de Titulación,2,Ninguno,C1,,,10:00-12:00,,,,A303,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""SHLI03065,Seminario de Proyecto deTitulación,2,220 créditos,S1,,,12:00-14:00,,,,A303,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06115,Señales y Sistemas,4,90 Créditos,C1,,14:00-16:00,,,14:00-16:00,,A309,"SHMALIY Yuriy, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06123,Sistemas de la Comunicación,4,Ninguno,C1,,08:00-10:00,,,08:00-10:00,,A309,"VEGA CORONA Antonio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06125,Sistemas Digitales,4,Electrónica Digital,C1,,10:00-12:00,,,10:00-12:00,,A309,"TRUJILLO ROMERO Felipe de Jesús, Dr.","LIZÁRRAGA MORALES Rocío Alfonsina, Dra.","IBARRA MANZANO Mario Alberto, Dr."
-""IILI06126,Sistemas Electrónicos de Potencia,4,Circuitos Electrónicos,C1,"12:00-14:00 BLabEle",,,12:00-14:00,,,B101,"CASTRO SÁNCHEZ Rogelio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06128,Sistemas Ópticos de Comunicación,4,Ninguno,C1,,12:00-14:00,,,12:00-14:00,,A309,"ESTUDILLO AYALA Julián Moisés, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06017,Teoría Electromagnética,4,Ninguno,C1,,12:00-14:00,,,12:00-14:00,,A105,"ALVARADO MÉNDEZ Edgar, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06001,ÁLGEBRA LINEAL,4,Ninguno,E1-NI,14:00-16:00,,,14:00-16:00,,,207,"GUTIÉRREZ MARTÍNEZ Víctor Javier, Dr.",,
-""ILLI06006,ALTA TENSIÓN,6,"ELECTROMAGNETÍSMO Y ONDAS",E1,08:00-10:00,,,08:00-10:00,,,L.ELECT.(1),"GONZALEZ PARADA, Adrián, Dr.",,
-""IILI06009,ANÁLISIS DE SISTEMAS ELÉCTRICOS DE POTENCIA,4,"CÁLCULO Y MODELADO DE REDES ELÉCTRICAS",E1,10:00-12:00,,,10:00-12:00,,,L.ELECT.(1),"GÓMEZ MARTÍNEZ Miguel Ángel, Dr.",,
-""NELI06002,CÁLCULO DIFERENCIAL,4,Ninguno,E1-NI,08:00-10:00,,,08:00-10:00,,,312,"GUTIÉRREZ MARTÍN Heriberto, M.I.",,
-""NELI06003,CÁLCULO INTEGRAL,4,Cálculo Diferencial,E1,,12:00-14:00,,,12:00-14:00,,312,"RAMOS CARRANZA Hugo Antonio, Dr.",,
-""NELI06003,CÁLCULO INTEGRAL,4,Cálculo Diferencial,E2,,14:00-16:00,,,14:00-16:00,,L.ELECT.(2),"MACIAS AGUILERA Francisco Fidel, Ing.",,
-""NELI06004,CÁLCULO VECTORIAL Y MULTIVARIABLE,5,Cálculo Integral,E1,08:00-10:00,,08:00-09:00,08:00-10:00,,,207,"GONZÁLEZ RAMÍREZ Xiomara, Dra.",,
-""IILI06014,CÁLCULO Y MODELADO DE REDES ELÉCTRICAS,4,"CIRCUITOS ELÉCTRICOS DE C.A.",E1,,12:00-14:00,,,12:00-14:00,,L.ELECT.(2),"RODRÍGUEZ VILLALÓN Osvaldo, Dr.",,
-""IILI06015,CALIDAD DE LA ENERGIA,4,"Electrónica de Potencia Eficiencia Energética",E1,14:00-16:00,,,14:00-16:00,,,312,"RAZO GONZÁLEZ Pablo, Ing.",,
-""IILI06016,CENTRALES ELÉCTRICAS,4,"MÁQUINAS SÍNCRONAS Y ASÍNCRONAS",E1,,08:00-10:00,,,08:00-10:00,,207,"TURRUBIATES GARCÍA Héctor, Ing.",,
-""IILI06018,CIENCIA DE LOS MATERIALES,4,Química Universitaria,E1,,10:00-12:00,,,10:00-12:00,,L.QUIM.,"ZAMORA GARCÍA Ileana del Rocío, Dra.",,
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M2,,14:00-16:00,,,14:00-16:00,,A201,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M1,,10:00-12:00,,,10:00-12:00,,A304,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M4,,14:00-16:00,,,14:00-16:00,,A301,"HERNÁNDEZ RODRÍGUEZ Eric Noé, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M3,,10:00-12:00,,,10:00-12:00,,A305,"ROJAS SALINAS Wilma Betzabé, Q.F.B.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI06020,CIRCUITOS ELÉCTRICOS DE C.A.,4,"CIRCUITOS ELÉCTRICOS DE C.D.",E1,,10:00-12:00,,,10:00-12:00,,206,"PIZANO MARTÍNEZ Alejandro, Dr.",,
-""IILI06020,CIRCUITOS ELÉCTRICOS DE C.A.,4,"CIRCUITOS ELÉCTRICOS DE C.D.",E2,,10:00-12:00,,,10:00-12:00,,L.ELECT.(2),"RODRÍGUEZ VILLALÓN Osvaldo, Dr.",,
-""IILI06021,CIRCUITOS ELÉCTRICOS DE C.D.,4,"Ecuaciones Diferenciales",E1,10:00-12:00,,,10:00-12:00,,,206,"ZAMORA CÁRDENAS Enrique Arnoldo, Dr.",,
-""IILI06021,CIRCUITOS ELÉCTRICOS DE C.D.,4,"Ecuaciones Diferenciales",E2,16:00-18:00,,,16:00-18:00,,,L.ELECT.(1),"GUTIÉRREZ MARTÍNEZ Víctor Javier, Dr.",,
-""IILI04029,CONTROL CONTINUO,3,Señales y sistemas,E1,14:00-15:30,,,14:00-15:30,,,206,"REYES BUENFIL Irving Willihado, Ing.",,
-""IILI04030,CONTROL DE EQUIPO ELÉCTRICO,3,"CIRCUITOS ELÉCTRICOS DE C.D. y TRANSFORMADORES",E1,12:00-13:30,,,12:00-13:30,,,L.ELECT.(2),"REYES BUENFIL Irving Willihado, Ing.",,
-""IILI06035,COORDINACIÓN DE PROTECCIONES,4,"Análisis de sistemas eléctricos de potencia",E1,16:00-18:00,,,16:00-18:00,,,207,"JUAREZ REQUENA Miguel Angel, M.I.",,
-""SHLI03009,DESARROLLO HUMANO Y COMUNICACIÓN,2,Ninguno,E1,,,10:00-12:00,,,,206,"BOLIVAR ALONZO Sofía, Lic.",,
-""IILI06006,DETECCIÓN DE FALLAS EN MÁQUINAS ELÉCTRICAS,4,"Electrónica de potencia y eficiencia energética",E1,12:00-14:00,,,12:00-14:00,,,L.ELECT.(1),"GONZALEZ PARADA, Adrián, Dr.",,
-""IILI04040,DIBUJO EN INGENIERÍA,3,Ninguno,E1,,12:00-13:30,,,12:00-13:30,,L.ELECT.(1),"REYES BUENFIL Irving Willihado, Ing.",,
-""IILI06047,DISEÑO DE MAQUINAS ELÉCTRICAS,4,"MÁQUINAS SÍNCRONAS Y ASÍNCRONAS",E1,08:00-10:00,,,08:00-10:00,,,206,"HERNÁNDEZ ROBLES, IVAN ABEL, DR.",,
-""NELI06005,ECUACIONES DIFERENCIALES,4,Cálculo Integral,E1,,14:00-16:00,,,14:00-16:00,,312,"ROSALES GARCÍA Juan, Dr.",,
-""NELI06006,ELECTROMAGNETÍSMO Y ONDAS,4,Ninguno,E1,12:00-14:00,,,12:00-14:00,,,312,"MERCHAN VILLALBA Luis Ramón, M.I.",,
-""IILI06052,ELECTRÓNICA DE POTENCIA,4,120 CREDITOS,E1,,08:00-10:00,,,08:00-10:00,,206,"LOZANO GARCÍA Jóse Merced, Dr.",,
-""EALI03009,ESPÍRITU EMPRENDEDOR,2,Ninguno,E1,,,10:00-12:00,,,,207,"VÁSQUEZ RAMÍREZ Elisa Araceli, Lic.",,
-""SHLI03018,EXPRESIÓN VERBAL EN EL AMBIENTE LABORAL,3,Ninguno,E1,,17:30-18:30,,,17:30-18:30,,206,"CAPETILLO RODRÍGUEZ Stephanie, Lic.",,
-""SHLI03019,FORMACIÓN CULTURAL E INTERCULTURAL,2,Ninguno,E1-NI,,,12:00-14:00,,,,207,"VÁSQUEZ RAMÍREZ Elisa Araceli, Lic.",,
-"",FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
-"",FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A","VAN AMERONGEN Saskia, Dra.",,
-""IILI06059,FUENTES RENOVABLES DE ENERGÍA,4,120 CREDITOS,E1,,08:00-10:00,,,08:00-10:00,,312,"MARTINEZ PATIÑO Jesús, Dr.",,
-""IILI06061,"FUNDAMENTOS DE LOS SISTEMAS DE INFORMACIÓN",4,Ninguno,E1,10:00-12:00,,,10:00-12:00,,,312,"DÁVILA ÁLVAREZ Elena del Rocio, M.I.",,
-""EALI03014,INGENIERÍA ECONÓMICA,2,90 Créditos,E1,,,12:00-14:00,,,,L.ELECT.(1),POR CONFIRMAR,,
-""EALI03015,INGENIERÍA INDUSTRIAL,2,Ninguno,E1,,,10:00-12:00,,,,L.ELECT.(1),"GÓMEZ MARTÍNEZ Miguel Ángel, Dr.",,
-"",INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
-"",INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
-"",INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
-"",INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
-"",INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
-""SHLI03065,INMERSIÓN EN EL AMBIENTE LABORAL,2,220 CREDITOS,E1,,,08:00-10:00,,,,L.ELECT.(1),"GUTIÉRREZ MARTÍN Heriberto, M.I.",,
-""IILI06069,INSTALACIONES ELÉCTRICAS,4,"CIRCUITOS ELÉCTRICOS DE C.A.",E1,10:00-12:00,,,10:00-12:00,,,207,"LOZANO GARCÍA Jóse Merced, Dr.",,
-""SHLI01041,INTEGRACIÓN A LA VIDA UNIVERSITARIA,1,Ninguno,E1-NI,,,09:00-10:00,,,,207,"BOLIVAR ALONZO Sofía, Lic.",,
-""IILI06074,INTRODUCCIÓN A LAS REDES INTELIGENTES,4,"Sistemas de Distribución",E1,10:00-12:00,,,10:00-12:00,,,L.ELECT.(2),"ESTRADA GARCÍA Héctor Javier, Dr.",,
-""IILI06079,MÁQUINAS DE C.D. Y TRANSFORMADORES,4,"CIRCUITOS ELÉCTRICOS DE C.D.",E1,,14:00-16:00,,,14:00-16:00,,207,"HERNÁNDEZ ROBLES, IVAN ABEL, DR.",,
-""IILI06082,MÁQUINAS SÍNCRONAS Y ASÍNCRONAS,4,"MÁQUINAS DE C.D. Y TRANSFORMADORES",E1,18:00-20:00,,,18:00-20:00,,,207,"JUAREZ REQUENA Miguel Angel, M.I.",,
-""NELI06010,MECÁNICA,4,Ninguno,E1-NI,,10:00-12:00,,,10:00-12:00,,207,"ROSALES GARCÍA Juan, Dr.",,
-""IILI04086,MEDICIONES ELÉCTRICAS,3,Ninguno,E1,,12:00-13:30,,,12:00-13:30,,206,"ESTRADA PINTOR Marco Ivan, Ing.",,
-""NELI04011,MÉTODOS NUMÉRICOS,3,Cálculo Integral,E1,,10:00-11:30,,,10:00-11:30,,312,"ZAMORA CÁRDENAS Enrique Arnoldo, Dr.",,
-""IILI04105,PROGRAMACIÓN EN INGENIERÍA ELÉCTRICA,3,Ninguno,E1,12:00-13:30,,,12:00-13:30,,,207,"GUZMÁN CABRERA Rafael, Dr.",,
-""EALI06037,PROYECTOS DE INGENIERÍA,4,120 Créditos,E1,16:00-18:00,,,16:00-18:00,,,206,"RAMOS CARRANZA Hugo Antonio, Dr.",,
-""NELI06016,QUÍMICA UNIVERSITARIA,4,Ninguno,E1-NI,16:00-18:00,,,16:00-18:00,,,,"VIDAL CÁRDENAS Geronimo, Ing.",,
-""SHLI03062,REDACCIÓN DE CV Y ENTREVISTA DE TRABAJO,3,Ninguno,E1,,16:00-17:30,,,16:00-17:30,,206,"CAPETILLO RODRÍGUEZ Stephanie, Lic.",,
-""SHLI03063,RESPONSABILIDAD SOCIAL,2,Ninguno,E1,,,12:00-14:00,,,,206,"BOLIVAR ALONZO Sofía, Lic.",,
-""ACLI10001,SEMINARIO DE PROYECTO DE TITULACIÓN,2,220 CREDITOS,E1,,,12:00-14:00,,,,L.ELECT.(1),"GUTIÉRREZ MARTÍN Heriberto, M.I.",,
-""IILI06115,SEÑALES Y SISTEMAS,4,90 Créditos,E1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(1),"GUZMÁN CABRERA Rafael, Dr.",,
-""IILI06121,SISTEMAS DE DISTRIBUCIÓN,4,Instalaciones Eléctricas,E1,12:00-14:00,,,12:00-14:00,,,206,"PIZANO MARTÍNEZ Alejandro, Dr.",,
-""IILI04129,SUBESTACIONES ELÉCTRICAS,4,"MÁQUINAS DE C.D. Y TRANSFORMADORES",E1,,18:00-20:00,,,18:00-20:00,,207,"JUAREZ REQUENA Miguel Angel, M.I.",,
-""NELI06017,TEORÍA ELECTROMAGNÉTICA,4,Ninguno,E1,,14:00-16:00,,,14:00-16:00,,206,"ROMERO MANCERA, Homero, Ing.",,
-""NELI06017,TEORÍA ELECTROMAGNÉTICA,4,Ninguno,E2,,12:00-14:00,,,12:00-14:00,,207,"GONZÁLEZ RAMÍREZ Xiomara, dra.",,
-""IILI06146,(SISTEMAS ELÉCTRICOS EN MEDIA  Y ALTA,4,200 créditos,E1,16:00-18:00,,,16:00-18:00,,,L.ELECT.(2),"ARROYO RAMOS Sergio, Ing.",,
-""IILI03002,Aire Acondicionado y Refrigeración,3,Transferencia de Calor,M1,,08:00-9:30,,,08:00-9:30,,A306,"BELMAN FLORES Juan Manuel, Dr.","DAMIÁN ASCENCIO César Eduardo, Dr.","HERNANDEZ GUERRERO Abel, Dr."
-""NELI06001,Algebra Lineal,4,Ninguno,NI-M2,,12:00-14:00,,,12:00-14:00,,A301,"RAZO HERNÁNDEZ Claudia, M.I.","RICO MARTÍNEZ José María, Dr.","BELMAN FLORES Juan Manuel, Dr."
-""NELI06001,Algebra Lineal,4,Ninguno,NI-M1,08:00-10:00,,,08:00-10:00,,,A201,"RICO MARTÍNEZ José María, Dr.","RAZO HERNÁNDEZ Claudia, M.I.","BELMAN FLORES Juan Manuel, Dr."
-""IILI04010,Análisis y Síntesis de Mecanismos,3,"Dinámica de Cuerpo Rígido",M1,,10:00-11:30,,,10:00-11:30,,Aula Lab. Manuf.,"GARCÍA MURILLO Mario Alberto, Dr.","CERVANTES SÁNCHEZ J. Jesús, Dr.","AGUILERA CORTES Luz Antonio, Dr."
-""IILI04010,Análisis y Síntesis de Mecanismos,3,"Dinámica de Cuerpo Rígido",M1,,10:00-11:30,,,10:00-11:30,,Aula Lab. Termo.,"MARTÍNEZ MARTÍNEZ Ricardo, M.I.","AGUILERA CORTES Luz Antonio, Dr.","RICO MARTÍNEZ José María, Dr."
-""NELI06002,Calculo Diferencial,4,Ninguno,NI-M2,08:00-10:00,,,08:00-10:00,,,A301,"BELMAN FLORES Juan Manuel, Dr.","AGUILERA CORTÉS Luz Antonio, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr."
-""NELI06002,Calculo Diferencial,4,Ninguno,NI-M1,,08:00-10:00,,,08:00-10:00,,A201,"RAZO HERNÁNDEZ Claudia, M.I.","AGUILERA CORTÉS Luz Antonio, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr."
-""NELI06002,Cálculo Diferencial (Repetidores),4,Ninguno,S2,18:00-20:00,,,18:00-20:00,,,A310,"ALFARO NAVARRO José Juan, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06003,Cálculo Integral,4,Cálculo Diferencial,REC-C2,16:00-18:00,,,16:00-18:00,,,B101,"MARQUEZ FIGUEROA Sandra M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06003,Cálculo Integral,4,Cálculo Diferencial,M1,12:00-14:00,,,12:00-14:00,,,A201,"RANGEL HERNÁNDEZ Víctor Hugo, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","AGUILERA CORTÉS Luz Antonio, Dr."
-""NELI06003,Cálculo Integral,4,Cálculo Diferencial,M2,12:00-14:00,,,12:00-14:00,,,A301,"RAZO HERNÁNDEZ Claudia, M.I.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","AGUILERA CORTÉS Luz Antonio, Dr."
-""NELI06004,Calculo Vectorial Multivariable,5,Cálculo Integral,M1,14:00-15:40,,14:00-15:40,14:00-15:40,,,A201,"RAZO MEDINA Daniel Alberto, Dr.","RAZO HERNÁNDEZ Claudia, M.I.","RANGEL HERNÁNDEZ Víctor Hugo, Dr."
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M2,,14:00-16:00,,,14:00-16:00,,A201,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M1,,10:00-12:00,,,10:00-12:00,,A304,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M4,,14:00-16:00,,,14:00-16:00,,A301,"HERNÁNDEZ RODRÍGUEZ Eric Noé, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M3,,10:00-12:00,,,10:00-12:00,,A305,"ROJAS SALINAS Wilma Betzabé, Q.F.B.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI04017,Ciencia de Materiales para Ingeniería Mecánica,3,"Ciencia de Materiales para Ingeniería",M1,16:00-17:30,,,16:00-17:30,,,A201,"BALVANTÍN GARCÍA Antonio de Jesús, Dr.","HERNÁNDEZ RODRIGUEZ Erick Noe, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica; Mecánica de Fluidos",M3,,12:00-13:30,,,12:00-13:30,,Aula Lab. Manuf.,"COLÍN VENEGAS José, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
-""IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica; Mecánica de Fluidos",M1,,12:00-13:30,,,12:00-13:30,,A305,"NÚÑEZ ALTAMIRANO Diego Alfredo, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
-""IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica; Mecánica de Fluidos",M2,,12:00-13:30,,,12:00-13:30,,A306,"TORRES DEL CARMEN Felipe de Jesús, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
-""IILI04033,Controladores Lógicos Programables,4,"Fundamentos de Ingeniería Eléctrica",M2,,12:00-14:00,,,12:00-14:00,,Aula Lab. Termo.,"CAPILLA GONZÁLEZ Gustavo, Dr.","PLASCENCIA MORA Héctor, Dr.","VIDAL LESSO Agustín, Dr."
-""IILI04033,Controladores Lógicos Programables,4,"Fundamentos de Ingeniería Eléctrica",M1,18:00-20:00,,,18:00-20:00,,,A304,"COLÍN ROBLES José de Jesús, Ing.","PLASCENCIA MORA Héctor, Dr.","VIDAL LESSO Agustín, Dr."
-""IILI04033,Controladores Lógicos Programables,4,"Fundamentos de Ingeniería Eléctrica",M3,,16:00-18:00,,,16:00-18:00,,Aula Lab. Termo.,Por asignar,"PLASCENCIA MORA Héctor, Dr.","VIDAL LESSO Agustín, Dr."
-""SHLI03009,Desarrollo Humano y Comunicación,2,Ninguno,NI-M2,,,10:00-12:00,,,,A301,"GARRIDO ACEVES Paulina Lizeth, Lic.","ZALETA AGUILAR Alejandro, Dr.","GUEVARA RAMÍREZ Nadia Olivia, Lic."
-""IILI04040,Dibujo de Ingeniería,3,Ninguno,M1,14:00-15:30,,,14:00-15:30,,,Lab. Cómputo B,"CAPILLA GONZÁLEZ Gustavo, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
-""IILI04040,Dibujo de Ingeniería,3,Ninguno,M2,16:00-17:30,,,16:00-17:30,,,Lab. Cómputo B,Por asignar,"LEDESMA OROZCO Elias Rigoberto, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
-""IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A305,"AGUILERA CORTÉS Luz Antonio, Dr.","CERVANTES SÁNCHEZ J. Jesús, Dr.","COLÍN VENEGAS José, Dr."
-""IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A306,"CERVANTES SÁNCHEZ J. Jesús, Dr.","COLÍN VENEGAS José, Dr.","RICO MARTÍNEZ José María, Dr."
-""IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A304,"COLÍN VENEGAS José, Dr.","GARCÍA MURILLO Mario Alberto, Dr.","CERVANTES SÁNCHEZ J. Jesús, Dr."
-""IILI04042,Dinámica de la Partícula,3,Estática,M1,14:00-15:30,,,14:00-15:30,,,A301,"COLÍN VENEGAS José, Dr.","AGUILERA CORTÉS Luz Antonio, Dr.","RICO MARTÍNEZ José María, Dr."
-""IILI04042,Dinámica de la Partícula,3,Estática,M3,14:00-15:30,,,14:00-15:30,,,Aula Lab. Termo.,"GARCÍA MURILLO Mario Alberto, Dr.","AGUILERA CORTÉS Luz Antonio, Dr.","RICO MARTÍNEZ José María, Dr."
-""IILI04042,Dinámica de la Partícula,3,Estática,M2,14:00-15:30,,,14:00-15:30,,,Aula Taller Mec.,"RICO MARTÍNEZ José María, Dr.","COLÍN VENEGAS José, Dr.","GARCÍA MURILLO Mario Alberto, Dr."
-""IILI04043,Dinámica de Maquinaria,3,"Dinámica de Cuerpo Rígido",M1,10:00-11:30,,,10:00-11:30,,,Aula Taller Mec.,"CERVANTES SÁNCHEZ J. Jesús, Dr.","GONZALEZ PALACIOS Maximino Antonio, Dr.","GARCÍA MURILLO Mario Alberto, Dr."
-""IILI04045,Diseño de Elementos de Máquinas,3,Diseño Mecánico,M1,10:00-11:30,,,10:00-11:30,,,A304,"VIDAL LESSO Agustín, Dr.","AGUILERA GOMEZ Eduardo, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI04046,Diseño de Experimentos y Probabilístico,3,"Diseño Mecánico, Probabilidad y Estadística",M1,08:00-9:30,,,08:00-9:30,,,Aula Lab. Termo.,"LEDESMA OROZCO Elias Rigoberto, Dr.","VIDAL LESSO Agustin, Dr.","AGUILERA GOMEZ Eduardo, Dr."
-""IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,16:00-17:40,,16:00-17:40,16:00-17:40,,,A304,"GUTIERREZ RIVERA Miguel Ernesto, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
-""IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,16:00-17:40,,16:00-17:40,16:00-17:40,,,A305,"HERNÁNDEZ PÉREZ Adrián, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
-""IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,,14:20-16:00,14:20-16:00,,14:20-16:00,,Aula Lab. Termo.,"VIDAL LESSO Agustín, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
-""IILI04168,Diseño y Aplicación de Materiales Compuestos,3,"Ciencia de Materiales para Ingeniería Mecánica",M1,10:00-11:30,,,10:00-11:30,,,A305,"RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA José Angel, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr."
-""NELI06005,Ecuaciones Diferenciales,4,Cálculo Integral,M1,,12:00-14:00,,,12:00-14:00,,A201,"AGUILERA CORTÉS Luz Antonio, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","RAZO HERNÁNDEZ Claudia, M.I."
-""NELI06006,Electromagnetismo y Ondas,4,Ninguno,M1,,16:00-18:00,,,16:00-18:00,,A201,"RAZO MEDINA Daniel Alberto, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","HERNÁNDEZ RODRIGUEZ Erick Noe, Dr."
-""EALI03009,Espíritu Emprendedor,2,Ninguno,M1,,,16:00-18:00,,,,A201,"RODRÍGUEZ GARCÍA Juan Manuel , C.P.","ZALETA AGUILAR Alejandro, Dr.","GARRIDO ACEVES Paulina Lizeth, Lic."
-""IILI04055,Estática,3,Cálculo Integral,M3,08:00-9:30,,,08:00-9:30,,,Aula Taller Mec.,"NEGRETE ROMERO Guillermo, M. en I.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI04055,Estática,3,Cálculo Integral,M1,08:00-9:30,,,08:00-9:30,,,Aula Lab. Manuf.,"PLASCENCIA MORA Héctor, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI04055,Estática,3,Cálculo Integral,M4,,08:00-9:30,,,08:00-9:30,,Aula Taller Mec.,"DIOSDADO DE LA PEÑA José Angel, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI04055,Estática,3,Cálculo Integral,M2,,08:00-9:30,,,08:00-9:30,,Aula Lab. Manuf.,"RAMÍREZ ELIAS Víctor Alfonso, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""SHLI03019,Formación Cultural e Intercultural,2,Ninguno,M1,,,12:00-14:00,,,,A201,"GARRIDO ACEVES Paulina Lizeth, Lic.","GUEVARA RAMÍREZ Nadia Olivia, Lic.","PLASCENCIA MORA Héctor, Dr."
-"",FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
-"",FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A", "VAN AMERONGEN Saskia, Dra.",,
-""IILI06060,Fundamentos de Ingeniería Eléctrica,4,70 Créditos,M1,10:00-12:00,,,10:00-12:00,,,A306,"HERNÁNDEZ RODRÍGUEZ Eric Noé, Dr.","CANO ANDRADE Sergio, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr."
-""IILI06061,Fundamentos de los Sistemas de Información,4,Ninguno,NI-M1,,10:00-12:00,,,10:00-12:00,,A201,"NÚÑEZ ALTAMIRANO Diego Alfredo, Dr.","TORRES DEL CARMEN Felipe de Jesús, Dr.","LUVIANO ORTIZ, Jose Luis, Dr."
-""IILI06061,Fundamentos de los Sistemas de Información,4,Ninguno,NI-M2,,10:00-12:00,,,10:00-12:00,,A301,"RAMÍREZ SILVA Marco Aurelio, Ing.","TORRES DEL CARMEN Felipe de Jesús, Dr.","LUVIANO ORTIZ, Jose Luis, Dr."
-""IILI03065,Impacto Ambiental,2,160 Créditos,M1,,,12:00-14:00,,,,A306,"ROJAS SALINAS Wilma Betzabé, Q.F.B.","VIOLANTE GAVIRA Amanda Enriqueta, Mtra.","ZALETA AGUILAR Alejandro, Dr."
-""EALI03014,Ingeniería Económica,2,90 Créditos,M1,,,14:00-16:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
-""EALI03014,Ingeniería Económica,2,90 Créditos,M2,,,16:00-18:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
-""EALI04016,Ingenieria Industrial y de Métodos,3,"Algebra Lineal; Ingeniería Económica",M1,,12:00-13:30,,,12:00-13:30,,Aula Taller Mec.,"ALMANZA ROBLES Francisco Javier, Ing.","DIOSDADO DE LA PEÑA José Angel, Dr.","AGUILERA GOMEZ Eduardo, Dr."
-"",INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
-"",INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
-"",INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
-"",INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
-"",INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
-""ACLI10001,Inmersión en el Ambiente Laboral,0,200 Créditos,M1,,,,,,08:00-10:00,A201,"DIOSDADO DE LA PEÑA José Angel, Dr.","ZALETA AGUILAR Alejandro, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr."
-""IILI04070,Instalaciones Industriales,3,"Transferencia de Calor; Procesos de Manufactura; Dibujo de",M1,,18:00-19:30,,,18:00-19:30,,A201,"PÉREZ CARETA Eduardo, M.I.","VIOLANTE GAVIRA Amanda Enriqueta, Mtra.","CANO ANDRADE Sergio, Dr."
-""SHLI01041,Integración a la Vida Universitaria,1,Ninguno,NI-M1,,,08:00-09:00,,,,A201,"GUEVARA RAMÍREZ Nadia Olivia, Lic.","DIOSDADO DE LA PEÑA José Angel, Dr.","GARRIDO ACEVES Paulina Lizeth, Lic."
-""SHLI01041,Integración a la Vida Universitaria,1,Ninguno,NI-M2,,,09:00-10:00,,,,A301,"GUEVARA RAMÍREZ Nadia Olivia, Lic.","DIOSDADO DE LA PEÑA José Angel, Dr.","GARRIDO ACEVES Paulina Lizeth, Lic."
-""IILI02075,Laboratorio de Mediciones,2,Ninguno,M1,,8:00-10:00,,,,,Lab. Electrónica,"CANEDO ROMERO Gerardo Enrique, M.I.","BALVANTIN GARCIA Antonio de Jesus, Dr.","CAPILLA GONZÁLEZ Gustavo, Dr."
-""IILI02075,Laboratorio de Mediciones,2,Ninguno,M2,,,,,8:00-10:00,,Lab. Electrónica,Por asignar,"BALVANTIN GARCIA Antonio de Jesus, Dr.","CAPILLA GONZÁLEZ Gustavo, Dr."
-""IILI03078,Manufactura Avanzada,3,150 Créditos,M1,10:00-11:30,,,10:00-11:30,,,Celdas de Manuf.,"AGUILERA GÓMEZ Eduardo, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI03078,Manufactura Avanzada,3,150 Créditos,M5,,,08:00-11:00,,,,Celdas de Manuf.,"BALVANTÍN GARCÍA Antonio de Jesús, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI03078,Manufactura Avanzada,3,150 Créditos,M6,,,11:00-14:00,,,,Celdas de Manuf.,"BALVANTÍN GARCÍA Antonio de Jesús, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI03078,Manufactura Avanzada,3,150 Créditos,M3,,10:00-11:30,,,10:00-11:30,,Celdas de Manuf.,"MARTÍNEZ RAMÍREZ Israel, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI03078,Manufactura Avanzada,3,150 Créditos,M2,12:00-13:30,,,12:00-13:30,,,Celdas de Manuf.,"REVELES ARREDONDO Juan Francisco, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI03081,Máquinas Hidráulicas y Neumáticas,3,"Termodinámica; Mecánica de Fluidos",M1,14:00-15:30,,,14:00-15:30,,,A304,"ZALETA AGUILAR Alejandro, Dr.","BELMAN FLORES Juan Manuel, Dr.","ELIZALDE BLANCAS Francisco, Dr."
-""IILI06083,Mecánica de Fluidos,5,"Ecuaciones Diferenciales",M1,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Lab. Manuf.,"DAMIÁN ASCENCIO César Eduardo, Dr.","HERNANDEZ GUERRERO Abel, Dr.","BELMAN FLORES Juan Manuel, Dr."
-""IILI06083,Mecánica de Fluidos,5,"Ecuaciones Diferenciales",M2,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Taller Mec.,"LUVIANO ORTÍZ José Luis, Dr.","HERNANDEZ GUERRERO Abel, Dr.","BELMAN FLORES Juan Manuel, Dr."
-""IILI06083,Mecánica de Fluidos,5,"Ecuaciones Diferenciales",M2,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Lab. Termo.,"RIESCO ÁVILA José Manuel, Dr.","HERNANDEZ GUERRERO Abel, Dr.","BELMAN FLORES Juan Manuel, Dr."
-""IILI06084,Mecánica de Sólidos,5,Estática,M2,,12:00-14:00,13:00-14:00,,12:00-14:00,,A304,"NEGRETE ROMERO Guillermo, M. en I.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI06084,Mecánica de Sólidos,5,Estática,M1,,08:00-9:40,08:00-9:40,,08:00-9:40,,A305,"PLASCENCIA MORA Héctor, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI03085,Mecánica de Sólidos Avanzada,3,Mecánica de Sólidos,M1,,08:30-10:00,,,08:30-10:00,,A304,"HERNÁNDEZ PÉREZ Adrián, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""NELI04011,Métodos Numéricos,3,Cálculo Integral,M2,,10:00-11:30,,,10:00-11:30,,A306,"RAZO HERNÁNDEZ Claudia, M.I.","RANGEL HERNANDEZ Victor Hugo, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""NELI04011,Métodos Numéricos,3,Cálculo Integral,M1,16:00-17:30,,,16:00-17:30,,,A301,"RAZO MEDINA Daniel Alberto, Dr.","RANGEL HERNANDEZ Victor Hugo, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI04092,Motores de Combustión Interna,3,Termodinámica,M1,,16:00-17:30,,,16:00-17:30,,Aula Lab. Manuf.,"RIESCO ÁVILA José Manuel, Dr.","HERNANDEZ GUERRERO Abel, Dr.","LUVIANO ORTIZ, Jose Luis, Dr."
-""IILI06094,Plantas Térmicas y Uso Racional de la Energía,5,"Termodinámica; Mecánica de Fluidos",M1,,08:00-9:40,08:00-9:40,,08:00-9:40,,Aula Lab. Termo.,"ZALETA AGUILAR Alejandro, Dr.","BELMAN FLORES Juan Manuel, Dr.","CANO ANDRADE Sergio, Dr."
-""NELI06014,Probabilidad y Estadística,4,Cálculo Integral,M1,,16:00-18:00,,,16:00-18:00,,A301,"ARELLANO VELÁZQUEZ Noé Ricardo, Ing.","VIDAL LESSO Agustín, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr."
-""IILI04098,Procesos de Corte,3,"Ciencia de Materiales para Ingeniería Mecánica",M1,,10:00-11:30,,,10:00-11:30,,Aula Taller Mec.,"NEGRETE ROMERO Guillermo, M. en I.","AGUILERA GOMEZ Eduardo, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI04099,Procesos de Manufactura,3,"Ciencia de Materiales para Ingeniería Mecánica",M1,,14:00-15:30,,,14:00-15:30,,Aula Taller Mec.,"AGUILERA GÓMEZ Eduardo, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.",VIDAL LESSO Agustin Dr.
-""EALI06037,Proyectos en Ingeniería,4,120 Créditos,M1,14:00-16:00,,,14:00-16:00,,,A306,"VIOLANTE GAVIRA Amanda Enriqueta, Mtra.","PLASCENCIA MORA Héctor, Dr.","ZALETA AGUILAR Alejandro, Dr."
-""NELI06016,Química Universitaria,4,Ninguno,NI-M2,10:00-12:00,,,10:00-12:00,,,A301,"ROJAS SALINAS Wilma Betzabé, Q.F.B.","HERNÁNDEZ PÉREZ Adrian, Dr.","HERNÁNDEZ RODRIGUEZ Erick Noe, Dr."
-""NELI06016,Química Universitaria,4,Ninguno,NI-M1,10:00-12:00,,,10:00-12:00,,,A201,"VIOLANTE GAVIRA Amanda Enriqueta, Mtra.","HERNÁNDEZ RODRIGUEZ Erick Noe, Dr.","HERNÁNDEZ PÉREZ Adrian, Dr."
-""SHLI03063,Responsabilidad Social,2,Ninguno,M2,,,14:00-16:00,,,,A306,"GARRIDO ACEVES Paulina Lizeth, Lic.","RODRÍGUEZ GARCÍA Juan Manuel , C.P.","LEDESMA OROZCO Elias Rigoberto, Dr."
-""SHLI03063,Responsabilidad Social,2,Ninguno,M1,,,14:00-16:00,,,,A304,ORTEGA ZÚÑIGA Lourdes Paulina.,"RODRÍGUEZ GARCÍA Juan Manuel , C.P.","LEDESMA OROZCO Elias Rigoberto, Dr."
-""IILI04112,Robótica,3,"Análisis y Síntesis de Mecanismos",M1,,07:00-08:30,,,07:00-08:30,,A304,"GARCÍA MURILLO Mario Alberto, Dr.","RICO MARTINEZ Jose Maria, Dr.","CERVANTES SANCHEZ Jose Jesus, Dr."
-""SHLI03065,Seminario de Proy. de Titulación,2,220 Créditos,M1,,,08:00-10:00,,,,Aula Lab. Manuf.,"MARTÍNEZ MARTÍNEZ Ricardo, M.I.","VIDAL LESSO Agustín, Dr.","CANO ANDRADE Sergio, Dr."
-""IILI04120,Sistemas de Control,3,120 Créditos,M1,16:00-17:30,,,16:00-17:30,,,Aula Lab. Manuf.,"TORRES DEL CARMEN Felipe de Jesús, Dr.","GONZALEZ PALACIOS Maximino Antonio, Dr.","NÚÑEZ ALTAMIMRANO Diego Armando, Dr."
-""IILI03165,"Taller de Diseño",3,"Diseño de Elementos de Máquinas",,,14:00-15:30,,,14:00-15:30,,A306,"GUTIERREZ RIVERA Miguel Ernesto, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","PLASCENCIA MORA Héctor, Dr."
-""IILI06130,Termodinámica,5,Cálculo Integral,M3,08:00-9:40,,08:00-9:40,08:00-9:40,,,A306,"CANO ANDRADE Sergio, Dr.","ELIZALDE BLANCAS Francisco, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
-""IILI06130,Termodinámica,5,Cálculo Integral,M1,08:00-9:40,,08:00-9:40,08:00-9:40,,,A304,"HERNÁNDEZ GUERRERO Abel, Dr.","ELIZALDE BLANCAS Francisco, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
-""IILI03164,Termoeconomía,3,"Termodinámica; Ingenieria Economica",M1,,16:00-17:30,,,16:00-17:30,,A305,"RANGEL HERNÁNDEZ Víctor Hugo, Dr.","ZALETA AGUILAR Alejandro, Dr.","BELMAN FLORES Juan Manuel, Dr."
-""IILI06138,Transferencia de Calor,5,"Termodinámica; Ecuaciones Diferenciales",M1,10:00-11:40,,10:00-11:40,10:00-11:40,,,Aula Lab. Manuf.,"ELIZALDE BLANCAS Francisco, Dr.","LUVIANO ORTIZ, Jose Luis, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
-""IILI06138,Transferencia de Calor,5,"Termodinámica; Ecuaciones Diferenciales",M1,10:00-11:40,,10:00-11:40,10:00-11:40,,,Aula Lab. Termo.,"HERNÁNDEZ GUERRERO Abel, Dr.","LUVIANO ORTIZ, Jose Luis, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
-""IILI06142,Turbomáquinas y Equipos Térmicos,5,"Mecánica de Fluidos; Transferencia de Calor",M1,14:00-15:40,,14:00-15:40,14:00-15:40,,,A305,"LUVIANO ORTÍZ José Luis, Dr.","ZALETA AGUILAR Alejandro, Dr.","RIESCO AVILA Jose Manuel, Dr."
-""IILI06143,Vibraciones Mecánicas,4,"Dinámica de Cuerpo Rígido",M1,,14:00-16:00,,,14:00-16:00,,A304,"COLÍN VENEGAS José, Dr.","GONZÁLEZ PALACIOS Maximino Antonio, Dr.","TORRES DEL CARMEN Felipe de Jesús, Dr."
-""NELI06001,Álgebra Lineal,4,,NI-MCT1,14:00-16:00,,,14:00-16:00,,,A202,CABRERA MOSQUEDA Daniel,,
-""NELI06001,Álgebra Lineal,4,,NI-MCT2,,8:00-10:00,,,8:00-10:00,,A202,CABRERA MOSQUEDA Daniel,,
-""IILI04010,Análisis y Síntesis de Mecanismos,3,"Dinámica de Cuerpo Rígido",M1,,10:00-11:30,,,10:00-11:30,,Aula Lab. Manuf.,"GARCÍA MURILLO Mario Alberto, Dr.","CERVANTES SÁNCHEZ J. Jesús, Dr.","AGUILERA CORTES Luz Antonio, Dr."
-""IILI04010,Análisis y Síntesis de Mecanismos,3,"Dinámica de Cuerpo Rígido",M1,,10:00-11:30,,,10:00-11:30,,Aula Lab. Termo.,"MARTÍNEZ MARTÍNEZ Ricardo, M.I.","AGUILERA CORTES Luz Antonio, Dr.","RICO MARTÍNEZ José María, Dr."
-""IILI04010,Análisis y Síntesis de Mecanismos,3,IILI04041,MCT1,,16:00-17:30,,,16:00-17:30,,A311,"NUÑEZ ALTAMIRANO Diego Armando Dr.",,
-""IILI04012,Aplicaciones de Sistemas Mecatrónicos,3,IILI04118,MCT1,16:00-17:30,,,16:00-17:30,,,A202,"CASTRO SÁNCHEZ Rogelio, Dr.",,
-""NELI06002,Cálculo Diferencial,4,,NI-MCT1,08:00-10:00,,,08:00-10:00,,,A202,MARTINEZ ROMERO Elizabeth Ing.,,
-""NELI06002,Cálculo Diferencial,4,,NI-MCT2,14:00-16:00,,,14:00-16:00,,,A210,TORRES CISNEROS Miguel Dr.,,
-""NELI06002,Cálculo Diferencial,4,,MCT3,16:00-18:00,,,16:00-18:00,,,A210,ALFARO NAVARRO Juan José Ing.,,
-""NELI06002,Cálculo Diferencial (Repetidores),4,Ninguno,S2,18:00-20:00,,,18:00-20:00,,,A310,"ALFARO NAVARRO José Juan, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06003,Cálculo Integral,4,Cálculo Diferencial,REC-C2,16:00-18:00,,,16:00-18:00,,,B101,"MARQUEZ FIGUEROA Sandra M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06003,Cálculo Integral,4,NELI06002,MCT1,,12:00-14:00,,,12:00-14:00,,A210,HUERTA ROSALES Roberto Ing.,,
-""NELI06004,Cálculo Vectorial y Multivariable,5,NELI06003,MCT1,,8:00-9:40,8:00-9:40,,8:00-9:40,,A210,"ARELLANO VELAZQUEZ Noé Ricardo",,
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M2,,14:00-16:00,,,14:00-16:00,,A201,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M1,,10:00-12:00,,,10:00-12:00,,A304,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M4,,14:00-16:00,,,14:00-16:00,,A301,"HERNÁNDEZ RODRÍGUEZ Eric Noé, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M3,,10:00-12:00,,,10:00-12:00,,A305,"ROJAS SALINAS Wilma Betzabé, Q.F.B.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
-""IILI06018,Ciencia de materiales para Ingeniería,4,NELI06016,MCT1,,14:00-16:00,,,14:00-16:00,,A311,ZAMORA GARCÍA Ileana,,
-""IILI06019,Circuitos Eléctricos,4,NELI060005,MCT1,14:00-16:00,,,14:00-16:00,,,A311,"OROZCO MUÑIZ  Juan Diego M. En I.",,
-""IILI06022,Circuitos Electrónicos,4,NELI06005,MCT1,8:00-10:00,,,"08:00-10:00 BlabELE",,,A210,"FLORES CÁRDENAS Enrique M. en I.",,
-""IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica; Mecánica de Fluidos",M3,,12:00-13:30,,,12:00-13:30,,Aula Lab. Manuf.,"COLÍN VENEGAS José, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
-""IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica; Mecánica de Fluidos",M1,,12:00-13:30,,,12:00-13:30,,A305,"NÚÑEZ ALTAMIRANO Diego Alfredo, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
-""IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica; Mecánica de Fluidos",M2,,12:00-13:30,,,12:00-13:30,,A306,"TORRES DEL CARMEN Felipe de Jesús, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
-""IILI06024,"Circuitos Integrados Lineales",4,120 Créditos,MCT1,"08:00-10:00 LAB ELECT",,,08:00-10:00,,,A210,IBARRA MANZANO Oscar G. Dr.,,
-""IILI04033,Controladores Lógicos Programables,4,"Fundamentos de Ingeniería Eléctrica",M2,,12:00-14:00,,,12:00-14:00,,Aula Lab. Termo.,"CAPILLA GONZÁLEZ Gustavo, Dr.","PLASCENCIA MORA Héctor, Dr.","VIDAL LESSO Agustín, Dr."
-""IILI04033,Controladores Lógicos Programables,4,"Fundamentos de Ingeniería Eléctrica",M1,18:00-20:00,,,18:00-20:00,,,A304,"COLÍN ROBLES José de Jesús, Ing.","PLASCENCIA MORA Héctor, Dr.","VIDAL LESSO Agustín, Dr."
-""IILI04033,Controladores Lógicos Programables,4,"Fundamentos de Ingeniería Eléctrica",M3,,16:00-18:00,,,16:00-18:00,,Aula Lab. Termo.,Por asignar,"PLASCENCIA MORA Héctor, Dr.","VIDAL LESSO Agustín, Dr."
-""IILI04033,Controladores Lógicos Programables,3,IILI06060,MCT1,,14:00-15:30,,,14:00-15:30,,A202,"OROZCO MUÑIZ  Juan Diego M. En I.",,
-""SHLI03009,Desarrollo Humano y comunicación,2,,MCT1,,,14:00-16:00,,,,A311,GONZALEZ GARCIA Luz Estela,,
-""IILI04040,Dibujo de Ingeniería,3,Ninguno,M4,,16:00-17:30,,,16:00-17:30,,Lab. Cómputo B,"MARTÍNEZ RAMÍREZ Israel, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
-""IILI04040,Dibujo de Ingeniería,3,Ninguno,M3,,14:00-15:30,,,14:00-15:30,,Lab. Cómputo B,"REVELES ARREDONDO Juan Francisco, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
-""IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A305,"AGUILERA CORTÉS Luz Antonio, Dr.","CERVANTES SÁNCHEZ J. Jesús, Dr.","COLÍN VENEGAS José, Dr."
-""IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A306,"CERVANTES SÁNCHEZ J. Jesús, Dr.","COLÍN VENEGAS José, Dr.","RICO MARTÍNEZ José María, Dr."
-""IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A304,"COLÍN VENEGAS José, Dr.","GARCÍA MURILLO Mario Alberto, Dr.","CERVANTES SÁNCHEZ J. Jesús, Dr."
-""IILI04042,Dinámica de la Partícula,3,Estática,M1,14:00-15:30,,,14:00-15:30,,,A301,"COLÍN VENEGAS José, Dr.","AGUILERA CORTÉS Luz Antonio, Dr.","RICO MARTÍNEZ José María, Dr."
-""IILI04042,Dinámica de la Partícula,3,Estática,M3,14:00-15:30,,,14:00-15:30,,,Aula Lab. Termo.,"GARCÍA MURILLO Mario Alberto, Dr.","AGUILERA CORTÉS Luz Antonio, Dr.","RICO MARTÍNEZ José María, Dr."
-""IILI04042,Dinámica de la Partícula,3,Estática,M2,14:00-15:30,,,14:00-15:30,,,Aula Taller Mec.,"RICO MARTÍNEZ José María, Dr.","COLÍN VENEGAS José, Dr.","GARCÍA MURILLO Mario Alberto, Dr."
-""IILI04043,Dinámica de Maquinaria,3,"Dinámica de Cuerpo Rígido",M1,10:00-11:30,,,10:00-11:30,,,Aula Taller Mec.,"CERVANTES SÁNCHEZ J. Jesús, Dr.","GONZALEZ PALACIOS Maximino Antonio, Dr.","GARCÍA MURILLO Mario Alberto, Dr."
-""IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,16:00-17:40,,16:00-17:40,16:00-17:40,,,A304,"GUTIERREZ RIVERA Miguel Ernesto, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
-""IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,16:00-17:40,,16:00-17:40,16:00-17:40,,,A305,"HERNÁNDEZ PÉREZ Adrián, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
-""IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,,14:20-16:00,14:20-16:00,,14:20-16:00,,Aula Lab. Termo.,"VIDAL LESSO Agustín, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
-""NELI06005,Ecuaciones Diferenciales,4,NELI06003,MCT1,,14:00-16:00,,,14:00-16:00,,A210,CABRERA MOSQUEDA Daniel,,
-""NELI06006,"Electromagnetismo y Ondas",4,,MCT1,,8:00-10:00,,,8:00-10:00,,A311,ALVARADO MENDEZ Edgar Dr.,,
-""IILI06053,Electrónica Digital,4,IILI02075,MCT1,,"10:00-12:00 BlabELE",,,10:00-12:00,,A210,CERDA VILLAFAÑA Gustavo Dr.,,
-""EALI03009,Espíritu Emprendedor,2,,MCT1,,,12:00-14:00,,,,A202,"ORTEGA ZÚÑIGA Lourdes Paulina Lic.",,
-""IILI04055,Estática,3,Cálculo Integral,M3,08:00-9:30,,,08:00-9:30,,,Aula Taller Mec.,"NEGRETE ROMERO Guillermo, M. en I.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI04055,Estática,3,Cálculo Integral,M1,08:00-9:30,,,08:00-9:30,,,Aula Lab. Manuf.,"PLASCENCIA MORA Héctor, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI04055,Estática,3,Cálculo Integral,M4,,08:00-9:30,,,08:00-9:30,,Aula Taller Mec.,"DIOSDADO DE LA PEÑA José Angel, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI04055,Estática,3,Cálculo Integral,M2,,08:00-9:30,,,08:00-9:30,,Aula Lab. Manuf.,"RAMÍREZ ELIAS Víctor Alfonso, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""SHLI03019,Formación Cultural e intercultural,2,,MCT1,,,10:00-12:00,,,,A202,"ORTEGA ZÚÑIGA Lourdes Paulina Lic.",,
-"",FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
-"",FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A","VAN AMERONGEN Saskia, Dra.",,
-""IILI03058,Fuentes no Convencionales de Energía,3,Termodinámica,M1,,14:00-15:30,,,14:00-15:30,,A305,"CANO ANDRADE Sergio, Dr.","RANGEL HERNÁNDEZ Víctor Hugo, Dr.","BELMAN FLORES Juan Manuel, Dr."
-""IILI06060,Fundamentos de Ingeniería Eléctrica,4,70 Créditos,M1,10:00-12:00,,,10:00-12:00,,,A306,"HERNÁNDEZ RODRÍGUEZ Eric Noé, Dr.","CANO ANDRADE Sergio, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr."
-""IILI06060,Fundamentos de Ingeniería Eléctrica,4,NELI06006,MCT1,,,10:00-12:00,,,10:00-12:00,A311,"OROZCO MUÑIZ  Juan Diego M. En I.",,
-""IILI06061,Fundamentos de los sistemas de información,4,,NI-MCT1,10:00-12:00,,,10:00-12:00,,,A202,MARTIN DIAZ Ignacio Dr.,,
-""IILI06061,Fundamentos de los sistemas de información,4,,NI-MCT2,,12:00-14:00,,,12:00-14:00,,A311,"FLORES CÁRDENAS Enrique M. en I.",,
-""IILI03065,Impacto Ambiental,2,160 Créditos,M1,,,12:00-14:00,,,,A306,"ROJAS SALINAS Wilma Betzabé, Q.F.B.","VIOLANTE GAVIRA Amanda Enriqueta, Mtra.","ZALETA AGUILAR Alejandro, Dr."
-""EALI03014,Ingeniería Económica,2,90 Créditos,M1,,,14:00-16:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
-""EALI03014,Ingeniería Económica,2,90 Créditos,M2,,,16:00-18:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
-"",INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
-"",INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
-"",INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
-"",INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
-"",INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
-""IILI06072,Instrumentación Digital,4,IILI04124,MCT1,8:00-10:00,,,8:00-10:00,,,A311,"OROZCO MUÑIZ  Juan Diego M. En I.",,
-""SHLI01041,Integración a la vida Universitaria,1,,NI-MCT1,,,08:00-9:00,,,,A202,ZÁRATE BANDA Magdalena Dra.,,
-""SHLI01041,Integración a la vida Universitaria,1,,NI-MCT2,,,9:00-10:00,,,,A202,"ORTEGA ZÚÑIGA Lourdes Paulina Lic.",,
-""IILI06073,Inteligencia Artificial,4,"Programación Orientada a Objetos",S1,10:00-12:00,,,10:00-12:00,,,LAB. B,"SÁNCHEZ YAÑEZ Raúl Enrique, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI02075,Laboratorio de Mediciones,2,,NI-MCT1,,,12:00-14:00,,,,BlabELE,MARTIN DIAZ Ignacio Dr.,,
-""IILI02075,Laboratorio de Mediciones,2,,NI-MCT2,,,14:00-16:00,,,,BlabELE,HUERTA ROSALES Roberto Ing.,,
-""IILI03078,Manufactura Avanzada,3,150 Créditos,M5,,,08:00-11:00,,,,Celdas de Manuf.,"BALVANTÍN GARCÍA Antonio de Jesús, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI03078,Manufactura Avanzada,3,150 Créditos,M6,,,11:00-14:00,,,,Celdas de Manuf.,"BALVANTÍN GARCÍA Antonio de Jesús, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI03078,Manufactura Avanzada,3,150 Créditos,M3,,10:00-11:30,,,10:00-11:30,,Celdas de Manuf.,"MARTÍNEZ RAMÍREZ Israel, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI03078,Manufactura Avanzada,3,150 Créditos,M4,,12:00-13:30,,,12:00-13:30,,Celdas de Manuf.,"MARTÍNEZ RAMÍREZ Israel, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI03078,Manufactura Avanzada,3,150 Créditos,M2,12:00-13:30,,,12:00-13:30,,,Celdas de Manuf.,"REVELES ARREDONDO Juan Francisco, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI03081,Máquinas Hidráulicas y Neumáticas,3,"Termodinámica; Mecánica de Fluidos",M1,14:00-15:30,,,14:00-15:30,,,A304,"ZALETA AGUILAR Alejandro, Dr.","BELMAN FLORES Juan Manuel, Dr.","ELIZALDE BLANCAS Francisco, Dr."
-""IILI06083,Mecánica de Fluidos,5,"Ecuaciones Diferenciales",M1,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Lab. Manuf.,"DAMIÁN ASCENCIO César Eduardo, Dr.","HERNANDEZ GUERRERO Abel, Dr.","BELMAN FLORES Juan Manuel, Dr."
-""IILI06083,Mecánica de Fluidos,5,"Ecuaciones Diferenciales",M2,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Taller Mec.,"LUVIANO ORTÍZ José Luis, Dr.","HERNANDEZ GUERRERO Abel, Dr.","BELMAN FLORES Juan Manuel, Dr."
-""IILI06083,Mecánica de Fluidos,5,"Ecuaciones Diferenciales",M2,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Lab. Termo.,"RIESCO ÁVILA José Manuel, Dr.","HERNANDEZ GUERRERO Abel, Dr.","BELMAN FLORES Juan Manuel, Dr."
-""IILI06084,Mecánica de Sólidos,5,Estática,M2,,12:00-14:00,13:00-14:00,,12:00-14:00,,A304,"NEGRETE ROMERO Guillermo, M. en I.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""IILI06084,Mecánica de Sólidos,5,Estática,M1,,08:00-9:40,08:00-9:40,,08:00-9:40,,A305,"PLASCENCIA MORA Héctor, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
-""NELI04011,Métodos Numéricos,3,NELI06003,MCT1,10:00-11:30,,,10:00-11:30,,,A210,MARTINEZ ROMERO Elizabeth Ing.,,
-""IILI06089,"Microprocesadores y Microcontroladores",4,IILI06053,MCT1,,,10:00-12:00,,,10:00-12:00,A210,"ORTEGA CONTRERAS Jorge Andrés Ing.",,
-""IILI06026,OPTATIVA PROFUNDIZACIÓN (Robótica Móvil),4,"Programación Orientada a Objetos",S1,10:00-12:00,,,10:00-12:00,,,A104,"TRUJILLO ROMERO Felipe De Jesús, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06094,Plantas Térmicas y Uso Racional de la Energía,5,"Termodinámica; Mecánica de Fluidos",M1,,08:00-9:40,08:00-9:40,,08:00-9:40,,Aula Lab. Termo.,"ZALETA AGUILAR Alejandro, Dr.","BELMAN FLORES Juan Manuel, Dr.","CANO ANDRADE Sergio, Dr."
-""NELI06014,Probabilidad y Estadística,4,NELI06003,MCT1,10:00-12:00,,,10:00-12:00,,,A311,SALAZAR VILLANUEVA Fernando,,
-""IILI06104,Programación en Ingeniería,4,IILI06104,MCT1,12:00-14:00,,,12:00-14:00,,,A202,RAMÍREZ SILVA Marco Aurelio Ing.,,
-""IILI06104,Programación en Ingeniería,4,Ninguno,MCT1,12:00-14:00,,,12:00-14:00,,,A202,"RAMÍREZ SILVA Marco Aurelio, I.C.S.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06107,Programación Orientada a Objetos,4,"Programación en Ingeniería",S2,16:00-18:00,,,16:00-18:00,,,A303,"CORREA TOMÉ Fernando Enrique, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06107,Programación Orientada a Objetos,4,"Programación en Ingeniería",S1,12:00-14:00,,,12:00-14:00,,,A310,"LEDESMA OROZCO Sergio Eduardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""EALI06037,Proyectos en ingeniería,4,120 Créditos,MCT1,,18:00-20:00,,,18:00-20:00,,A202,ZÁRATE BANDA Magdalena Dra.,,
-""NELI06016,Química Universitaria,4,,NI-MCT1,,12:00-14:00,,,12:00-14:00,,A202,"VÁZQUEZ MOSQUEDA Heriberto Ing.",,
-""NELI06016,Química Universitaria,4,,NI-MCT2,,10:00-12:00,,,10:00-12:00,,A311,"VIOLANTE GAVIRA Amanda Enriqueta",,
-""SHLI03063,Responsabilidad Social,2,,MCT1,,,16:00-18:00,,,,A311,GONZALEZ GARCIA Luz Estela,,
-""IILI04112,Robótica,3,"Análisis y Síntesis de Mecanismos",M1,,07:00-08:30,,,07:00-08:30,,A304,"GARCÍA MURILLO Mario Alberto, Dr.","RICO MARTINEZ Jose Maria, Dr.","CERVANTES SANCHEZ Jose Jesus, Dr."
-""IILI06115,Señales y Sistemas,4,90 Créditos,MCT1,16:00-18:00,,,16:00-18:00,,,A311,HUERTA ROSALES Roberto Ing.,,
-""IILI04118,Simulación de Sistemas Mecatrónicos,3,170 Créditos,MCT1,12:00-13:30,,,12:00-13:30,,,A210,"CONTRERAS HERNÁNDEZ José Luis M. en I.",,
-""IILI04120,Sistemas de Control,3,120 Créditos,MCT1,,10:00-12:00,,,10:00-12:00,,A202,"AVIÑA CERVANTES Juan Gabriel Dr.",,
-""IILI04124,Sistemas de Medición,3,120 Créditos,MCT1,,,12:00-14:00,,,12:00-14:00,A210,"ORTEGA CONTRERAS Jorge Andrés Ing.",,
-""IILI06126,Sistemas Electrónicos de Potencia,4,IILI06022,MCT1,,10:00-12:00,,,"10:00-12:00 BlabELE",,A210,"FLORES CÁRDENAS Enrique M. en I.",,
-""IILI06130,Termodinámica,5,Cálculo Integral,M3,08:00-9:40,,08:00-9:40,08:00-9:40,,,A306,"CANO ANDRADE Sergio, Dr.","ELIZALDE BLANCAS Francisco, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
-""IILI06130,Termodinámica,5,Cálculo Integral,M2,08:00-9:40,,08:00-9:40,08:00-9:40,,,A305,"ELIZALDE BLANCAS Francisco, Dr.","CANO ANDRADE Sergio, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
-""IILI06130,Termodinámica,5,Cálculo Integral,M1,08:00-9:40,,08:00-9:40,08:00-9:40,,,A304,"HERNÁNDEZ GUERRERO Abel, Dr.","ELIZALDE BLANCAS Francisco, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
-""IILI06130,Termodinámica,5,NELI06003,MCT1,,16:00-17:40,16:00-17:40,,16:00-17:40,,A202,"BARROSO MALDONADO Juan Manuel M. En I.",,
-""IILI06142,Turbomáquinas y Equipos Térmicos,5,"Mecánica de Fluidos; Transferencia de Calor",M1,14:00-15:40,,14:00-15:40,14:00-15:40,,,A305,"LUVIANO ORTÍZ José Luis, Dr.","ZALETA AGUILAR Alejandro, Dr.","RIESCO AVILA Jose Manuel, Dr."
-""IILI06143,Vibraciones Mecánicas,4,"Dinámica de Cuerpo Rígido",M1,,14:00-16:00,,,14:00-16:00,,A304,"COLÍN VENEGAS José, Dr.","GONZÁLEZ PALACIOS Maximino Antonio, Dr.","TORRES DEL CARMEN Felipe de Jesús, Dr."
-""IILI06001,Administración de la Tecnología Informática,4,"Sistemas de Administración de Datos",S1,12:00-14:00,,,12:00-14:00,,,LAB. B,"CANEDO MONTOYA Gerardo Miguel, Lic.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""SHLI03001,Administración de Proyecto de Tesis,2,220 Créditos,C1,,,14:00-16:00,,,,A105,"OROS FLORES Marvella Izamar, M. en I","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06001,Álgebra Lineal,4,Ninguno,NI_S1,,10:00-12:00,,,10:00-12:00,,A303,"ARELLANO VELÁZQUEZ Noé Ricardo, Lic.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06004,Algoritmos y Estructuras de Datos,4,"Programación en Ingeniería",S1,12:00-14:00,,,12:00-14:00,,,A104,"GARCÍA CAPULÍN Carlos Hugo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06004,Algoritmos y Estructuras de Datos,4,"Programación en Ingeniería",S2,,10:00-12:00,,,10:00-12:00,,A104,"IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr.","CORREA TOMÉ Fernando Enrique, Dr."
-""IILI06013,Aplicaciones Internet,4,"Sistemas de Administración de Datos",S1,,14:00-16:00,,,14:00-16:00,,A104,"LEDESMA OROZCO Sergio Eduardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06002,Cálculo Diferencial,4,Ninguno,NI_S1,10:00-12:00,,,10:00-12:00,,,A303,"ARELLANO VELÁZQUEZ Noé Ricardo, Lic.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06002,Cálculo Diferencial (Repetidores),4,Ninguno,S2,18:00-20:00,,,18:00-20:00,,,A310,"ALFARO NAVARRO José Juan, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06003,Cálculo Integral,4,Cálculo Diferencial,REC-C2,16:00-18:00,,,16:00-18:00,,,B101,"MARQUEZ FIGUEROA Sandra M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06003,Cálculo Integral,4,Cálculo Diferencial,S1,,12:00-14:00,,,12:00-14:00,,A310,"TORRES CISNEROS Miguel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06004,Cálculo Vectorial y Multivariable,5,Cálculo Integral,C1,,08:00-10:00,09:00-10:00,,08:00-10:00,,A302,"IBARRA MANZANO Oscar Gerardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06004,Cálculo Vectorial y Multivariable,5,Cálculo Integral,S1,,08:00-10:00,08:00-09:00,,08:00-10:00,,A104,"ROJAS LAGUNA Roberto, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06024,Circuitos Integrados Lineales,4,120 créditos,C1,,12:00-14:00,,,"12:00-14:00 BLabEle",,B101,"HERNÁNDEZ FUSILIER Donato, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06025,Compiladores,4,"Algoritmos y Estructuras de Datos",S1,08:00-10:00,,,08:00-10:00,,,A310,"RUÍZ PINALES José, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06037,Desarrollo de Software,4,"Programación Orientada a Objetos",S1,14:00-16:00,,,14:00-16:00,,,A303,"GÓMEZ CARRANZA Juan Carlos, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""SHLI03009,Desarrollo Humano y Comunicación,2,Ninguno,S1,,,10:00-12:00,,,,A310,"RODRÍGUEZ GARCÍA Juan Manuel, C. P.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06005,Ecuaciones Diferenciales,4,Cálculo Integral,C1,12:00-14:00,,,12:00-14:00,,,A309,"SIERRA HERNÁNDEZ Juan Manuel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06005,Ecuaciones Diferenciales,4,Cálculo Integral,S1,,14:00-16:00,,,14:00-16:00,,A310,"RAZO MEDINA Daniel Alberto, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06006,Electromagnetismo y Ondas,4,Ninguno,S1,,10:00-12:00,,,10:00-12:00,,A310,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06051,Electrónica Analógica,4,"Laboratorio de Mediciones",S1,,12:00-14:00,,,12:00-14:00,,A104,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06053,Electrónica Digital,4,"Laboratorio de Mediciones",C1,"10:00-12:00 BLabEle",,,10:00-12:00,,,B101,"CAMARENA MARTÍNEZ David, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""EALI03009,Espíritu Emprendedor,2,Ninguno,S1,,,08:00-10:00,,,,A310,JIMENEZ BARSENAS Eduardo,"IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""SHLI03018,Expresión Verbal en Ambiente Profesional,2,Ninguno,S1,,,,,,10:00-12:00,A310,"ALMANZA OJEDA María Yanet, Lic.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""SHLI03019,Formación Cultural e Intercultural,2,Ninguno,C1,,,12:00-14:00,,,,A309,"VAN AMERONGEN Saskia, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-"",FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A","VAN AMERONGEN Saskia, Dra.",,
-""IILI06061,Fundamentos de los Sistemas de Información,4,Ninguno,NI_S1,,08:00-10:00,,,08:00-10:00,,A303,"ROSTRO GONZÁLEZ Horacio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06062,Fundamentos de los Sistemas Eléctricos,4,"Ecuaciones Diferenciales",S1,,14:00-16:00,,,14:00-16:00,,A303,"ROSTRO GONZÁLEZ Horacio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06066,Informática Industrial,4,"Microprocesadores y Microcontroladores",C1,16:00-18:00,,,16:00-18:00,,,A309,"MARTIN-DIAZ Ignacio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06068,Ingeniería de Software,4,Desarrollo de Software,S1,08:00-10:00,,,08:00-10:00,,,LAB. B,"RAMÍREZ SILVA Marco Aurelio, I.C.S.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""EALI03014,Ingeniería Económica,2,90 Créditos,M1,,,14:00-16:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
-""EALI03014,Ingeniería Económica,2,90 Créditos,M2,,,16:00-18:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
-"",INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
-"",INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
-"",INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
-"",INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
-"",INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
-"",INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
-""ACLI10001,Inmersión en el Ambiente Laboral,0,200 créditos,S1,,,,,,,,"IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr.","CORREA TOMÉ Fernando Enrique, Dr."
-""SHLI01041,Integración a la Vida Universitaria (N. I.),1,Ninguno,NI_S1,,,12:00-13:00,,,,A310,"RODRÍGUEZ GARCÍA Juan Manuel, C. P.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06073,Inteligencia Artificial,4,"Programación Orientada a Objetos",S1,10:00-12:00,,,10:00-12:00,,,LAB. B,"SÁNCHEZ YAÑEZ Raúl Enrique, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI02075,Laboratorio de Mediciones,2,Ninguno,S1,,,08:00-10:00,,,,BLabELE,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06009,Matemáticas Discretas,4,Ninguno,S1,14:00-16:00,,,14:00-16:00,,,A310,"VALDEZ PEÑA Sergio Ivan, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06010,Mecánica,4,Ninguno,NI_S1,,12:00-14:00,,,12:00-14:00,,A303,"ROJAS SALINAS Wilma Betzabe, Q.F.B.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI04011,Métodos Numéricos,3,Cálculo Integral,C1,14:00-15:30,,,14:00-15:30,,,B101,"IBARRA MANZANO Mario Alberto, Dr.","LIZÁRRAGA MORALES Rocío Alfonsina, Dra.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI04011,Métodos Numéricos,3,Cálculo Integral,S1,18:00-19:30,,,18:00-19:30,,,A303,POR ASIGNAR,"IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06089,Microprocesadores y Microcontroladores,4,Electrónica Digital,C1,12:00-14:00,,,"12:00-14:00 BLabEle",,,B101,"CERDA VILLAFAÑA Gustavo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06064,OPTATIVA DISCIPLINAR (Programación Científica),4,"Programación Orientada a Objetos",S1,,16:00-18:00,,,16:00-18:00,,A303,"VALDEZ PEÑA Sergio Ivan, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06026,OPTATIVA PROFUNDIZACIÓN (Robótica Móvil),4,"Programación Orientada a Objetos",S1,10:00-12:00,,,10:00-12:00,,,A104,"TRUJILLO ROMERO Felipe De Jesús, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06114,OPTATIVA PROFUNDIZACIÓN (Seguridad en Redes),4,"Redes de Computadoras II",S1,16:00-18:00,,,16:00-18:00,,,A104,"CANEDO MONTOYA Enrique Daniel, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06014,Probabilidad y Estadística,4,Cálculo Integral,C1,10:00-12:00,,,10:00-12:00,,,A302,"GARCÍA PÉREZ Arturo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""NELI06014,Probabilidad y Estadística,4,Cálculo Integral,S1,16:00-18:00,,,16:00-18:00,,,B101,"RAMÍREZ PAREDES Juan Pablo Ignacio Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06104,Programación en Ingeniería,4,Ninguno,MCT1,12:00-14:00,,,12:00-14:00,,,A202,"RAMÍREZ SILVA Marco Aurelio, I.C.S.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06104,Programación en Ingeniería,4,Ninguno,S1,,08:00-10:00,,,08:00-10:00,,A310,"AYALA RAMÍREZ Victor, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06104,Programación en Ingeniería,4,Ninguno,S1,,10:00-12:00,,,10:00-12:00,,LAB. B,"SÁNCHEZ YAÑEZ Raúl Enrique, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06107,Programación Orientada a Objetos,4,"Programación en Ingeniería",S2,16:00-18:00,,,16:00-18:00,,,A303,"CORREA TOMÉ Fernando Enrique, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06107,Programación Orientada a Objetos,4,"Programación en Ingeniería",S1,12:00-14:00,,,12:00-14:00,,,A310,"LEDESMA OROZCO Sergio Eduardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""EALI06037,Proyectos en Ingeniería,4,Ninguno,S1,16:00-18:00,,,16:00-18:00,,,A310,"TURRUBIATES GARCÍA Héctor, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""NELI06016,Química Universitaria,4,Ninguno,NI_S1,12:00-14:00,,,12:00-14:00,,,A303,"ROJAS SALINAS Wilma Betzabe, Q.F.B.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""SHLI03062,Redacción de CV y Entrevista de Trabajo,2,Ninguno,C1,,,,,,12:00-14:00,A309,"ALMANZA OJEDA María Yanet, Lic.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""IILI06110,Redes de Computadoras I,4,"Sistemas de Administración de Datos",S1,,16:00-18:00,,,16:00-18:00,,A104,"TURRUBIATES GARCÍA Héctor, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06111,Redes de Computadoras II,4,"Redes de Computadoras I",S1,,16:00-18:00,,,16:00-18:00,,A310,"CANEDO MONTOYA Enrique Daniel, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""SHLI03063,Responsabilidad Social,2,Ninguno,S1,,,10:00-12:00,,,,A303,"VAN AMERONGEN Saskia, Dra.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""SHLI03065,Seminario de Proyecto de Titulación,2,Ninguno,C1,,,10:00-12:00,,,,A303,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
-""SHLI03065,Seminario de Proyecto deTitulación,2,220 créditos,S1,,,12:00-14:00,,,,A303,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06119,Sistemas de Administración de Datos,4,"Programación Orientada a Objetos",S1,10:00-12:00,,,10:00-12:00,,,A310,"LEDESMA OROZCO Sergio Eduardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06122,Sistemas de Información,4,"Sistemas de Administración de Datos",S1,,08:00-10:00,,,08:00-10:00,,LAB. B,"CANEDO MONTOYA Gerardo Miguel, Lic.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06127,Sistemas Operativos,4,"Algoritmos y Estructuras de Datos",S1,,12:00-14:00,,,12:00-14:00,,LAB. B,"CORREA TOMÉ Fernando Enrique, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
-""IILI06136,"Tópico Selecto en Sistemas Computacionales (Programación en JAVA)",4,"Programación Orientada a Objetos",S1,14:00-16:00,,,14:00-16:00,,,A104,"GARCÍA CAPULÍN Carlos Hugo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","CORREA TOMÉ Fernando Enrique, Dr."
+NELI06001,Algebra Lineal,4,Ninguno,A1 NI,,12:00-14:00,,,12:00-14:00,,307,"MARTÍNEZ ROMERO Elizabeth, Mtra.","PÉREZ CRESPO José Armando, Dr.","HERNÁNDEZ BELMONTE Uriel Haile, Dr."
+NELI06001,Algebra Lineal,4,Ninguno,A2 NI,,10:00-12:00,,,10:00-12:00,,209,"MARTÍNEZ ROMERO Elizabeth, Mtra.","PÉREZ CRESPO José Armando, Dr.","GÓMEZ SARABIA Cristina Margarita, Dra."
+ARLI06002,Animación Digital  I,4,147 Créditos,A,18:00-20:00,,,18:00-20:00,,,103,"REGALADO VILLALOBOS Jesús Gerardo, Lic.","PÉREZ CRESPO José Armando, Dr.","MORENO ORTIZ Benjamín Roberto, Mtro."
+ARLI06004,Apreciación Cinematográfica,4,127 Créditos,A,16:00-18:00,,,16:00-18:00,,,307,"REYES ESPINO Víctor Manuel, Mtro.","PÉREZ CRESPO José Armando, Dr.","GARCILITA DURÁN Francisco, Mtro."
+ARLI04005,Apreciación Musical,3,Ninguno,A,07:00-8:30,,,07:00-8:30,,,204,"MATA RODRÍGUEZ Alejandro, Lic.","PÉREZ CRESPO José Armando, Dr.","HERRERA DELGADO Pedro, Lic."
+ARLI06006,Arte del Siglo XX y Últimas Tendencias,4,"Teoria del Arte y la Estética Cursada y Aprobada",A2,14:00-16:00,,,14:00-16:00,,,204,"GRANADOS VÁZQUEZ Clara Carmina Lic.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
+ARLI06006,Arte del Siglo XX y Últimas Tendencias,4,"Teoria del Arte y la Estética Cursada y Aprobada",A1,10:00-12:00,,,10:00-12:00,,,103,"GRANADOS VÁZQUEZ Clara Carmina Lic.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
+ARLI06007,Arte y Tecnología,4,127 Créditos,A,,08:00-10:00,,,08:00-10:00,,307,"THOMPSON LÓPEZ Reynaldo, Dr.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
+ARLI04008,Arte y Visualidad de la Prehistoria al Siglo XIX,4,Ninguno,A1 NI,10:00-12:00,,,10:00-12:00,,,307,"MENDOZA MORENO Claudia, Mtra.","PÉREZ CRESPO José Armando, Dr.","GRANADOS VÁZQUEZ Clara Carmina Lic."
+ARLI04008,Arte y Visualidad de la Prehistoria al Siglo XIX,4,Ninguno,A2 NI,08:00-10:00,,,08:00-10:00,,,209,"MENDOZA MORENO Claudia, Mtra.","PÉREZ CRESPO José Armando, Dr.","GRANADOS VÁZQUEZ Clara Carmina Lic."
+EALI04005,Comportamiento Oganizacional,3,Ninguno,A,08:30-10:00,,,08:30-10:00,,,204,"JIMÉNEZ BARCENAS Eduardo, Mtro.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
+SHLI03009,Desarrollo Humano y Comunicación,2,Ninguno,A1 NI,,,07:00-09:00,,,,307,"MATA RODRÍGUEZ Alejandro, Lic.","PÉREZ CRESPO José Armando, Dr.","MENDOZA MORENO Claudia, Mtra."
+SHLI03009,Desarrollo Humano y Comunicación,2,Ninguno,A2 NI,,,12:00-14:00,,,,209,"JIMÉNEZ BARCENAS Eduardo, Mtro.","PÉREZ CRESPO José Armando, Dr.","MENDOZA MORENO Claudia, Mtra."
+ARLI06010,Diseño de Publicaciones para Plataformas Digitales,4,Ninguno,A,,10:00-12:00,,,10:00-12:00,,"LAB A", "GURIEVA Natalia, Dra.","PÉREZ CRESPO José Armando, Dr.","MORENO ORTIZ Benjamín Roberto, Mtro."
+ARLI06012,Diseño Multimedia Interactivo I,4,"Programación Interactiva Cursada y Aprobada",A,,16:00-18:00,,,16:00-18:00,,204,"AGUILAR JARAMILLO Luis Jesús, Lic.","PÉREZ CRESPO José Armando, Dr.","MORENO ORTIZ Benjamín Roberto, Mtro."
+ARLI06011,Diseño Multimedia Interactivo II,4,"Diseño Multimedia Interactivo I Cursada y Aprobada",A,,14:00-16:00,,,14:00-16:00,,204,"AGUILAR JARAMILLO Luis Jesús, Lic.","PÉREZ CRESPO José Armando, Dr.","MORENO ORTIZ Benjamín Roberto, Mtro."
+ARLI06013,Edición de Audio Digital,4,"Fundamentos de Audio Digital Cursada y Aprobada",A1,,14:00-16:00,,,14:00-16:00,,307,"HERRERA DELGADO Pedro, Lic.","PÉREZ CRESPO José Armando, Dr.","AGUILAR JARAMILLO Luis Jesús, Lic."
+ARLI06013,Edición de Audio Digital,4,"Fundamentos de Audio Digital Cursada y Aprobada",A2,,16:00-18:00,,,16:00-18:00,,307,"HERRERA DELGADO Pedro, Lic.","PÉREZ CRESPO José Armando, Dr.","AGUILAR JARAMILLO Luis Jesús, Lic."
+EALI03009,Espíritu Emprendedor,2,Ninguno,A2,,,12:00-14:00,,,,307,"MENDOZA MORENO Claudia, Mtra.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ BARCENAS Eduardo, Mtro."
+EALI03009,Espíritu Emprendedor,2,Ninguno,A1,,,08:00-10:00,,,,103,"PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr.","JIMÉNEZ BARCENAS Eduardo, Mtro."
+ARLI06014,Estudios Visuales,4,"Arte del Siglo XX y Últimas Tendencias Cursada y Aprobada",A,,14:00-16:00,,,14:00-16:00,,103,"Mukhopadhyay Tirtha Prasad, Dr.","PÉREZ CRESPO José Armando, Dr.","REYES ESPINO Víctor Manuel, Mtro."
+SHLI03019,Formación Cultural e Intercultural,2,Ninguno,A1,,,10:00-12:00,,,,307,"MATA RODRÍGUEZ Alejandro, Lic.","PÉREZ CRESPO José Armando, Dr.","MENDOZA MORENO Claudia, Mtra."
+SHLI03019,Formación Cultural e Intercultural,2,Ninguno,A2,,,10:00-12:00,,,,209,"JIMÉNEZ BARCENAS Eduardo, Mtro.","PÉREZ CRESPO José Armando, Dr.","MENDOZA MORENO Claudia, Mtra."
+SHLI03020,"Formulación, Delimitación y Elaboración de Protocolo de Tesis",3,Ninguno,A,,08:00-9:30,,,08:00-9:30,,"CUBÍCULO BIBLIOTECA","REYES ESPINO Víctor Manuel, Mtro.","PÉREZ CRESPO José Armando, Dr.","ZÁRATE FLORES Alfredo, Dr."
+ARLI06016,"Fotografía, Ilustración y Diseño",4,"Fundamentos del Diseño y Objetos Vectoriales Cursada y",A1,,08:00-10:00,,,08:00-10:00,,"LAB A","GURIEVA Natalia, Dra.","PÉREZ CRESPO José Armando, Dr.","GÓMEZ VILLANUEVA Brenda, L.D.G."
+,FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
+,FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A","VAN AMERONGEN Saskia, Dra.",,
+ARLI06017,Fundamentos de Audio Digital,4,Apreciación Musical,A2,12:00-14:00,,,12:00-14:00,,,307,"MATA RODRÍGUEZ Alejandro, Lic.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
+ARLI06017,Fundamentos de Audio Digital,4,Apreciación Musical,A1,10:00-12:00,,,10:00-12:00,,,204,"MATA RODRÍGUEZ Alejandro, Lic.","PÉREZ CRESPO José Armando, Dr.","HERRERA DELGADO Pedro, Lic."
+ARLI06018,Fundamentos del Diseño y Objetos Vectoriales,4,"Teoría del Color Cursada y Aprobada",A,14:00-16:00,,,14:00-16:00,,,"LAB A","GÓMEZ VILLANUEVA Brenda, L.D.G.","PÉREZ CRESPO José Armando, Dr.","GURIEVA Natalia, Dra."
+ARLI06019,Fundamentos y Edición de Video,4,"Lenguaje Audiovisual Cursadas y Aprobada",A,,,14:00-18:00,,,,307,"GRANADOS VÁZQUEZ Clara Carmina Lic.","PÉREZ CRESPO José Armando, Dr.","AGUILAR JARAMILLO Luis Jesús, Lic."
+ARLI06019,Fundamentos y Edición de Video,4,"Lenguaje Audiovisual Cursadas y Aprobada",A,14:00-16:00,,,14:00-16:00,,,103,"AGUILAR JARAMILLO Luis Jesús, Lic.","PÉREZ CRESPO José Armando, Dr.","GRANADOS VÁZQUEZ Clara Carmina Lic."
+IILI06063,Geometría Computacional,4,"Programación en Ingeniería Cursada y Aprobada",A,,16:00-18:00,,,16:00-18:00,,103,"HERNÁNDEZ BELMONTE Uriel Haile, Dr.","PÉREZ CRESPO José Armando, Dr.","MORENO ORTIZ Benjamín Roberto, Mtro."
+,INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
+,INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
+,INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
+,INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
+,INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
+SHLI01041,Integración a la Vida Universitaria,1,Ninguno,A1 NI,,,09:00-10:00,,,,307,"MENDOZA MORENO Claudia, Mtra.","PÉREZ CRESPO José Armando, Dr.","MENDOZA MORENO Claudia, Mtra."
+SHLI01041,Integración a la Vida Universitaria,1,Ninguno,A2 NI,,,09:00-10:00,,,,209,"MATA RODRÍGUEZ Alejandro, Lic.","PÉREZ CRESPO José Armando, Dr.","MENDOZA MORENO Claudia, Mtra."
+SHLI06045,Investigación y Publicación de Textos Académicos,4,Ninguno,A1 NI,,10:00-12:00,,,10:00-12:00,,307,"REYES ESPINO Víctor Manuel, Mtro.","PÉREZ CRESPO José Armando, Dr.","ZÁRATE FLORES Alfredo, Dr."
+SHLI06045,Investigación y Publicación de Textos Académicos,4,Ninguno,A2 NI,,08:00-10:00,,,08:00-10:00,,209,"ZÁRATE FLORES Alfredo, Dr.","PÉREZ CRESPO José Armando, Dr.","REYES ESPINO Víctor Manuel, Mtro."
+ARLI06020,Lenguaje Audiovisual,4,Ninguno,A1,,12:00-14:00,,,12:00-14:00,,209,"GARCILITA DURÁN Francisco, Mtro.","PÉREZ CRESPO José Armando, Dr.","Mukhopadhyay Tirtha Prasad, Dr."
+ARLI06020,Lenguaje Audiovisual,4,Ninguno,A2,,12:00-14:00,,,12:00-14:00,,103,"Mukhopadhyay Tirtha Prasad, Dr.","PÉREZ CRESPO José Armando, Dr.","GARCILITA DURÁN Francisco, Mtro."
+NELI06009,Matemáticas Discretas,4,Ninguno,A,,12:00-14:00,,,12:00-14:00,,204,"GÓMEZ SARABIA Cristina Margarita, Dra.","PÉREZ CRESPO José Armando, Dr.","MARTÍNEZ ROMERO Elizabeth, Mtra."
+ARLI06021,Metodología y Visualidad en el Diseño,4,"Fotografía, Ilustración y Diseño Cursada y Aprobada",A2,16:00-18:00,,,16:00-18:00,,,103,"JIMÉNEZ ARREDONDO Víctor Hugo, Dr.","PÉREZ CRESPO José Armando, Dr.","GRANADOS VÁZQUEZ Clara Carmina Lic."
+ARLI06022,Modelado 3D,4,Ninguno,A,16:00-18:00,,,16:00-18:00,,,209,"REGALADO VILLALOBOS Jesús Gerardo, Lic.","PÉREZ CRESPO José Armando, Dr.","AGUILAR JARAMILLO Luis Jesús, Lic."
+ARLI06023,Multimedia,4,"Fundamentos y Edición de Video Cursada y Aprobada",A,12:00-14:00,,,12:00-14:00,,,204,"REGALADO VILLALOBOS Jesús Gerardo, Lic.","PÉREZ CRESPO José Armando, Dr.","AGUILAR JARAMILLO Luis Jesús, Lic."
+ARLI04025,Pensamiento Creativo y Materiales,3,Ninguno,A1 NI,08:30-10:00,,,08:30-10:00,,,307,"PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr.","GÓMEZ VILLANUEVA Brenda, L.D.G."
+ARLI04025,Pensamiento Creativo y Materiales,3,Ninguno,A2 NI,10:00-11:30,,,10:00-11:30,,,209,"PÉREZ CRESPO José Armando, Dr.","PÉREZ CRESPO José Armando, Dr.","GÓMEZ VILLANUEVA Brenda, L.D.G."
+IILI06096,Procesamiento de Datos. Diseño Generativo,4,147 Créditos,A,,10:00-12:00,,,10:00-12:00,,204,"MORENO ORTIZ Benjamín Roberto, Mtro.","PÉREZ CRESPO José Armando, Dr.","HERNÁNDEZ BELMONTE Uriel Haile, Dr."
+IILI06104,Programación en Ingeniería,4,Ninguno,A1,16:00-18:00,,,16:00-18:00,,,204,"LIZARRÁGA MORALES Rocío Alfonsina, Dra.","PÉREZ CRESPO José Armando, Dr.","LIZARRÁGA MORALES Rocío Alfonsina, Dra."
+IILI06104,Programación en Ingeniería,4,Ninguno,A2,,08:00-10:00,,,08:00-10:00,,103,"HERNÁNDEZ BELMONTE Uriel Haile, Dr.","PÉREZ CRESPO José Armando, Dr.","HERNÁNDEZ BELMONTE Uriel Haile, Dr."
+IILI06106,Programación Interactiva,4,"Programación Orientada a Objetos Cursada y Aprobada",A,,,14:00-18:00,,,,103,"MORENO ORTIZ Benjamín Roberto, Mtro.","PÉREZ CRESPO José Armando, Dr.","HERNÁNDEZ BELMONTE Uriel Haile, Dr."
+IILI06107,Programación Orientada a Objetos,4,Ninguno,A1,,14:00-16:00,,,14:00-16:00,,209,"MORENO ORTIZ Benjamín Roberto, Mtro.","PÉREZ CRESPO José Armando, Dr.","HERNÁNDEZ BELMONTE Uriel Haile, Dr."
+IILI06107,Programación Orientada a Objetos,4,Ninguno,A2,12:00-14:00,,,12:00-14:00,,,103,"MORENO ORTIZ Benjamín Roberto, Mtro.","PÉREZ CRESPO José Armando, Dr.","HERNÁNDEZ BELMONTE Uriel Haile, Dr."
+SHLI03058,Proyecto de Tesis,3,"Formulación, Delimitación y Elaboración de",A,,12:00-13:30,,,12:00-13:30,,"CUBÍCULO BIBLIOTECA","ZÁRATE FLORES Alfredo, Dr.","PÉREZ CRESPO José Armando, Dr.","REYES ESPINO Víctor Manuel, Mtro."
+ARLI06026,Proyectos de Instalación,4,117 Créditos,A,,,08:00-12:00,,,,204,"THOMPSON LÓPEZ Reynaldo, Dr.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
+ARLI04027,Psicología de la Percepción,3,Teoría del Color,A,,8:30-10:00,,,08:30-10:00,,204,"GARCILITA DURÁN Francisco, Mtro.","PÉREZ CRESPO José Armando, Dr.","REYES ESPINO Víctor Manuel, Mtro."
+SHLI03063,Responsabilidad Social,2,Ninguno,A1 NI,,,14:00-16:00,,,,209,"JIMÉNEZ BARCENAS Eduardo, Mtro.","PÉREZ CRESPO José Armando, Dr.","GRANADOS VÁZQUEZ Clara Carmina Lic."
+SHLI03063,Responsabilidad Social,2,Ninguno,A2 NI,,,16:00-18:00,,,,209,"JIMÉNEZ BARCENAS Eduardo, Mtro.","PÉREZ CRESPO José Armando, Dr.","GRANADOS VÁZQUEZ Clara Carmina Lic."
+ARLI06028,Semiótica y Visualidad,4,Ninguno,A,14:00-16:00,,,14:00-16:00,,,209,"REYES ESPINO Víctor Manuel, Mtro.","PÉREZ CRESPO José Armando, Dr.","GARCILITA DURÁN Francisco, Mtro."
+IILI06127,Sistemas Operativos,4,147 Créditos,A,,,,,,10:00-14:00,307,"CANEDO MONTOYA Enrique Daniel, Ing.","PÉREZ CRESPO José Armando, Dr.","LIZARRÁGA MORALES Rocío Alfonsina, Dra."
+ARLI06029,Sublime Contemporáneo,4,117 Créditos,A,,,12:00-16:00,,,,204,"THOMPSON LÓPEZ Reynaldo, Dr.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
+ARLI06031,"Taller de Arte I Fotografía creativa y retoque digital",4,211 Créditos Cursados,A,,,10:00-14:00,,,,"LAB A","GURIEVA Natalia, Dra.","PÉREZ CRESPO José Armando, Dr.","GÓMEZ VILLANUEVA Brenda, L.D.G."
+ARLI06035,Taller de Arte Sonoro,4,201 Créditos,A,,,,,,08:00-12:00,209,"HERRERA DELGADO Pedro, Lic.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
+ARLI06036,Taller de Arte Tipografía aplicada al arte,4,201 Créditos,A,08:00-10:00,,,08:00-10:00,,,103,"JIMÉNEZ ARREDONDO Víctor Hugo, Dr.","PÉREZ CRESPO José Armando, Dr.","GURIEVA Natalia, Dra."
+ARLI06037,Taller de Arte Video Mapping 3D,4,201 Créditos,A,,,10:00-14:00,,,,103,"MENDOZA ORNELAS Juanita del Carmen, Lic.","PÉREZ CRESPO José Armando, Dr.","JIMÉNEZ ARREDONDO Víctor Hugo, Dr."
+ARLI06038,Temas Selectos de Animación,4,147 Créditos,A,16:00-18:00,,,16:00-18:00,,,"LAB A","AGUILAR JARAMILLO Luis Jesús, Lic.","PÉREZ CRESPO José Armando, Dr.","REGALADO VILLALOBOS Jesús Gerardo, Lic."
+ARLI06039,Temas Selectos de Electrónica,4,147 Créditos,A,,,08:00-12:00,,,,106,"MARTÍNEZ ROMERO Elizabeth, Mtra.","PÉREZ CRESPO José Armando, Dr.","LIZARRÁGA MORALES Rocío Alfonsina, Dra."
+ARLI06038,Temas Selectos Multimedia,4,147 Créditos,A,14:00-16:00,,,14:00-16:00,,,307,"REGALADO VILLALOBOS Jesús Gerardo, Lic.","PÉREZ CRESPO José Armando, Dr.","MORENO ORTIZ Benjamín Roberto, Mtro."
+ARLI04041,Teoría del Color,3,Ninguno,A2 NI,12:00-13:30,,,12:00-13:30,,,208,"GÓMEZ SARABIA Cristina Margarita, Dra.","PÉREZ CRESPO José Armando, Dr.","GÓMEZ VILLANUEVA Brenda, L.D.G."
+ARLI06042,Teorías del Arte y la Estética,4,Ninguno,A,,10:00-12:00,,,10:00-12:00,,103,"ZÁRATE FLORES Alfredo, Dr.","PÉREZ CRESPO José Armando, Dr.","Mukhopadhyay Tirtha Prasad, Dr."
+NELI06001,Álgebra Lineal,4,Ninguno,NI-G1,,12:00-14:00,,,12:00-14:00,,A106,"OROS FLORES Marvella Izamar, M en I.","Lizárraga Morales Rocio A. Dra.","CANEDO MONTOYA Enrique Daniel, Ing."
+NELI06001,Álgebra Lineal,4,Ninguno,NI-G2,,12:00-14:00,,,12:00-14:00,,A203,"ROSTRO GONZÁLEZ Horacio, Dr.","Lizárraga Morales Rocio A. Dra.","SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro."
+EALI04002,Análisis de Factibilidad,3,Ninguno,G1,08:30-10:00,,,08:30-10:00,,,A203,"MACÍAS LÓPEZ Francisco, M.F.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+,Cálculo Diferencial,4,Ninguno,G2,,08:00-10:00,,,08:00-10:00,,A205,"Salazar Villanueva Fernando, Mtro.","Lizárraga Morales Rocio A. Dra.","CANEDO MONTOYA Enrique Daniel, Ing."
+,Cálculo Diferencial,4,Ninguno,G1,,10:00-12:00,,,10:00-12:00,,A208,"Salazar Villanueva Fernando, Mtro.","Lizárraga Morales Rocio A. Dra.","CANEDO MONTOYA Enrique Daniel, Ing."
+EALI05003,Comercio Internacional,4,Ninguno,G1,,12:00-14:00,,,12:00-14:00,,A205,"CISNEROS REYES Yashiro Danahí, Mtra.","Lizárraga Morales Rocio A. Dra.","ESPINOZA RODRÍGUEZ Victor Manuel, Ing."
+EALI04004,Comportamiento del Consumidor,3,Ninguno,NI-G1,14:30-16:00,,,14:30-16:00,,,A106,"Rodríguez García Juan Manuel, Mtro.","Lizárraga Morales Rocio A. Dra.","MAKI DÍAZ Griselda, Dra"
+EALI04004,Comportamiento del Consumidor,3,Ninguno,NI-G2,14:30-16:00,,,14:30-16:00,,,A203,"GAMIÑO CONEJO Miriam, Mtra.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI04005,Comportamiento Organizacional,3,Ninguno,NI-G1,,,,,,08:00-11:00,A106,"SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+EALI04005,Comportamiento Organizacional,3,Ninguno,NI-G2,,,,,,08:00-11:00,A203,"MUÑOZ GONZÁLEZ, Marco Antonio, M.A.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+SHLI06024,Comunicación Oral y Escrita,3,Ninguno,G2,14:30-16:00,,,14:30-16:00,,,A205,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+SHLI06024,Comunicación Oral y Escrita,3,Ninguno,G1,16:00-17:30,,,16:00-17:30,,,A208,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+EALI06006,Contabilidad Financiera,4,Ninguno,NI-G1,16:00-18:00,,,16:00-18:00,,,A106,"MACÍAS LÓPEZ Francisco, M.F.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI06006,Contabilidad Financiera,4,Ninguno,NI-G2,16:00-18:00,,,16:00-18:00,,,A203,"MUÑOZ GONZÁLEZ, Marco Antonio, M.A.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+SHLI03007,Contexto Socioeconómico Internacional,3,Ninguno,G1,,10:30-12:00,,,10:30-12:00,,A106,"CISNEROS REYES Yashiro Danahí, Mtra.","Lizárraga Morales Rocio A. Dra.","ESPINOZA RODRÍGUEZ Victor Manuel, Ing."
+SHLI03008,Contexto Socioeconómico Nacional,3,Ninguno,G1,18:00-19:30,,,18:00-19:30,,,A205,"MUÑOZ GONZÁLEZ, Marco Antonio, M.A.","Lizárraga Morales Rocio A. Dra.","CISNEROS REYES Yashiro Danahí, Mtra."
+EALI04007,Cultura de la Calidad,3,Ninguno,G1,,12:00-13:30,,,12:00-13:30,,A308,"ARAIZA ORTÍZ Araceli Margarita, M.D.O.","Lizárraga Morales Rocio A. Dra.","BANDA GUZMÁN Judith, Dra."
+IILI04036,Desarrollo de Nuevos Productos,3,Ninguno,G1,,14:30-16:00,,,14:30-16:00,,A205,"ROCHA IBARRA Jesús  Ernesto, Dr.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+AG0204,Desarrollo Humano y Comunicación,2,Ninguno,NI-G1,,,14:00-16:00,,,,A106,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+AG0204,Desarrollo Humano y Comunicación,2,Ninguno,NI-G2,,,14:00-16:00,,,,A203,"Rodríguez García Juan Manuel, Mtro.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+EALI03008,Emprendurismo Social,3,Ninguno,G1,,,,,,12:00-15:00,A205,"ARIAS VELÁZQUEZ Ma. Gabriela, M.D.O.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+AG0304,Espíritu Emprendedor,2,Ninguno,G2,,,08:00-10:00,,,,A205,"Rodríguez García Juan Manuel, Mtro.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
+AG0304,Espíritu Emprendedor,2,Ninguno,G1,,,08:00-10:00,,,,A208,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+NELI05003,Estadística Descriptiva e Inferencial,4,Ninguno,G1,,18:00-20:00,,,18:00-20:00,,A106,"SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro.","Lizárraga Morales Rocio A. Dra.","CANEDO MONTOYA Enrique Daniel, Ing."
+AG0504,Formación Cultural e Intercultural,2,Ninguno,G1,,,10:00-12:00,,,,A106,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+,FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
+,FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A","VAN AMERONGEN Saskia, Dra.",,
+EALI05012,Gestión Financiera,4,Ninguno,G1,12:00-14:00,,,12:00-14:00,,,A106,"BANDA GUZMÁN Judith, Dra.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI05013,Implementación de Estrategias,4,Planeacion Estrategica,G1,,08:00-10:00,,,08:00-10:00,,A203,"MAKI DÍAZ Griselda, Dra","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+,INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
+,INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
+,INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
+,INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
+,INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
+EALI03050,Innovación y Desarrollo Tecnológico,3,Ninguno,G1,,16:30-18:00,,,16:30-18:00,,A308,"CANEDO MONTOYA Enrique Daniel, Ing.","Lizárraga Morales Rocio A. Dra.","CISNEROS REYES Yashiro Danahí, Mtra."
+EALI03050,Innovación y Desarrollo Tecnológico,3,Ninguno,G1,,,16:00-19:00,,,,A306,"CANEDO MONTOYA Enrique Daniel, Ing.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
+AG0104,Integración a la Vida Universitaria,1,Ninguno,NI-G1,,,16:00-17:00,,,,A106,"GONZÁLEZ RINCÓN Iván, M.F.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+AG0104,Integración a la Vida Universitaria,1,Ninguno,NI-G2,,,16:00-17:00,,,,A203,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI06013,Inteligencia Competitiva,3,Ninguno,G1,,,14:00-17:00,,,,A208,"ESPINOZA RODRÍGUEZ Victor Manuel, Ing.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
+SHLI06025,Legislación Empresarial,4,Ninguno,G1,,,16:00-20:00,,,,A308,"MÉNDEZ SÁNCHEZ  Jorge Alberto, MF.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI03011,Logística Internacional,3,160 créditos cursados,G1,08:30-10:00,,,08:30-10:00,,,A308,"ESPINOZA RODRÍGUEZ Victor Manuel, Ing.","Lizárraga Morales Rocio A. Dra.","CISNEROS REYES Yashiro Danahí, Mtra."
+IILI04077,Logística y Cadenas de Suministros,3,Ninguno,G1,10:30-12:00,,,10:30-12:00,,,A203,"ESPINOZA RODRÍGUEZ Victor Manuel, Ing.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+EALI06021,Macroeconomía,4,Calculo Diferencial,G1,10:00-12:00,,,10:00-12:00,,,A205,"LEÓN SÁNCHEZ María Mercedes, Dra.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
+EALI06022,Matemáticas Aplicadas,4,Calculo Diferencial,G1,10:00-12:00,,,10:00-12:00,,,A106,"RODRÍGUEZ VILLALÓN Ovaldo, Dr.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+EALI04004,Matemáticas Financieras,3,Ninguno,G1,,,,,,12:00-15:00,A106,"SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI04024,Medición y Evaluación de la Calidad,3,"Estadistica Descriptiva e Inferencial",G2,,10:30-12:00,,,10:30-12:00,,A205,"ARAIZA ORTÍZ Araceli Margarita, M.D.O.","Lizárraga Morales Rocio A. Dra.","MAKI DÍAZ Griselda, Dra"
+EALI05025,Mercadotecnia Estratégica,3,Ninguno,G1,,16:30-18:00,,,16:30-18:00,,A106,"SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro.","Lizárraga Morales Rocio A. Dra.","MAKI DÍAZ Griselda, Dra"
+EALI03026,Mercadotecnia Internacional,3,Ningunao,G1,,,,,,09:00-12:00,A205,"ARIAS VELÁZQUEZ Ma. Gabriela, M.D.O.","Lizárraga Morales Rocio A. Dra.","CISNEROS REYES Yashiro Danahí, Mtra."
+SHLI04005,Metodología de la Investigación,3,Ninguno,G1,08:30-10:00,,,08:30-10:00,,,A208,"CISNEROS REYES Yashiro Danahí, Mtra.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+EALI06027,Métodos Cuantitativos,4,Matematicas Aplicadas,G1,08:00-10:00,,,08:00-10:00,,,A205,"ALVARADO MÉNDEZ Ma. Concepción Dra.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
+EALI06028,Microeconomía,4,Calculo Diferencial,G1,08:00-10:00,,,08:00-10:00,,,A106,"LEÓN SÁNCHEZ María Mercedes, Dra.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
+EALI04029,Negocios Electrónicos,3,Ninguno,G1,18:00-19:30,,,18:00-19:30,,,A106,"CANEDO MONTOYA Enrique Daniel, Ing.","Lizárraga Morales Rocio A. Dra.","CISNEROS REYES Yashiro Danahí, Mtra."
+EALI06053,Negocios Sustentables,3,Ninguno,G1,,,16:00-19:00,,,,A205,"MUÑOZ GONZÁLEZ, Marco Antonio, M.A.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI06031,Obligaciones Fiscales,4,Legislación Empresarial,G1,,10:00-12:00,,,10:00-12:00,,A308,"BANDA GUZMÁN Judith, Dra.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI05032,Plan de Negocios,3,120 Creditos,G1,10:00-11:30,,,10:00-11:30,,,A208,"MACÍAS LÓPEZ Francisco, M.F.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+EALI05033,Planeación Estratégica,4,Ninguno,G1,,12:00-14:00,,,12:00-14:00,,A208,"ALVARADO MÉNDEZ Ma. Concepción Dra.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI03008,Procuración de Fondos,3,Ninguno,G1,18:00-19:30,,18:00-19:30,,,,A208,"SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+,Prodiedad Industrial y Transferencia de Tecnología,4,Ninguno,G1,,14:00-16:00,,,14:00-16:00,,A106,"MAKI DÍAZ Griselda, Dra","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+IILI05100,Producción y Manufactura,4,"Logistica y Cadenas de Suministro y Métodos Cuantitativos",G1,,,10:00-14:00,,,,A208,"ESPINOZA RODRÍGUEZ Victor Manuel, Ing.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+SHLI03058,Proyecto de Tesis,2,Ninguno,G1,,,08:00-10:00,,,,A203,"MEDINA CUELLAR Sergio Ernesto, Dr.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+EALI05036,Proyecto Empresarial de Base Tecnológica,3,Ninguno,G1,16:30-18:00,,,16:30-18:00,,,CTermofluidos,"RANGEL LEON María Catalina, L.G.E.","Lizárraga Morales Rocio A. Dra.","ROCHA IBARRA Jesús Ernesto, Dr."
+,Proyectos en Ingeniería,4,120 Creditos,G1,12:00-14:00,,,12:00-14:00,,,A205,"MACÍAS LÓPEZ Francisco, M.F.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+EALI03038,Psicología de la Empresa,3,Ninguno,G1,,10:30-12:00,,,10:30-12:00,,A203,"ROCHA IBARRA Jesús  Ernesto, Dr.","Lizárraga Morales Rocio A. Dra.","LEÓN SÁNCHEZ María Mercedes, Dra."
+EALI04039,Recursos Humanos,3,Ninguno,G2,16:30-18:00,,,16:30-18:00,,,A205,"GARCÍA PÉREZ Álvaro, Mtro.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI04039,Recursos Humanos,3,Ninguno,G1,,16:30-18:00,,,16:30-18:00,,A208,"GARCÍA PÉREZ Álvaro, Mtro.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+AG0404,Responsabilidad Social,2,Ninguno,G1,,,12:00-14:00,,,,A106,"DUARTE LARA, Juana Angelica, Lic.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI04040,Sectores Empresariales,3,Ninguno,G1,07:00-08:30,,,07:00-08:30,,,A208,"MEDINA CUELLAR Sergio Ernesto, Dr.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI03050,Seminario de Desarrollo Tecnológico,3,Ninguno,G1,12:00-13:30,,,12:00-13:30,,,A203,"ESPINOZA RODRÍGUEZ Victor Manuel, Ing.","Lizárraga Morales Rocio A. Dra.","CISNEROS REYES Yashiro Danahí, Mtra."
+EALI06041,Sistemas de Costeo y Presupuestos,4,Contabilidad Financiera,G2,,16:00-18:00,,,16:00-18:00,,A205,"GONZÁLEZ RINCÓN Iván, M.F.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI06041,Sistemas de Costeo y Presupuestos,4,Contabilidad Financiera,G1,14:00-16:00,,,14:00-16:00,,,A208,"MACÍAS LÓPEZ Francisco, M.F.","Lizárraga Morales Rocio A. Dra.","Rodríguez García Juan Manuel, Mtro."
+EALI03042,Sistematización de Datos,3,Ninguno,G1,,16:00-17:30,,,16:00-17:30,,A203,"FLORES LOZANO Sandra, Mtra.","Lizárraga Morales Rocio A. Dra.","CANEDO MONTOYA Enrique Daniel, Ing."
+EALI04014,Tópicos Selectos de Desarrollo Tecnológico,3,160 Créditos,G1,,,14:00-17:00,,,,A103,"SÁNCHEZ JIMÉNEZ Marco Antonio, Mtro.","Lizárraga Morales Rocio A. Dra.","CANEDO MONTOYA Enrique Daniel, Ing."
+IILI06022,Circuitos Electrónicos,4,90 Créditos,C1,10:00-12:00,,,"10:00-12:00 BLabEle",,,B101,"CASTRO SÁNCHEZ Rogelio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+SHLI03001,Administración de Proyecto de Tesis,2,220 Créditos,C1,,,14:00-16:00,,,,A105,"OROS FLORES Marvella Izamar, M. en I","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06001,Álgebra Lineal,4,Ninguno,C1,10:00-12:00,,,10:00-12:00,,,A105,"IBARRA MANZANO Oscar Gerardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06007,Análisis de Circuitos Eléctricos en Frecuencia,4,"Análisis de Circuitos Eléctricos en Tiempo",C1,14:00-16:00,,,14:00-16:00,,,A105,"AVIÑA CERVANTES Juan Gabriel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06008,Análisis de Circuitos Eléctricos en Tiempo,4,Ninguno,C1,,14:00-16:00,,,14:00-16:00,,B101,"REYES AYONA José Roberto, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06002,Cálculo Diferencial,4,Ninguno,NI-C1,08:00-10:00,,,08:00-10:00,,,B101,"ALMANZA OJEDA Dora Luz, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06002,Cálculo Diferencial (Repetidores),4,Ninguno,S2,18:00-20:00,,,18:00-20:00,,,A310,"ALFARO NAVARRO José Juan, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06003,Cálculo Integral,4,Cálculo Diferencial,REC-C2,16:00-18:00,,,16:00-18:00,,,B101,"MARQUEZ FIGUEROA Sandra M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06003,Cálculo Integral,4,Cálculo Diferencial,C1,,08:00-10:00,,,08:00-10:00,,B101,"SIERRA HERNÁNDEZ Juan Manuel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06004,Cálculo Vectorial y Multivariable,5,Cálculo Integral,C1,,08:00-10:00,09:00-10:00,,08:00-10:00,,A302,"IBARRA MANZANO Oscar Gerardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,C1,,10:00-12:00,,,10:00-12:00,,A105,"ZAMORA GARCIA Ileana del Rocio, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06024,Circuitos Integrados Lineales,4,120 créditos,C1,,12:00-14:00,,,"12:00-14:00 BLabEle",,B101,"HERNÁNDEZ FUSILIER Donato, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI04029,Control Continuo,3,Señales y Sistemas,C1,14:00-15:30,,,14:00-15:30,,,A302,"TORRES ZÚÑIGA Jesús Ixbalank, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI04031,Control Discreto,3,Control Continuo,C1,,14:00-15:30,,,14:00-15:30,,A105,"MARTIN-DIAZ Ignacio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+SHLI03009,Desarrollo Humano y Comunicación,2,Ninguno,NI-C1,,,10:00-12:00,,,,A105,"ZÀRATE BANDA Ma. Magdalena, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI04044,Diseño de Circuitos Impresos,3,Ninguno,C1,,,12:00-15:00,,,,A302,"MATAJIRA RUEDA David, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06005,Ecuaciones Diferenciales,4,Cálculo Integral,C1,12:00-14:00,,,12:00-14:00,,,A309,"SIERRA HERNÁNDEZ Juan Manuel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06053,Electrónica Digital,4,"Laboratorio de Mediciones",C1,"10:00-12:00 BLabEle",,,10:00-12:00,,,B101,"CAMARENA MARTÍNEZ David, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+EALI03009,Espíritu Emprendedor,2,Ninguno,C1,,,10:00-12:00,,,,A302,"ZÀRATE BANDA Ma. Magdalena, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06056,Fibras Ópticas,4,Ninguno,C1,12:00-14:00,,,12:00-14:00,,,A105,"ROJAS LAGUNA Roberto, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI04008,Física de Semiconductores,3,Ninguno,C1,,16:00-17:30,,,16:00-17:30,,A302,"SHULIKA Oleksiy, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+SHLI03019,Formación Cultural e Intercultural,2,Ninguno,C1,,,12:00-14:00,,,,A309,"VAN AMERONGEN Saskia, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+,FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
+,FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A","VAN AMERONGEN Saskia, Dra.",,
+IILI06066,Informática Industrial,4,"Microprocesadores y Microcontroladores",C1,16:00-18:00,,,16:00-18:00,,,A309,"MARTIN-DIAZ Ignacio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+EALI03014,Ingeniería Económica,2,90 Créditos,M1,,,14:00-16:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
+EALI03014,Ingeniería Económica,2,90 Créditos,M2,,,16:00-18:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
+,INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
+,INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
+,INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
+,INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
+,INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
+ACLI10001,Inmersión en el Ambiente Laboral,0,200 Créditos,C1,,,,,,,,"TRUJILLO ROMERO Felipe de Jesús, Dr.","LIZÁRRAGA MORALES Rocío Alfonsina, Dra.","IBARRA MANZANO Mario Alberto, Dr."
+IILI06072,Instrumentación Digital,4,Sistemas de Medición,C1,,"12:00-14:00 BLabEle",,,12:00-14:00,,B101,"AVIÑA CERVANTES Juan Gabriel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+SHLI01041,Integración a la Vida Universitaria,1,Ninguno,NI-C1,,,09:00-10:00,,,,A309,"ZÀRATE BANDA Ma. Magdalena, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI02075,Laboratorio de Mediciones,2,Ninguno,C1,,,10:00-12:00,,,,BLabEle,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06010,Mecánica,4,Ninguno,NI-C1,,10:00-12:00,,,10:00-12:00,,B101,"BELMAN FLORES Juan Manuel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI04011,Métodos Numéricos,3,Cálculo Integral,C1,14:00-15:30,,,14:00-15:30,,,B101,"IBARRA MANZANO Mario Alberto, Dr.","LIZÁRRAGA MORALES Rocío Alfonsina, Dra.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06088,Microondas,4,Ninguno,C1,,16:00-18:00,,,16:00-18:00,,A105,"REYES AYONA José Roberto, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06089,Microprocesadores y Microcontroladores,4,Electrónica Digital,C1,12:00-14:00,,,"12:00-14:00 BLabEle",,,B101,"CERDA VILLAFAÑA Gustavo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06013,Óptica y Acústica,4,Ninguno,C1,12:00-14:00,,,12:00-14:00,,,A302,"ANDRADE LUCIO José Amparo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06093,Optoelectrónica,4,Ninguno,C1,08:00-10:00,,,08:00-10:00,,,A309,"ANDRADE LUCIO José Amparo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06014,Probabilidad y Estadística,4,Cálculo Integral,C1,10:00-12:00,,,10:00-12:00,,,A302,"GARCÍA PÉREZ Arturo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06097,Procesamiento Digital de Señales,4,Señales y Sistemas,C1,,16:00-18:00,,,16:00-18:00,,B101,"SEVERIANO CARRILLO Israel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI05015,Procesos Estocásticos,4,Ninguno,C1,,10:00-12:00,,,10:00-12:00,,A302,"GARCÍA PÉREZ Arturo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06104,Programación en Ingeniería,4,Ninguno,C1,08:00-10:00,,,08:00-10:00,,,A105,"IBARRA MANZANO Mario Alberto, Dr.","LIZÁRRAGA MORALES Rocío Alfonsina, Dra.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06107,Programación Orientada a Objetos,4,"Programación en Ingeniería",S1,12:00-14:00,,,12:00-14:00,,,A310,"LEDESMA OROZCO Sergio Eduardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+EALI06037,Proyectos en Ingeniería,4,80 Créditos,C1,08:00-10:00,,,08:00-10:00,,,A302,"ZÀRATE BANDA Ma. Magdalena, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06016,Química Universitaria,4,Ninguno,NI-C1,,12:00-14:00,,,12:00-14:00,,A302,"ZAMORA GARCIA Ileana del Rocio, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+SHLI03062,Redacción de CV y Entrevista de Trabajo,2,Ninguno,C1,,,,,,12:00-14:00,A309,"ALMANZA OJEDA María Yanet, Lic.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06110,Redes de Computadoras I,4,"Sistemas de Administración de Datos",S1,,16:00-18:00,,,16:00-18:00,,A104,"TURRUBIATES GARCÍA Héctor, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+SHLI03063,Responsabilidad Social,2,Ninguno,NI-C1,,,12:00-14:00,,,,A105,"ZÀRATE BANDA Ma. Magdalena, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+SHLI03065,Seminario de Proyecto de Titulación,2,Ninguno,C1,,,10:00-12:00,,,,A303,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+SHLI03065,Seminario de Proyecto deTitulación,2,220 créditos,S1,,,12:00-14:00,,,,A303,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06115,Señales y Sistemas,4,90 Créditos,C1,,14:00-16:00,,,14:00-16:00,,A309,"SHMALIY Yuriy, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06123,Sistemas de la Comunicación,4,Ninguno,C1,,08:00-10:00,,,08:00-10:00,,A309,"VEGA CORONA Antonio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06125,Sistemas Digitales,4,Electrónica Digital,C1,,10:00-12:00,,,10:00-12:00,,A309,"TRUJILLO ROMERO Felipe de Jesús, Dr.","LIZÁRRAGA MORALES Rocío Alfonsina, Dra.","IBARRA MANZANO Mario Alberto, Dr."
+IILI06126,Sistemas Electrónicos de Potencia,4,Circuitos Electrónicos,C1,"12:00-14:00 BLabEle",,,12:00-14:00,,,B101,"CASTRO SÁNCHEZ Rogelio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06128,Sistemas Ópticos de Comunicación,4,Ninguno,C1,,12:00-14:00,,,12:00-14:00,,A309,"ESTUDILLO AYALA Julián Moisés, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06017,Teoría Electromagnética,4,Ninguno,C1,,12:00-14:00,,,12:00-14:00,,A105,"ALVARADO MÉNDEZ Edgar, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06001,ÁLGEBRA LINEAL,4,Ninguno,E1-NI,14:00-16:00,,,14:00-16:00,,,207,"GUTIÉRREZ MARTÍNEZ Víctor Javier, Dr.",,
+ILLI06006,ALTA TENSIÓN,6,"ELECTROMAGNETÍSMO Y ONDAS",E1,08:00-10:00,,,08:00-10:00,,,L.ELECT.(1),"GONZALEZ PARADA, Adrián, Dr.",,
+IILI06009,ANÁLISIS DE SISTEMAS ELÉCTRICOS DE POTENCIA,4,"CÁLCULO Y MODELADO DE REDES ELÉCTRICAS",E1,10:00-12:00,,,10:00-12:00,,,L.ELECT.(1),"GÓMEZ MARTÍNEZ Miguel Ángel, Dr.",,
+NELI06002,CÁLCULO DIFERENCIAL,4,Ninguno,E1-NI,08:00-10:00,,,08:00-10:00,,,312,"GUTIÉRREZ MARTÍN Heriberto, M.I.",,
+NELI06003,CÁLCULO INTEGRAL,4,Cálculo Diferencial,E1,,12:00-14:00,,,12:00-14:00,,312,"RAMOS CARRANZA Hugo Antonio, Dr.",,
+NELI06003,CÁLCULO INTEGRAL,4,Cálculo Diferencial,E2,,14:00-16:00,,,14:00-16:00,,L.ELECT.(2),"MACIAS AGUILERA Francisco Fidel, Ing.",,
+NELI06004,CÁLCULO VECTORIAL Y MULTIVARIABLE,5,Cálculo Integral,E1,08:00-10:00,,08:00-09:00,08:00-10:00,,,207,"GONZÁLEZ RAMÍREZ Xiomara, Dra.",,
+IILI06014,CÁLCULO Y MODELADO DE REDES ELÉCTRICAS,4,"CIRCUITOS ELÉCTRICOS DE C.A.",E1,,12:00-14:00,,,12:00-14:00,,L.ELECT.(2),"RODRÍGUEZ VILLALÓN Osvaldo, Dr.",,
+IILI06015,CALIDAD DE LA ENERGIA,4,"Electrónica de Potencia Eficiencia Energética",E1,14:00-16:00,,,14:00-16:00,,,312,"RAZO GONZÁLEZ Pablo, Ing.",,
+IILI06016,CENTRALES ELÉCTRICAS,4,"MÁQUINAS SÍNCRONAS Y ASÍNCRONAS",E1,,08:00-10:00,,,08:00-10:00,,207,"TURRUBIATES GARCÍA Héctor, Ing.",,
+IILI06018,CIENCIA DE LOS MATERIALES,4,Química Universitaria,E1,,10:00-12:00,,,10:00-12:00,,L.QUIM.,"ZAMORA GARCÍA Ileana del Rocío, Dra.",,
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M2,,14:00-16:00,,,14:00-16:00,,A201,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M1,,10:00-12:00,,,10:00-12:00,,A304,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M4,,14:00-16:00,,,14:00-16:00,,A301,"HERNÁNDEZ RODRÍGUEZ Eric Noé, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M3,,10:00-12:00,,,10:00-12:00,,A305,"ROJAS SALINAS Wilma Betzabé, Q.F.B.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI06020,CIRCUITOS ELÉCTRICOS DE C.A.,4,"CIRCUITOS ELÉCTRICOS DE C.D.",E1,,10:00-12:00,,,10:00-12:00,,206,"PIZANO MARTÍNEZ Alejandro, Dr.",,
+IILI06020,CIRCUITOS ELÉCTRICOS DE C.A.,4,"CIRCUITOS ELÉCTRICOS DE C.D.",E2,,10:00-12:00,,,10:00-12:00,,L.ELECT.(2),"RODRÍGUEZ VILLALÓN Osvaldo, Dr.",,
+IILI06021,CIRCUITOS ELÉCTRICOS DE C.D.,4,"Ecuaciones Diferenciales",E1,10:00-12:00,,,10:00-12:00,,,206,"ZAMORA CÁRDENAS Enrique Arnoldo, Dr.",,
+IILI06021,CIRCUITOS ELÉCTRICOS DE C.D.,4,"Ecuaciones Diferenciales",E2,16:00-18:00,,,16:00-18:00,,,L.ELECT.(1),"GUTIÉRREZ MARTÍNEZ Víctor Javier, Dr.",,
+IILI04029,CONTROL CONTINUO,3,Señales y sistemas,E1,14:00-15:30,,,14:00-15:30,,,206,"REYES BUENFIL Irving Willihado, Ing.",,
+IILI04030,CONTROL DE EQUIPO ELÉCTRICO,3,"CIRCUITOS ELÉCTRICOS DE C.D. y TRANSFORMADORES",E1,12:00-13:30,,,12:00-13:30,,,L.ELECT.(2),"REYES BUENFIL Irving Willihado, Ing.",,
+IILI06035,COORDINACIÓN DE PROTECCIONES,4,"Análisis de sistemas eléctricos de potencia",E1,16:00-18:00,,,16:00-18:00,,,207,"JUAREZ REQUENA Miguel Angel, M.I.",,
+SHLI03009,DESARROLLO HUMANO Y COMUNICACIÓN,2,Ninguno,E1,,,10:00-12:00,,,,206,"BOLIVAR ALONZO Sofía, Lic.",,
+IILI06006,DETECCIÓN DE FALLAS EN MÁQUINAS ELÉCTRICAS,4,"Electrónica de potencia y eficiencia energética",E1,12:00-14:00,,,12:00-14:00,,,L.ELECT.(1),"GONZALEZ PARADA, Adrián, Dr.",,
+IILI04040,DIBUJO EN INGENIERÍA,3,Ninguno,E1,,12:00-13:30,,,12:00-13:30,,L.ELECT.(1),"REYES BUENFIL Irving Willihado, Ing.",,
+IILI06047,DISEÑO DE MAQUINAS ELÉCTRICAS,4,"MÁQUINAS SÍNCRONAS Y ASÍNCRONAS",E1,08:00-10:00,,,08:00-10:00,,,206,"HERNÁNDEZ ROBLES, IVAN ABEL, DR.",,
+NELI06005,ECUACIONES DIFERENCIALES,4,Cálculo Integral,E1,,14:00-16:00,,,14:00-16:00,,312,"ROSALES GARCÍA Juan, Dr.",,
+NELI06006,ELECTROMAGNETÍSMO Y ONDAS,4,Ninguno,E1,12:00-14:00,,,12:00-14:00,,,312,"MERCHAN VILLALBA Luis Ramón, M.I.",,
+IILI06052,ELECTRÓNICA DE POTENCIA,4,120 CREDITOS,E1,,08:00-10:00,,,08:00-10:00,,206,"LOZANO GARCÍA Jóse Merced, Dr.",,
+EALI03009,ESPÍRITU EMPRENDEDOR,2,Ninguno,E1,,,10:00-12:00,,,,207,"VÁSQUEZ RAMÍREZ Elisa Araceli, Lic.",,
+SHLI03018,EXPRESIÓN VERBAL EN EL AMBIENTE LABORAL,3,Ninguno,E1,,17:30-18:30,,,17:30-18:30,,206,"CAPETILLO RODRÍGUEZ Stephanie, Lic.",,
+SHLI03019,FORMACIÓN CULTURAL E INTERCULTURAL,2,Ninguno,E1-NI,,,12:00-14:00,,,,207,"VÁSQUEZ RAMÍREZ Elisa Araceli, Lic.",,
+,FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
+,FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A","VAN AMERONGEN Saskia, Dra.",,
+IILI06059,FUENTES RENOVABLES DE ENERGÍA,4,120 CREDITOS,E1,,08:00-10:00,,,08:00-10:00,,312,"MARTINEZ PATIÑO Jesús, Dr.",,
+IILI06061,"FUNDAMENTOS DE LOS SISTEMAS DE INFORMACIÓN",4,Ninguno,E1,10:00-12:00,,,10:00-12:00,,,312,"DÁVILA ÁLVAREZ Elena del Rocio, M.I.",,
+EALI03014,INGENIERÍA ECONÓMICA,2,90 Créditos,E1,,,12:00-14:00,,,,L.ELECT.(1),POR CONFIRMAR,,
+EALI03015,INGENIERÍA INDUSTRIAL,2,Ninguno,E1,,,10:00-12:00,,,,L.ELECT.(1),"GÓMEZ MARTÍNEZ Miguel Ángel, Dr.",,
+,INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
+,INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
+,INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
+,INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
+,INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
+SHLI03065,INMERSIÓN EN EL AMBIENTE LABORAL,2,220 CREDITOS,E1,,,08:00-10:00,,,,L.ELECT.(1),"GUTIÉRREZ MARTÍN Heriberto, M.I.",,
+IILI06069,INSTALACIONES ELÉCTRICAS,4,"CIRCUITOS ELÉCTRICOS DE C.A.",E1,10:00-12:00,,,10:00-12:00,,,207,"LOZANO GARCÍA Jóse Merced, Dr.",,
+SHLI01041,INTEGRACIÓN A LA VIDA UNIVERSITARIA,1,Ninguno,E1-NI,,,09:00-10:00,,,,207,"BOLIVAR ALONZO Sofía, Lic.",,
+IILI06074,INTRODUCCIÓN A LAS REDES INTELIGENTES,4,"Sistemas de Distribución",E1,10:00-12:00,,,10:00-12:00,,,L.ELECT.(2),"ESTRADA GARCÍA Héctor Javier, Dr.",,
+IILI06079,MÁQUINAS DE C.D. Y TRANSFORMADORES,4,"CIRCUITOS ELÉCTRICOS DE C.D.",E1,,14:00-16:00,,,14:00-16:00,,207,"HERNÁNDEZ ROBLES, IVAN ABEL, DR.",,
+IILI06082,MÁQUINAS SÍNCRONAS Y ASÍNCRONAS,4,"MÁQUINAS DE C.D. Y TRANSFORMADORES",E1,18:00-20:00,,,18:00-20:00,,,207,"JUAREZ REQUENA Miguel Angel, M.I.",,
+NELI06010,MECÁNICA,4,Ninguno,E1-NI,,10:00-12:00,,,10:00-12:00,,207,"ROSALES GARCÍA Juan, Dr.",,
+IILI04086,MEDICIONES ELÉCTRICAS,3,Ninguno,E1,,12:00-13:30,,,12:00-13:30,,206,"ESTRADA PINTOR Marco Ivan, Ing.",,
+NELI04011,MÉTODOS NUMÉRICOS,3,Cálculo Integral,E1,,10:00-11:30,,,10:00-11:30,,312,"ZAMORA CÁRDENAS Enrique Arnoldo, Dr.",,
+IILI04105,PROGRAMACIÓN EN INGENIERÍA ELÉCTRICA,3,Ninguno,E1,12:00-13:30,,,12:00-13:30,,,207,"GUZMÁN CABRERA Rafael, Dr.",,
+EALI06037,PROYECTOS DE INGENIERÍA,4,120 Créditos,E1,16:00-18:00,,,16:00-18:00,,,206,"RAMOS CARRANZA Hugo Antonio, Dr.",,
+NELI06016,QUÍMICA UNIVERSITARIA,4,Ninguno,E1-NI,16:00-18:00,,,16:00-18:00,,,,"VIDAL CÁRDENAS Geronimo, Ing.",,
+SHLI03062,REDACCIÓN DE CV Y ENTREVISTA DE TRABAJO,3,Ninguno,E1,,16:00-17:30,,,16:00-17:30,,206,"CAPETILLO RODRÍGUEZ Stephanie, Lic.",,
+SHLI03063,RESPONSABILIDAD SOCIAL,2,Ninguno,E1,,,12:00-14:00,,,,206,"BOLIVAR ALONZO Sofía, Lic.",,
+ACLI10001,SEMINARIO DE PROYECTO DE TITULACIÓN,2,220 CREDITOS,E1,,,12:00-14:00,,,,L.ELECT.(1),"GUTIÉRREZ MARTÍN Heriberto, M.I.",,
+IILI06115,SEÑALES Y SISTEMAS,4,90 Créditos,E1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(1),"GUZMÁN CABRERA Rafael, Dr.",,
+IILI06121,SISTEMAS DE DISTRIBUCIÓN,4,Instalaciones Eléctricas,E1,12:00-14:00,,,12:00-14:00,,,206,"PIZANO MARTÍNEZ Alejandro, Dr.",,
+IILI04129,SUBESTACIONES ELÉCTRICAS,4,"MÁQUINAS DE C.D. Y TRANSFORMADORES",E1,,18:00-20:00,,,18:00-20:00,,207,"JUAREZ REQUENA Miguel Angel, M.I.",,
+NELI06017,TEORÍA ELECTROMAGNÉTICA,4,Ninguno,E1,,14:00-16:00,,,14:00-16:00,,206,"ROMERO MANCERA, Homero, Ing.",,
+NELI06017,TEORÍA ELECTROMAGNÉTICA,4,Ninguno,E2,,12:00-14:00,,,12:00-14:00,,207,"GONZÁLEZ RAMÍREZ Xiomara, dra.",,
+IILI06146,(SISTEMAS ELÉCTRICOS EN MEDIA  Y ALTA,4,200 créditos,E1,16:00-18:00,,,16:00-18:00,,,L.ELECT.(2),"ARROYO RAMOS Sergio, Ing.",,
+IILI03002,Aire Acondicionado y Refrigeración,3,Transferencia de Calor,M1,,08:00-9:30,,,08:00-9:30,,A306,"BELMAN FLORES Juan Manuel, Dr.","DAMIÁN ASCENCIO César Eduardo, Dr.","HERNANDEZ GUERRERO Abel, Dr."
+NELI06001,Algebra Lineal,4,Ninguno,NI-M2,,12:00-14:00,,,12:00-14:00,,A301,"RAZO HERNÁNDEZ Claudia, M.I.","RICO MARTÍNEZ José María, Dr.","BELMAN FLORES Juan Manuel, Dr."
+NELI06001,Algebra Lineal,4,Ninguno,NI-M1,08:00-10:00,,,08:00-10:00,,,A201,"RICO MARTÍNEZ José María, Dr.","RAZO HERNÁNDEZ Claudia, M.I.","BELMAN FLORES Juan Manuel, Dr."
+IILI04010,Análisis y Síntesis de Mecanismos,3,"Dinámica de Cuerpo Rígido",M1,,10:00-11:30,,,10:00-11:30,,Aula Lab. Manuf.,"GARCÍA MURILLO Mario Alberto, Dr.","CERVANTES SÁNCHEZ J. Jesús, Dr.","AGUILERA CORTES Luz Antonio, Dr."
+IILI04010,Análisis y Síntesis de Mecanismos,3,"Dinámica de Cuerpo Rígido",M1,,10:00-11:30,,,10:00-11:30,,Aula Lab. Termo.,"MARTÍNEZ MARTÍNEZ Ricardo, M.I.","AGUILERA CORTES Luz Antonio, Dr.","RICO MARTÍNEZ José María, Dr."
+NELI06002,Calculo Diferencial,4,Ninguno,NI-M2,08:00-10:00,,,08:00-10:00,,,A301,"BELMAN FLORES Juan Manuel, Dr.","AGUILERA CORTÉS Luz Antonio, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr."
+NELI06002,Calculo Diferencial,4,Ninguno,NI-M1,,08:00-10:00,,,08:00-10:00,,A201,"RAZO HERNÁNDEZ Claudia, M.I.","AGUILERA CORTÉS Luz Antonio, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr."
+NELI06002,Cálculo Diferencial (Repetidores),4,Ninguno,S2,18:00-20:00,,,18:00-20:00,,,A310,"ALFARO NAVARRO José Juan, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06003,Cálculo Integral,4,Cálculo Diferencial,REC-C2,16:00-18:00,,,16:00-18:00,,,B101,"MARQUEZ FIGUEROA Sandra M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06003,Cálculo Integral,4,Cálculo Diferencial,M1,12:00-14:00,,,12:00-14:00,,,A201,"RANGEL HERNÁNDEZ Víctor Hugo, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","AGUILERA CORTÉS Luz Antonio, Dr."
+NELI06003,Cálculo Integral,4,Cálculo Diferencial,M2,12:00-14:00,,,12:00-14:00,,,A301,"RAZO HERNÁNDEZ Claudia, M.I.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","AGUILERA CORTÉS Luz Antonio, Dr."
+NELI06004,Calculo Vectorial Multivariable,5,Cálculo Integral,M1,14:00-15:40,,14:00-15:40,14:00-15:40,,,A201,"RAZO MEDINA Daniel Alberto, Dr.","RAZO HERNÁNDEZ Claudia, M.I.","RANGEL HERNÁNDEZ Víctor Hugo, Dr."
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M2,,14:00-16:00,,,14:00-16:00,,A201,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M1,,10:00-12:00,,,10:00-12:00,,A304,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M4,,14:00-16:00,,,14:00-16:00,,A301,"HERNÁNDEZ RODRÍGUEZ Eric Noé, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M3,,10:00-12:00,,,10:00-12:00,,A305,"ROJAS SALINAS Wilma Betzabé, Q.F.B.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI04017,Ciencia de Materiales para Ingeniería Mecánica,3,"Ciencia de Materiales para Ingeniería",M1,16:00-17:30,,,16:00-17:30,,,A201,"BALVANTÍN GARCÍA Antonio de Jesús, Dr.","HERNÁNDEZ RODRIGUEZ Erick Noe, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica; Mecánica de Fluidos",M3,,12:00-13:30,,,12:00-13:30,,Aula Lab. Manuf.,"COLÍN VENEGAS José, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
+IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica; Mecánica de Fluidos",M1,,12:00-13:30,,,12:00-13:30,,A305,"NÚÑEZ ALTAMIRANO Diego Alfredo, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
+IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica; Mecánica de Fluidos",M2,,12:00-13:30,,,12:00-13:30,,A306,"TORRES DEL CARMEN Felipe de Jesús, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
+IILI04033,Controladores Lógicos Programables,4,"Fundamentos de Ingeniería Eléctrica",M2,,12:00-14:00,,,12:00-14:00,,Aula Lab. Termo.,"CAPILLA GONZÁLEZ Gustavo, Dr.","PLASCENCIA MORA Héctor, Dr.","VIDAL LESSO Agustín, Dr."
+IILI04033,Controladores Lógicos Programables,4,"Fundamentos de Ingeniería Eléctrica",M1,18:00-20:00,,,18:00-20:00,,,A304,"COLÍN ROBLES José de Jesús, Ing.","PLASCENCIA MORA Héctor, Dr.","VIDAL LESSO Agustín, Dr."
+IILI04033,Controladores Lógicos Programables,4,"Fundamentos de Ingeniería Eléctrica",M3,,16:00-18:00,,,16:00-18:00,,Aula Lab. Termo.,Por asignar,"PLASCENCIA MORA Héctor, Dr.","VIDAL LESSO Agustín, Dr."
+SHLI03009,Desarrollo Humano y Comunicación,2,Ninguno,NI-M2,,,10:00-12:00,,,,A301,"GARRIDO ACEVES Paulina Lizeth, Lic.","ZALETA AGUILAR Alejandro, Dr.","GUEVARA RAMÍREZ Nadia Olivia, Lic."
+IILI04040,Dibujo de Ingeniería,3,Ninguno,M1,14:00-15:30,,,14:00-15:30,,,Lab. Cómputo B,"CAPILLA GONZÁLEZ Gustavo, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
+IILI04040,Dibujo de Ingeniería,3,Ninguno,M2,16:00-17:30,,,16:00-17:30,,,Lab. Cómputo B,Por asignar,"LEDESMA OROZCO Elias Rigoberto, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
+IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A305,"AGUILERA CORTÉS Luz Antonio, Dr.","CERVANTES SÁNCHEZ J. Jesús, Dr.","COLÍN VENEGAS José, Dr."
+IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A306,"CERVANTES SÁNCHEZ J. Jesús, Dr.","COLÍN VENEGAS José, Dr.","RICO MARTÍNEZ José María, Dr."
+IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A304,"COLÍN VENEGAS José, Dr.","GARCÍA MURILLO Mario Alberto, Dr.","CERVANTES SÁNCHEZ J. Jesús, Dr."
+IILI04042,Dinámica de la Partícula,3,Estática,M1,14:00-15:30,,,14:00-15:30,,,A301,"COLÍN VENEGAS José, Dr.","AGUILERA CORTÉS Luz Antonio, Dr.","RICO MARTÍNEZ José María, Dr."
+IILI04042,Dinámica de la Partícula,3,Estática,M3,14:00-15:30,,,14:00-15:30,,,Aula Lab. Termo.,"GARCÍA MURILLO Mario Alberto, Dr.","AGUILERA CORTÉS Luz Antonio, Dr.","RICO MARTÍNEZ José María, Dr."
+IILI04042,Dinámica de la Partícula,3,Estática,M2,14:00-15:30,,,14:00-15:30,,,Aula Taller Mec.,"RICO MARTÍNEZ José María, Dr.","COLÍN VENEGAS José, Dr.","GARCÍA MURILLO Mario Alberto, Dr."
+IILI04043,Dinámica de Maquinaria,3,"Dinámica de Cuerpo Rígido",M1,10:00-11:30,,,10:00-11:30,,,Aula Taller Mec.,"CERVANTES SÁNCHEZ J. Jesús, Dr.","GONZALEZ PALACIOS Maximino Antonio, Dr.","GARCÍA MURILLO Mario Alberto, Dr."
+IILI04045,Diseño de Elementos de Máquinas,3,Diseño Mecánico,M1,10:00-11:30,,,10:00-11:30,,,A304,"VIDAL LESSO Agustín, Dr.","AGUILERA GOMEZ Eduardo, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI04046,Diseño de Experimentos y Probabilístico,3,"Diseño Mecánico, Probabilidad y Estadística",M1,08:00-9:30,,,08:00-9:30,,,Aula Lab. Termo.,"LEDESMA OROZCO Elias Rigoberto, Dr.","VIDAL LESSO Agustin, Dr.","AGUILERA GOMEZ Eduardo, Dr."
+IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,16:00-17:40,,16:00-17:40,16:00-17:40,,,A304,"GUTIERREZ RIVERA Miguel Ernesto, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
+IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,16:00-17:40,,16:00-17:40,16:00-17:40,,,A305,"HERNÁNDEZ PÉREZ Adrián, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
+IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,,14:20-16:00,14:20-16:00,,14:20-16:00,,Aula Lab. Termo.,"VIDAL LESSO Agustín, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
+IILI04168,Diseño y Aplicación de Materiales Compuestos,3,"Ciencia de Materiales para Ingeniería Mecánica",M1,10:00-11:30,,,10:00-11:30,,,A305,"RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA José Angel, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr."
+NELI06005,Ecuaciones Diferenciales,4,Cálculo Integral,M1,,12:00-14:00,,,12:00-14:00,,A201,"AGUILERA CORTÉS Luz Antonio, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","RAZO HERNÁNDEZ Claudia, M.I."
+NELI06006,Electromagnetismo y Ondas,4,Ninguno,M1,,16:00-18:00,,,16:00-18:00,,A201,"RAZO MEDINA Daniel Alberto, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","HERNÁNDEZ RODRIGUEZ Erick Noe, Dr."
+EALI03009,Espíritu Emprendedor,2,Ninguno,M1,,,16:00-18:00,,,,A201,"RODRÍGUEZ GARCÍA Juan Manuel , C.P.","ZALETA AGUILAR Alejandro, Dr.","GARRIDO ACEVES Paulina Lizeth, Lic."
+IILI04055,Estática,3,Cálculo Integral,M3,08:00-9:30,,,08:00-9:30,,,Aula Taller Mec.,"NEGRETE ROMERO Guillermo, M. en I.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI04055,Estática,3,Cálculo Integral,M1,08:00-9:30,,,08:00-9:30,,,Aula Lab. Manuf.,"PLASCENCIA MORA Héctor, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI04055,Estática,3,Cálculo Integral,M4,,08:00-9:30,,,08:00-9:30,,Aula Taller Mec.,"DIOSDADO DE LA PEÑA José Angel, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI04055,Estática,3,Cálculo Integral,M2,,08:00-9:30,,,08:00-9:30,,Aula Lab. Manuf.,"RAMÍREZ ELIAS Víctor Alfonso, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+SHLI03019,Formación Cultural e Intercultural,2,Ninguno,M1,,,12:00-14:00,,,,A201,"GARRIDO ACEVES Paulina Lizeth, Lic.","GUEVARA RAMÍREZ Nadia Olivia, Lic.","PLASCENCIA MORA Héctor, Dr."
+,FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
+,FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A", "VAN AMERONGEN Saskia, Dra.",,
+IILI06060,Fundamentos de Ingeniería Eléctrica,4,70 Créditos,M1,10:00-12:00,,,10:00-12:00,,,A306,"HERNÁNDEZ RODRÍGUEZ Eric Noé, Dr.","CANO ANDRADE Sergio, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr."
+IILI06061,Fundamentos de los Sistemas de Información,4,Ninguno,NI-M1,,10:00-12:00,,,10:00-12:00,,A201,"NÚÑEZ ALTAMIRANO Diego Alfredo, Dr.","TORRES DEL CARMEN Felipe de Jesús, Dr.","LUVIANO ORTIZ, Jose Luis, Dr."
+IILI06061,Fundamentos de los Sistemas de Información,4,Ninguno,NI-M2,,10:00-12:00,,,10:00-12:00,,A301,"RAMÍREZ SILVA Marco Aurelio, Ing.","TORRES DEL CARMEN Felipe de Jesús, Dr.","LUVIANO ORTIZ, Jose Luis, Dr."
+IILI03065,Impacto Ambiental,2,160 Créditos,M1,,,12:00-14:00,,,,A306,"ROJAS SALINAS Wilma Betzabé, Q.F.B.","VIOLANTE GAVIRA Amanda Enriqueta, Mtra.","ZALETA AGUILAR Alejandro, Dr."
+EALI03014,Ingeniería Económica,2,90 Créditos,M1,,,14:00-16:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
+EALI03014,Ingeniería Económica,2,90 Créditos,M2,,,16:00-18:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
+EALI04016,Ingenieria Industrial y de Métodos,3,"Algebra Lineal; Ingeniería Económica",M1,,12:00-13:30,,,12:00-13:30,,Aula Taller Mec.,"ALMANZA ROBLES Francisco Javier, Ing.","DIOSDADO DE LA PEÑA José Angel, Dr.","AGUILERA GOMEZ Eduardo, Dr."
+,INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
+,INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
+,INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
+,INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
+,INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
+ACLI10001,Inmersión en el Ambiente Laboral,0,200 Créditos,M1,,,,,,08:00-10:00,A201,"DIOSDADO DE LA PEÑA José Angel, Dr.","ZALETA AGUILAR Alejandro, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr."
+IILI04070,Instalaciones Industriales,3,"Transferencia de Calor; Procesos de Manufactura; Dibujo de",M1,,18:00-19:30,,,18:00-19:30,,A201,"PÉREZ CARETA Eduardo, M.I.","VIOLANTE GAVIRA Amanda Enriqueta, Mtra.","CANO ANDRADE Sergio, Dr."
+SHLI01041,Integración a la Vida Universitaria,1,Ninguno,NI-M1,,,08:00-09:00,,,,A201,"GUEVARA RAMÍREZ Nadia Olivia, Lic.","DIOSDADO DE LA PEÑA José Angel, Dr.","GARRIDO ACEVES Paulina Lizeth, Lic."
+SHLI01041,Integración a la Vida Universitaria,1,Ninguno,NI-M2,,,09:00-10:00,,,,A301,"GUEVARA RAMÍREZ Nadia Olivia, Lic.","DIOSDADO DE LA PEÑA José Angel, Dr.","GARRIDO ACEVES Paulina Lizeth, Lic."
+IILI02075,Laboratorio de Mediciones,2,Ninguno,M1,,8:00-10:00,,,,,Lab. Electrónica,"CANEDO ROMERO Gerardo Enrique, M.I.","BALVANTIN GARCIA Antonio de Jesus, Dr.","CAPILLA GONZÁLEZ Gustavo, Dr."
+IILI02075,Laboratorio de Mediciones,2,Ninguno,M2,,,,,8:00-10:00,,Lab. Electrónica,Por asignar,"BALVANTIN GARCIA Antonio de Jesus, Dr.","CAPILLA GONZÁLEZ Gustavo, Dr."
+IILI03078,Manufactura Avanzada,3,150 Créditos,M1,10:00-11:30,,,10:00-11:30,,,Celdas de Manuf.,"AGUILERA GÓMEZ Eduardo, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI03078,Manufactura Avanzada,3,150 Créditos,M5,,,08:00-11:00,,,,Celdas de Manuf.,"BALVANTÍN GARCÍA Antonio de Jesús, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI03078,Manufactura Avanzada,3,150 Créditos,M6,,,11:00-14:00,,,,Celdas de Manuf.,"BALVANTÍN GARCÍA Antonio de Jesús, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI03078,Manufactura Avanzada,3,150 Créditos,M3,,10:00-11:30,,,10:00-11:30,,Celdas de Manuf.,"MARTÍNEZ RAMÍREZ Israel, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI03078,Manufactura Avanzada,3,150 Créditos,M2,12:00-13:30,,,12:00-13:30,,,Celdas de Manuf.,"REVELES ARREDONDO Juan Francisco, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI03081,Máquinas Hidráulicas y Neumáticas,3,"Termodinámica; Mecánica de Fluidos",M1,14:00-15:30,,,14:00-15:30,,,A304,"ZALETA AGUILAR Alejandro, Dr.","BELMAN FLORES Juan Manuel, Dr.","ELIZALDE BLANCAS Francisco, Dr."
+IILI06083,Mecánica de Fluidos,5,"Ecuaciones Diferenciales",M1,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Lab. Manuf.,"DAMIÁN ASCENCIO César Eduardo, Dr.","HERNANDEZ GUERRERO Abel, Dr.","BELMAN FLORES Juan Manuel, Dr."
+IILI06083,Mecánica de Fluidos,5,"Ecuaciones Diferenciales",M2,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Taller Mec.,"LUVIANO ORTÍZ José Luis, Dr.","HERNANDEZ GUERRERO Abel, Dr.","BELMAN FLORES Juan Manuel, Dr."
+IILI06083,Mecánica de Fluidos,5,"Ecuaciones Diferenciales",M2,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Lab. Termo.,"RIESCO ÁVILA José Manuel, Dr.","HERNANDEZ GUERRERO Abel, Dr.","BELMAN FLORES Juan Manuel, Dr."
+IILI06084,Mecánica de Sólidos,5,Estática,M2,,12:00-14:00,13:00-14:00,,12:00-14:00,,A304,"NEGRETE ROMERO Guillermo, M. en I.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI06084,Mecánica de Sólidos,5,Estática,M1,,08:00-9:40,08:00-9:40,,08:00-9:40,,A305,"PLASCENCIA MORA Héctor, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI03085,Mecánica de Sólidos Avanzada,3,Mecánica de Sólidos,M1,,08:30-10:00,,,08:30-10:00,,A304,"HERNÁNDEZ PÉREZ Adrián, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+NELI04011,Métodos Numéricos,3,Cálculo Integral,M2,,10:00-11:30,,,10:00-11:30,,A306,"RAZO HERNÁNDEZ Claudia, M.I.","RANGEL HERNANDEZ Victor Hugo, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+NELI04011,Métodos Numéricos,3,Cálculo Integral,M1,16:00-17:30,,,16:00-17:30,,,A301,"RAZO MEDINA Daniel Alberto, Dr.","RANGEL HERNANDEZ Victor Hugo, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI04092,Motores de Combustión Interna,3,Termodinámica,M1,,16:00-17:30,,,16:00-17:30,,Aula Lab. Manuf.,"RIESCO ÁVILA José Manuel, Dr.","HERNANDEZ GUERRERO Abel, Dr.","LUVIANO ORTIZ, Jose Luis, Dr."
+IILI06094,Plantas Térmicas y Uso Racional de la Energía,5,"Termodinámica; Mecánica de Fluidos",M1,,08:00-9:40,08:00-9:40,,08:00-9:40,,Aula Lab. Termo.,"ZALETA AGUILAR Alejandro, Dr.","BELMAN FLORES Juan Manuel, Dr.","CANO ANDRADE Sergio, Dr."
+NELI06014,Probabilidad y Estadística,4,Cálculo Integral,M1,,16:00-18:00,,,16:00-18:00,,A301,"ARELLANO VELÁZQUEZ Noé Ricardo, Ing.","VIDAL LESSO Agustín, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr."
+IILI04098,Procesos de Corte,3,"Ciencia de Materiales para Ingeniería Mecánica",M1,,10:00-11:30,,,10:00-11:30,,Aula Taller Mec.,"NEGRETE ROMERO Guillermo, M. en I.","AGUILERA GOMEZ Eduardo, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI04099,Procesos de Manufactura,3,"Ciencia de Materiales para Ingeniería Mecánica",M1,,14:00-15:30,,,14:00-15:30,,Aula Taller Mec.,"AGUILERA GÓMEZ Eduardo, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.",VIDAL LESSO Agustin Dr.
+EALI06037,Proyectos en Ingeniería,4,120 Créditos,M1,14:00-16:00,,,14:00-16:00,,,A306,"VIOLANTE GAVIRA Amanda Enriqueta, Mtra.","PLASCENCIA MORA Héctor, Dr.","ZALETA AGUILAR Alejandro, Dr."
+NELI06016,Química Universitaria,4,Ninguno,NI-M2,10:00-12:00,,,10:00-12:00,,,A301,"ROJAS SALINAS Wilma Betzabé, Q.F.B.","HERNÁNDEZ PÉREZ Adrian, Dr.","HERNÁNDEZ RODRIGUEZ Erick Noe, Dr."
+NELI06016,Química Universitaria,4,Ninguno,NI-M1,10:00-12:00,,,10:00-12:00,,,A201,"VIOLANTE GAVIRA Amanda Enriqueta, Mtra.","HERNÁNDEZ RODRIGUEZ Erick Noe, Dr.","HERNÁNDEZ PÉREZ Adrian, Dr."
+SHLI03063,Responsabilidad Social,2,Ninguno,M2,,,14:00-16:00,,,,A306,"GARRIDO ACEVES Paulina Lizeth, Lic.","RODRÍGUEZ GARCÍA Juan Manuel , C.P.","LEDESMA OROZCO Elias Rigoberto, Dr."
+SHLI03063,Responsabilidad Social,2,Ninguno,M1,,,14:00-16:00,,,,A304,ORTEGA ZÚÑIGA Lourdes Paulina.,"RODRÍGUEZ GARCÍA Juan Manuel , C.P.","LEDESMA OROZCO Elias Rigoberto, Dr."
+IILI04112,Robótica,3,"Análisis y Síntesis de Mecanismos",M1,,07:00-08:30,,,07:00-08:30,,A304,"GARCÍA MURILLO Mario Alberto, Dr.","RICO MARTINEZ Jose Maria, Dr.","CERVANTES SANCHEZ Jose Jesus, Dr."
+SHLI03065,Seminario de Proy. de Titulación,2,220 Créditos,M1,,,08:00-10:00,,,,Aula Lab. Manuf.,"MARTÍNEZ MARTÍNEZ Ricardo, M.I.","VIDAL LESSO Agustín, Dr.","CANO ANDRADE Sergio, Dr."
+IILI04120,Sistemas de Control,3,120 Créditos,M1,16:00-17:30,,,16:00-17:30,,,Aula Lab. Manuf.,"TORRES DEL CARMEN Felipe de Jesús, Dr.","GONZALEZ PALACIOS Maximino Antonio, Dr.","NÚÑEZ ALTAMIMRANO Diego Armando, Dr."
+IILI03165,"Taller de Diseño",3,"Diseño de Elementos de Máquinas",,,14:00-15:30,,,14:00-15:30,,A306,"GUTIERREZ RIVERA Miguel Ernesto, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","PLASCENCIA MORA Héctor, Dr."
+IILI06130,Termodinámica,5,Cálculo Integral,M3,08:00-9:40,,08:00-9:40,08:00-9:40,,,A306,"CANO ANDRADE Sergio, Dr.","ELIZALDE BLANCAS Francisco, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
+IILI06130,Termodinámica,5,Cálculo Integral,M1,08:00-9:40,,08:00-9:40,08:00-9:40,,,A304,"HERNÁNDEZ GUERRERO Abel, Dr.","ELIZALDE BLANCAS Francisco, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
+IILI03164,Termoeconomía,3,"Termodinámica; Ingenieria Economica",M1,,16:00-17:30,,,16:00-17:30,,A305,"RANGEL HERNÁNDEZ Víctor Hugo, Dr.","ZALETA AGUILAR Alejandro, Dr.","BELMAN FLORES Juan Manuel, Dr."
+IILI06138,Transferencia de Calor,5,"Termodinámica; Ecuaciones Diferenciales",M1,10:00-11:40,,10:00-11:40,10:00-11:40,,,Aula Lab. Manuf.,"ELIZALDE BLANCAS Francisco, Dr.","LUVIANO ORTIZ, Jose Luis, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
+IILI06138,Transferencia de Calor,5,"Termodinámica; Ecuaciones Diferenciales",M1,10:00-11:40,,10:00-11:40,10:00-11:40,,,Aula Lab. Termo.,"HERNÁNDEZ GUERRERO Abel, Dr.","LUVIANO ORTIZ, Jose Luis, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
+IILI06142,Turbomáquinas y Equipos Térmicos,5,"Mecánica de Fluidos; Transferencia de Calor",M1,14:00-15:40,,14:00-15:40,14:00-15:40,,,A305,"LUVIANO ORTÍZ José Luis, Dr.","ZALETA AGUILAR Alejandro, Dr.","RIESCO AVILA Jose Manuel, Dr."
+IILI06143,Vibraciones Mecánicas,4,"Dinámica de Cuerpo Rígido",M1,,14:00-16:00,,,14:00-16:00,,A304,"COLÍN VENEGAS José, Dr.","GONZÁLEZ PALACIOS Maximino Antonio, Dr.","TORRES DEL CARMEN Felipe de Jesús, Dr."
+NELI06001,Álgebra Lineal,4,,NI-MCT1,14:00-16:00,,,14:00-16:00,,,A202,CABRERA MOSQUEDA Daniel,,
+NELI06001,Álgebra Lineal,4,,NI-MCT2,,8:00-10:00,,,8:00-10:00,,A202,CABRERA MOSQUEDA Daniel,,
+IILI04010,Análisis y Síntesis de Mecanismos,3,"Dinámica de Cuerpo Rígido",M1,,10:00-11:30,,,10:00-11:30,,Aula Lab. Manuf.,"GARCÍA MURILLO Mario Alberto, Dr.","CERVANTES SÁNCHEZ J. Jesús, Dr.","AGUILERA CORTES Luz Antonio, Dr."
+IILI04010,Análisis y Síntesis de Mecanismos,3,"Dinámica de Cuerpo Rígido",M1,,10:00-11:30,,,10:00-11:30,,Aula Lab. Termo.,"MARTÍNEZ MARTÍNEZ Ricardo, M.I.","AGUILERA CORTES Luz Antonio, Dr.","RICO MARTÍNEZ José María, Dr."
+IILI04010,Análisis y Síntesis de Mecanismos,3,IILI04041,MCT1,,16:00-17:30,,,16:00-17:30,,A311,"NUÑEZ ALTAMIRANO Diego Armando Dr.",,
+IILI04012,Aplicaciones de Sistemas Mecatrónicos,3,IILI04118,MCT1,16:00-17:30,,,16:00-17:30,,,A202,"CASTRO SÁNCHEZ Rogelio, Dr.",,
+NELI06002,Cálculo Diferencial,4,,NI-MCT1,08:00-10:00,,,08:00-10:00,,,A202,MARTINEZ ROMERO Elizabeth Ing.,,
+NELI06002,Cálculo Diferencial,4,,NI-MCT2,14:00-16:00,,,14:00-16:00,,,A210,TORRES CISNEROS Miguel Dr.,,
+NELI06002,Cálculo Diferencial,4,,MCT3,16:00-18:00,,,16:00-18:00,,,A210,ALFARO NAVARRO Juan José Ing.,,
+NELI06002,Cálculo Diferencial (Repetidores),4,Ninguno,S2,18:00-20:00,,,18:00-20:00,,,A310,"ALFARO NAVARRO José Juan, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06003,Cálculo Integral,4,Cálculo Diferencial,REC-C2,16:00-18:00,,,16:00-18:00,,,B101,"MARQUEZ FIGUEROA Sandra M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06003,Cálculo Integral,4,NELI06002,MCT1,,12:00-14:00,,,12:00-14:00,,A210,HUERTA ROSALES Roberto Ing.,,
+NELI06004,Cálculo Vectorial y Multivariable,5,NELI06003,MCT1,,8:00-9:40,8:00-9:40,,8:00-9:40,,A210,"ARELLANO VELAZQUEZ Noé Ricardo",,
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M2,,14:00-16:00,,,14:00-16:00,,A201,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M1,,10:00-12:00,,,10:00-12:00,,A304,"GONZÁLEZ ROLÓN Bárbara, Dra.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M4,,14:00-16:00,,,14:00-16:00,,A301,"HERNÁNDEZ RODRÍGUEZ Eric Noé, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI06018,Ciencia de Materiales para Ingeniería,4,Química Universitaria,M3,,10:00-12:00,,,10:00-12:00,,A305,"ROJAS SALINAS Wilma Betzabé, Q.F.B.","LEDESMA OROZCO Elias Rigoberto, Dr.","HERNANDEZ PEREZ Adrian, Dr."
+IILI06018,Ciencia de materiales para Ingeniería,4,NELI06016,MCT1,,14:00-16:00,,,14:00-16:00,,A311,ZAMORA GARCÍA Ileana,,
+IILI06019,Circuitos Eléctricos,4,NELI060005,MCT1,14:00-16:00,,,14:00-16:00,,,A311,"OROZCO MUÑIZ  Juan Diego M. En I.",,
+IILI06022,Circuitos Electrónicos,4,NELI06005,MCT1,8:00-10:00,,,"08:00-10:00 BlabELE",,,A210,"FLORES CÁRDENAS Enrique M. en I.",,
+IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica; Mecánica de Fluidos",M3,,12:00-13:30,,,12:00-13:30,,Aula Lab. Manuf.,"COLÍN VENEGAS José, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
+IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica; Mecánica de Fluidos",M1,,12:00-13:30,,,12:00-13:30,,A305,"NÚÑEZ ALTAMIRANO Diego Alfredo, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
+IILI03023,Circuitos Hidráulicos y Neumáticos,3,"Termodinámica; Mecánica de Fluidos",M2,,12:00-13:30,,,12:00-13:30,,A306,"TORRES DEL CARMEN Felipe de Jesús, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","CANO ANDRADE Sergio, Dr."
+IILI06024,"Circuitos Integrados Lineales",4,120 Créditos,MCT1,"08:00-10:00 LAB ELECT",,,08:00-10:00,,,A210,IBARRA MANZANO Oscar G. Dr.,,
+IILI04033,Controladores Lógicos Programables,4,"Fundamentos de Ingeniería Eléctrica",M2,,12:00-14:00,,,12:00-14:00,,Aula Lab. Termo.,"CAPILLA GONZÁLEZ Gustavo, Dr.","PLASCENCIA MORA Héctor, Dr.","VIDAL LESSO Agustín, Dr."
+IILI04033,Controladores Lógicos Programables,4,"Fundamentos de Ingeniería Eléctrica",M1,18:00-20:00,,,18:00-20:00,,,A304,"COLÍN ROBLES José de Jesús, Ing.","PLASCENCIA MORA Héctor, Dr.","VIDAL LESSO Agustín, Dr."
+IILI04033,Controladores Lógicos Programables,4,"Fundamentos de Ingeniería Eléctrica",M3,,16:00-18:00,,,16:00-18:00,,Aula Lab. Termo.,Por asignar,"PLASCENCIA MORA Héctor, Dr.","VIDAL LESSO Agustín, Dr."
+IILI04033,Controladores Lógicos Programables,3,IILI06060,MCT1,,14:00-15:30,,,14:00-15:30,,A202,"OROZCO MUÑIZ  Juan Diego M. En I.",,
+SHLI03009,Desarrollo Humano y comunicación,2,,MCT1,,,14:00-16:00,,,,A311,GONZALEZ GARCIA Luz Estela,,
+IILI04040,Dibujo de Ingeniería,3,Ninguno,M4,,16:00-17:30,,,16:00-17:30,,Lab. Cómputo B,"MARTÍNEZ RAMÍREZ Israel, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
+IILI04040,Dibujo de Ingeniería,3,Ninguno,M3,,14:00-15:30,,,14:00-15:30,,Lab. Cómputo B,"REVELES ARREDONDO Juan Francisco, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
+IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A305,"AGUILERA CORTÉS Luz Antonio, Dr.","CERVANTES SÁNCHEZ J. Jesús, Dr.","COLÍN VENEGAS José, Dr."
+IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A306,"CERVANTES SÁNCHEZ J. Jesús, Dr.","COLÍN VENEGAS José, Dr.","RICO MARTÍNEZ José María, Dr."
+IILI04041,Dinámica de Cuerpo Rígido,3,Dinámica de la Partícula,M1,12:00-13:30,,,12:00-13:30,,,A304,"COLÍN VENEGAS José, Dr.","GARCÍA MURILLO Mario Alberto, Dr.","CERVANTES SÁNCHEZ J. Jesús, Dr."
+IILI04042,Dinámica de la Partícula,3,Estática,M1,14:00-15:30,,,14:00-15:30,,,A301,"COLÍN VENEGAS José, Dr.","AGUILERA CORTÉS Luz Antonio, Dr.","RICO MARTÍNEZ José María, Dr."
+IILI04042,Dinámica de la Partícula,3,Estática,M3,14:00-15:30,,,14:00-15:30,,,Aula Lab. Termo.,"GARCÍA MURILLO Mario Alberto, Dr.","AGUILERA CORTÉS Luz Antonio, Dr.","RICO MARTÍNEZ José María, Dr."
+IILI04042,Dinámica de la Partícula,3,Estática,M2,14:00-15:30,,,14:00-15:30,,,Aula Taller Mec.,"RICO MARTÍNEZ José María, Dr.","COLÍN VENEGAS José, Dr.","GARCÍA MURILLO Mario Alberto, Dr."
+IILI04043,Dinámica de Maquinaria,3,"Dinámica de Cuerpo Rígido",M1,10:00-11:30,,,10:00-11:30,,,Aula Taller Mec.,"CERVANTES SÁNCHEZ J. Jesús, Dr.","GONZALEZ PALACIOS Maximino Antonio, Dr.","GARCÍA MURILLO Mario Alberto, Dr."
+IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,16:00-17:40,,16:00-17:40,16:00-17:40,,,A304,"GUTIERREZ RIVERA Miguel Ernesto, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
+IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,16:00-17:40,,16:00-17:40,16:00-17:40,,,A305,"HERNÁNDEZ PÉREZ Adrián, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
+IILI06048,Diseño Mecánico,5,Mecánica de Sólidos,M1,,14:20-16:00,14:20-16:00,,14:20-16:00,,Aula Lab. Termo.,"VIDAL LESSO Agustín, Dr.","BALVANTÍN GARCÍA Antonio de Jesús, Dr.","AGUILERA GÓMEZ Eduardo, Dr."
+NELI06005,Ecuaciones Diferenciales,4,NELI06003,MCT1,,14:00-16:00,,,14:00-16:00,,A210,CABRERA MOSQUEDA Daniel,,
+NELI06006,"Electromagnetismo y Ondas",4,,MCT1,,8:00-10:00,,,8:00-10:00,,A311,ALVARADO MENDEZ Edgar Dr.,,
+IILI06053,Electrónica Digital,4,IILI02075,MCT1,,"10:00-12:00 BlabELE",,,10:00-12:00,,A210,CERDA VILLAFAÑA Gustavo Dr.,,
+EALI03009,Espíritu Emprendedor,2,,MCT1,,,12:00-14:00,,,,A202,"ORTEGA ZÚÑIGA Lourdes Paulina Lic.",,
+IILI04055,Estática,3,Cálculo Integral,M3,08:00-9:30,,,08:00-9:30,,,Aula Taller Mec.,"NEGRETE ROMERO Guillermo, M. en I.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI04055,Estática,3,Cálculo Integral,M1,08:00-9:30,,,08:00-9:30,,,Aula Lab. Manuf.,"PLASCENCIA MORA Héctor, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI04055,Estática,3,Cálculo Integral,M4,,08:00-9:30,,,08:00-9:30,,Aula Taller Mec.,"DIOSDADO DE LA PEÑA José Angel, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI04055,Estática,3,Cálculo Integral,M2,,08:00-9:30,,,08:00-9:30,,Aula Lab. Manuf.,"RAMÍREZ ELIAS Víctor Alfonso, Dr.","BALVANTIN GARCIA Antonio de Jesus, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+SHLI03019,Formación Cultural e intercultural,2,,MCT1,,,10:00-12:00,,,,A202,"ORTEGA ZÚÑIGA Lourdes Paulina Lic.",,
+,FRANCES A1.1,4,,SA1,,08:00-10:00,,,08:00-10:00,,L.ELECT.(2),"VAN AMERONGEN Saskia, Dra.",,
+,FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A","VAN AMERONGEN Saskia, Dra.",,
+IILI03058,Fuentes no Convencionales de Energía,3,Termodinámica,M1,,14:00-15:30,,,14:00-15:30,,A305,"CANO ANDRADE Sergio, Dr.","RANGEL HERNÁNDEZ Víctor Hugo, Dr.","BELMAN FLORES Juan Manuel, Dr."
+IILI06060,Fundamentos de Ingeniería Eléctrica,4,70 Créditos,M1,10:00-12:00,,,10:00-12:00,,,A306,"HERNÁNDEZ RODRÍGUEZ Eric Noé, Dr.","CANO ANDRADE Sergio, Dr.","LEDESMA OROZCO Elias Rigoberto, Dr."
+IILI06060,Fundamentos de Ingeniería Eléctrica,4,NELI06006,MCT1,,,10:00-12:00,,,10:00-12:00,A311,"OROZCO MUÑIZ  Juan Diego M. En I.",,
+IILI06061,Fundamentos de los sistemas de información,4,,NI-MCT1,10:00-12:00,,,10:00-12:00,,,A202,MARTIN DIAZ Ignacio Dr.,,
+IILI06061,Fundamentos de los sistemas de información,4,,NI-MCT2,,12:00-14:00,,,12:00-14:00,,A311,"FLORES CÁRDENAS Enrique M. en I.",,
+IILI03065,Impacto Ambiental,2,160 Créditos,M1,,,12:00-14:00,,,,A306,"ROJAS SALINAS Wilma Betzabé, Q.F.B.","VIOLANTE GAVIRA Amanda Enriqueta, Mtra.","ZALETA AGUILAR Alejandro, Dr."
+EALI03014,Ingeniería Económica,2,90 Créditos,M1,,,14:00-16:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
+EALI03014,Ingeniería Económica,2,90 Créditos,M2,,,16:00-18:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
+,INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
+,INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
+,INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
+,INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
+,INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
+IILI06072,Instrumentación Digital,4,IILI04124,MCT1,8:00-10:00,,,8:00-10:00,,,A311,"OROZCO MUÑIZ  Juan Diego M. En I.",,
+SHLI01041,Integración a la vida Universitaria,1,,NI-MCT1,,,08:00-9:00,,,,A202,ZÁRATE BANDA Magdalena Dra.,,
+SHLI01041,Integración a la vida Universitaria,1,,NI-MCT2,,,9:00-10:00,,,,A202,"ORTEGA ZÚÑIGA Lourdes Paulina Lic.",,
+IILI06073,Inteligencia Artificial,4,"Programación Orientada a Objetos",S1,10:00-12:00,,,10:00-12:00,,,LAB. B,"SÁNCHEZ YAÑEZ Raúl Enrique, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI02075,Laboratorio de Mediciones,2,,NI-MCT1,,,12:00-14:00,,,,BlabELE,MARTIN DIAZ Ignacio Dr.,,
+IILI02075,Laboratorio de Mediciones,2,,NI-MCT2,,,14:00-16:00,,,,BlabELE,HUERTA ROSALES Roberto Ing.,,
+IILI03078,Manufactura Avanzada,3,150 Créditos,M5,,,08:00-11:00,,,,Celdas de Manuf.,"BALVANTÍN GARCÍA Antonio de Jesús, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI03078,Manufactura Avanzada,3,150 Créditos,M6,,,11:00-14:00,,,,Celdas de Manuf.,"BALVANTÍN GARCÍA Antonio de Jesús, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI03078,Manufactura Avanzada,3,150 Créditos,M3,,10:00-11:30,,,10:00-11:30,,Celdas de Manuf.,"MARTÍNEZ RAMÍREZ Israel, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI03078,Manufactura Avanzada,3,150 Créditos,M4,,12:00-13:30,,,12:00-13:30,,Celdas de Manuf.,"MARTÍNEZ RAMÍREZ Israel, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI03078,Manufactura Avanzada,3,150 Créditos,M2,12:00-13:30,,,12:00-13:30,,,Celdas de Manuf.,"REVELES ARREDONDO Juan Francisco, Dr.","VIDAL LESSO Agustin, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI03081,Máquinas Hidráulicas y Neumáticas,3,"Termodinámica; Mecánica de Fluidos",M1,14:00-15:30,,,14:00-15:30,,,A304,"ZALETA AGUILAR Alejandro, Dr.","BELMAN FLORES Juan Manuel, Dr.","ELIZALDE BLANCAS Francisco, Dr."
+IILI06083,Mecánica de Fluidos,5,"Ecuaciones Diferenciales",M1,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Lab. Manuf.,"DAMIÁN ASCENCIO César Eduardo, Dr.","HERNANDEZ GUERRERO Abel, Dr.","BELMAN FLORES Juan Manuel, Dr."
+IILI06083,Mecánica de Fluidos,5,"Ecuaciones Diferenciales",M2,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Taller Mec.,"LUVIANO ORTÍZ José Luis, Dr.","HERNANDEZ GUERRERO Abel, Dr.","BELMAN FLORES Juan Manuel, Dr."
+IILI06083,Mecánica de Fluidos,5,"Ecuaciones Diferenciales",M2,12:00-14:00,,12:00-13:00,12:00-14:00,,,Aula Lab. Termo.,"RIESCO ÁVILA José Manuel, Dr.","HERNANDEZ GUERRERO Abel, Dr.","BELMAN FLORES Juan Manuel, Dr."
+IILI06084,Mecánica de Sólidos,5,Estática,M2,,12:00-14:00,13:00-14:00,,12:00-14:00,,A304,"NEGRETE ROMERO Guillermo, M. en I.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+IILI06084,Mecánica de Sólidos,5,Estática,M1,,08:00-9:40,08:00-9:40,,08:00-9:40,,A305,"PLASCENCIA MORA Héctor, Dr.","RAMÍREZ ELIAS Víctor Alfonso, Dr.","DIOSDADO DE LA PEÑA Jose Angel, Dr."
+NELI04011,Métodos Numéricos,3,NELI06003,MCT1,10:00-11:30,,,10:00-11:30,,,A210,MARTINEZ ROMERO Elizabeth Ing.,,
+IILI06089,"Microprocesadores y Microcontroladores",4,IILI06053,MCT1,,,10:00-12:00,,,10:00-12:00,A210,"ORTEGA CONTRERAS Jorge Andrés Ing.",,
+IILI06026,OPTATIVA PROFUNDIZACIÓN (Robótica Móvil),4,"Programación Orientada a Objetos",S1,10:00-12:00,,,10:00-12:00,,,A104,"TRUJILLO ROMERO Felipe De Jesús, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06094,Plantas Térmicas y Uso Racional de la Energía,5,"Termodinámica; Mecánica de Fluidos",M1,,08:00-9:40,08:00-9:40,,08:00-9:40,,Aula Lab. Termo.,"ZALETA AGUILAR Alejandro, Dr.","BELMAN FLORES Juan Manuel, Dr.","CANO ANDRADE Sergio, Dr."
+NELI06014,Probabilidad y Estadística,4,NELI06003,MCT1,10:00-12:00,,,10:00-12:00,,,A311,SALAZAR VILLANUEVA Fernando,,
+IILI06104,Programación en Ingeniería,4,IILI06104,MCT1,12:00-14:00,,,12:00-14:00,,,A202,RAMÍREZ SILVA Marco Aurelio Ing.,,
+IILI06104,Programación en Ingeniería,4,Ninguno,MCT1,12:00-14:00,,,12:00-14:00,,,A202,"RAMÍREZ SILVA Marco Aurelio, I.C.S.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06107,Programación Orientada a Objetos,4,"Programación en Ingeniería",S2,16:00-18:00,,,16:00-18:00,,,A303,"CORREA TOMÉ Fernando Enrique, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06107,Programación Orientada a Objetos,4,"Programación en Ingeniería",S1,12:00-14:00,,,12:00-14:00,,,A310,"LEDESMA OROZCO Sergio Eduardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+EALI06037,Proyectos en ingeniería,4,120 Créditos,MCT1,,18:00-20:00,,,18:00-20:00,,A202,ZÁRATE BANDA Magdalena Dra.,,
+NELI06016,Química Universitaria,4,,NI-MCT1,,12:00-14:00,,,12:00-14:00,,A202,"VÁZQUEZ MOSQUEDA Heriberto Ing.",,
+NELI06016,Química Universitaria,4,,NI-MCT2,,10:00-12:00,,,10:00-12:00,,A311,"VIOLANTE GAVIRA Amanda Enriqueta",,
+SHLI03063,Responsabilidad Social,2,,MCT1,,,16:00-18:00,,,,A311,GONZALEZ GARCIA Luz Estela,,
+IILI04112,Robótica,3,"Análisis y Síntesis de Mecanismos",M1,,07:00-08:30,,,07:00-08:30,,A304,"GARCÍA MURILLO Mario Alberto, Dr.","RICO MARTINEZ Jose Maria, Dr.","CERVANTES SANCHEZ Jose Jesus, Dr."
+IILI06115,Señales y Sistemas,4,90 Créditos,MCT1,16:00-18:00,,,16:00-18:00,,,A311,HUERTA ROSALES Roberto Ing.,,
+IILI04118,Simulación de Sistemas Mecatrónicos,3,170 Créditos,MCT1,12:00-13:30,,,12:00-13:30,,,A210,"CONTRERAS HERNÁNDEZ José Luis M. en I.",,
+IILI04120,Sistemas de Control,3,120 Créditos,MCT1,,10:00-12:00,,,10:00-12:00,,A202,"AVIÑA CERVANTES Juan Gabriel Dr.",,
+IILI04124,Sistemas de Medición,3,120 Créditos,MCT1,,,12:00-14:00,,,12:00-14:00,A210,"ORTEGA CONTRERAS Jorge Andrés Ing.",,
+IILI06126,Sistemas Electrónicos de Potencia,4,IILI06022,MCT1,,10:00-12:00,,,"10:00-12:00 BlabELE",,A210,"FLORES CÁRDENAS Enrique M. en I.",,
+IILI06130,Termodinámica,5,Cálculo Integral,M3,08:00-9:40,,08:00-9:40,08:00-9:40,,,A306,"CANO ANDRADE Sergio, Dr.","ELIZALDE BLANCAS Francisco, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
+IILI06130,Termodinámica,5,Cálculo Integral,M2,08:00-9:40,,08:00-9:40,08:00-9:40,,,A305,"ELIZALDE BLANCAS Francisco, Dr.","CANO ANDRADE Sergio, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
+IILI06130,Termodinámica,5,Cálculo Integral,M1,08:00-9:40,,08:00-9:40,08:00-9:40,,,A304,"HERNÁNDEZ GUERRERO Abel, Dr.","ELIZALDE BLANCAS Francisco, Dr.","DAMIAN ASCENCIO Cesar Eduardo, Dr."
+IILI06130,Termodinámica,5,NELI06003,MCT1,,16:00-17:40,16:00-17:40,,16:00-17:40,,A202,"BARROSO MALDONADO Juan Manuel M. En I.",,
+IILI06142,Turbomáquinas y Equipos Térmicos,5,"Mecánica de Fluidos; Transferencia de Calor",M1,14:00-15:40,,14:00-15:40,14:00-15:40,,,A305,"LUVIANO ORTÍZ José Luis, Dr.","ZALETA AGUILAR Alejandro, Dr.","RIESCO AVILA Jose Manuel, Dr."
+IILI06143,Vibraciones Mecánicas,4,"Dinámica de Cuerpo Rígido",M1,,14:00-16:00,,,14:00-16:00,,A304,"COLÍN VENEGAS José, Dr.","GONZÁLEZ PALACIOS Maximino Antonio, Dr.","TORRES DEL CARMEN Felipe de Jesús, Dr."
+IILI06001,Administración de la Tecnología Informática,4,"Sistemas de Administración de Datos",S1,12:00-14:00,,,12:00-14:00,,,LAB. B,"CANEDO MONTOYA Gerardo Miguel, Lic.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+SHLI03001,Administración de Proyecto de Tesis,2,220 Créditos,C1,,,14:00-16:00,,,,A105,"OROS FLORES Marvella Izamar, M. en I","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06001,Álgebra Lineal,4,Ninguno,NI_S1,,10:00-12:00,,,10:00-12:00,,A303,"ARELLANO VELÁZQUEZ Noé Ricardo, Lic.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06004,Algoritmos y Estructuras de Datos,4,"Programación en Ingeniería",S1,12:00-14:00,,,12:00-14:00,,,A104,"GARCÍA CAPULÍN Carlos Hugo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06004,Algoritmos y Estructuras de Datos,4,"Programación en Ingeniería",S2,,10:00-12:00,,,10:00-12:00,,A104,"IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr.","CORREA TOMÉ Fernando Enrique, Dr."
+IILI06013,Aplicaciones Internet,4,"Sistemas de Administración de Datos",S1,,14:00-16:00,,,14:00-16:00,,A104,"LEDESMA OROZCO Sergio Eduardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06002,Cálculo Diferencial,4,Ninguno,NI_S1,10:00-12:00,,,10:00-12:00,,,A303,"ARELLANO VELÁZQUEZ Noé Ricardo, Lic.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06002,Cálculo Diferencial (Repetidores),4,Ninguno,S2,18:00-20:00,,,18:00-20:00,,,A310,"ALFARO NAVARRO José Juan, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06003,Cálculo Integral,4,Cálculo Diferencial,REC-C2,16:00-18:00,,,16:00-18:00,,,B101,"MARQUEZ FIGUEROA Sandra M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06003,Cálculo Integral,4,Cálculo Diferencial,S1,,12:00-14:00,,,12:00-14:00,,A310,"TORRES CISNEROS Miguel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06004,Cálculo Vectorial y Multivariable,5,Cálculo Integral,C1,,08:00-10:00,09:00-10:00,,08:00-10:00,,A302,"IBARRA MANZANO Oscar Gerardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06004,Cálculo Vectorial y Multivariable,5,Cálculo Integral,S1,,08:00-10:00,08:00-09:00,,08:00-10:00,,A104,"ROJAS LAGUNA Roberto, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06024,Circuitos Integrados Lineales,4,120 créditos,C1,,12:00-14:00,,,"12:00-14:00 BLabEle",,B101,"HERNÁNDEZ FUSILIER Donato, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06025,Compiladores,4,"Algoritmos y Estructuras de Datos",S1,08:00-10:00,,,08:00-10:00,,,A310,"RUÍZ PINALES José, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06037,Desarrollo de Software,4,"Programación Orientada a Objetos",S1,14:00-16:00,,,14:00-16:00,,,A303,"GÓMEZ CARRANZA Juan Carlos, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+SHLI03009,Desarrollo Humano y Comunicación,2,Ninguno,S1,,,10:00-12:00,,,,A310,"RODRÍGUEZ GARCÍA Juan Manuel, C. P.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06005,Ecuaciones Diferenciales,4,Cálculo Integral,C1,12:00-14:00,,,12:00-14:00,,,A309,"SIERRA HERNÁNDEZ Juan Manuel, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06005,Ecuaciones Diferenciales,4,Cálculo Integral,S1,,14:00-16:00,,,14:00-16:00,,A310,"RAZO MEDINA Daniel Alberto, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06006,Electromagnetismo y Ondas,4,Ninguno,S1,,10:00-12:00,,,10:00-12:00,,A310,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06051,Electrónica Analógica,4,"Laboratorio de Mediciones",S1,,12:00-14:00,,,12:00-14:00,,A104,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06053,Electrónica Digital,4,"Laboratorio de Mediciones",C1,"10:00-12:00 BLabEle",,,10:00-12:00,,,B101,"CAMARENA MARTÍNEZ David, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+EALI03009,Espíritu Emprendedor,2,Ninguno,S1,,,08:00-10:00,,,,A310,JIMENEZ BARSENAS Eduardo,"IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+SHLI03018,Expresión Verbal en Ambiente Profesional,2,Ninguno,S1,,,,,,10:00-12:00,A310,"ALMANZA OJEDA María Yanet, Lic.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+SHLI03019,Formación Cultural e Intercultural,2,Ninguno,C1,,,12:00-14:00,,,,A309,"VAN AMERONGEN Saskia, Dra.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+,FRANCES A2.1,4,,SA1,10:00-12:00,,,10:00-12:00,,,"LAB A","VAN AMERONGEN Saskia, Dra.",,
+IILI06061,Fundamentos de los Sistemas de Información,4,Ninguno,NI_S1,,08:00-10:00,,,08:00-10:00,,A303,"ROSTRO GONZÁLEZ Horacio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06062,Fundamentos de los Sistemas Eléctricos,4,"Ecuaciones Diferenciales",S1,,14:00-16:00,,,14:00-16:00,,A303,"ROSTRO GONZÁLEZ Horacio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06066,Informática Industrial,4,"Microprocesadores y Microcontroladores",C1,16:00-18:00,,,16:00-18:00,,,A309,"MARTIN-DIAZ Ignacio, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06068,Ingeniería de Software,4,Desarrollo de Software,S1,08:00-10:00,,,08:00-10:00,,,LAB. B,"RAMÍREZ SILVA Marco Aurelio, I.C.S.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+EALI03014,Ingeniería Económica,2,90 Créditos,M1,,,14:00-16:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
+EALI03014,Ingeniería Económica,2,90 Créditos,M2,,,16:00-18:00,,,,A301,"DAMIAN RAMOS Enrique, M.F.","ZALETA AGUILAR Alejandro, Dr.","PLASCENCIA MORA Héctor, Dr."
+,INGLÉS 1A,4,,SA1,,12:00-14:00,,,12:00-14:00,,A101,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 1A,4,,SA2,,08:00-10:00,,,08:00-10:00,,CAADI,"HERNÁNDEZ MENDEZ Sandra, Lic.",,
+,INGLÉS 1B,4,,SA1,12:00-14:00,,,12:00-14:00,,,CAADI,"CHÁVEZ GARCÍA SAUL, LIC",,
+,INGLÉS 2A,4,,SA1,08:00-10:00,,,08:00-10:00,,,A303,"GARCÍA FLORES Mayra Itzel, Lic.",,
+,INGLÉS 2A,4,,SA2,,08:00-10:00,,,08:00-10:00,,A105,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 2B,4,,SA1,,14:00-16:00,,,14:00-16:00,,Aula Lab. Manuf.,"GALLARDO GARCÍA Ana Isabel, MATSOL",,
+,INGLÉS 3A,4,,SA1,,14:00-16:00,,,14:00-16:00,,A308,"OSORNIO GARCÍA Karina, Lic.",,
+,INGLÉS 3A,4,,SA2,14:00-16:00,,,14:00-16:00,,,Aula Lab. Manuf.,"CHÁVEZ GARCÍA SAUL, LIC",,
+ACLI10001,Inmersión en el Ambiente Laboral,0,200 créditos,S1,,,,,,,,"IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr.","CORREA TOMÉ Fernando Enrique, Dr."
+SHLI01041,Integración a la Vida Universitaria (N. I.),1,Ninguno,NI_S1,,,12:00-13:00,,,,A310,"RODRÍGUEZ GARCÍA Juan Manuel, C. P.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06073,Inteligencia Artificial,4,"Programación Orientada a Objetos",S1,10:00-12:00,,,10:00-12:00,,,LAB. B,"SÁNCHEZ YAÑEZ Raúl Enrique, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI02075,Laboratorio de Mediciones,2,Ninguno,S1,,,08:00-10:00,,,,BLabELE,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06009,Matemáticas Discretas,4,Ninguno,S1,14:00-16:00,,,14:00-16:00,,,A310,"VALDEZ PEÑA Sergio Ivan, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06010,Mecánica,4,Ninguno,NI_S1,,12:00-14:00,,,12:00-14:00,,A303,"ROJAS SALINAS Wilma Betzabe, Q.F.B.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI04011,Métodos Numéricos,3,Cálculo Integral,C1,14:00-15:30,,,14:00-15:30,,,B101,"IBARRA MANZANO Mario Alberto, Dr.","LIZÁRRAGA MORALES Rocío Alfonsina, Dra.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI04011,Métodos Numéricos,3,Cálculo Integral,S1,18:00-19:30,,,18:00-19:30,,,A303,POR ASIGNAR,"IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06089,Microprocesadores y Microcontroladores,4,Electrónica Digital,C1,12:00-14:00,,,"12:00-14:00 BLabEle",,,B101,"CERDA VILLAFAÑA Gustavo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06064,OPTATIVA DISCIPLINAR (Programación Científica),4,"Programación Orientada a Objetos",S1,,16:00-18:00,,,16:00-18:00,,A303,"VALDEZ PEÑA Sergio Ivan, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06026,OPTATIVA PROFUNDIZACIÓN (Robótica Móvil),4,"Programación Orientada a Objetos",S1,10:00-12:00,,,10:00-12:00,,,A104,"TRUJILLO ROMERO Felipe De Jesús, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06114,OPTATIVA PROFUNDIZACIÓN (Seguridad en Redes),4,"Redes de Computadoras II",S1,16:00-18:00,,,16:00-18:00,,,A104,"CANEDO MONTOYA Enrique Daniel, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06014,Probabilidad y Estadística,4,Cálculo Integral,C1,10:00-12:00,,,10:00-12:00,,,A302,"GARCÍA PÉREZ Arturo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+NELI06014,Probabilidad y Estadística,4,Cálculo Integral,S1,16:00-18:00,,,16:00-18:00,,,B101,"RAMÍREZ PAREDES Juan Pablo Ignacio Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06104,Programación en Ingeniería,4,Ninguno,MCT1,12:00-14:00,,,12:00-14:00,,,A202,"RAMÍREZ SILVA Marco Aurelio, I.C.S.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06104,Programación en Ingeniería,4,Ninguno,S1,,08:00-10:00,,,08:00-10:00,,A310,"AYALA RAMÍREZ Victor, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06104,Programación en Ingeniería,4,Ninguno,S1,,10:00-12:00,,,10:00-12:00,,LAB. B,"SÁNCHEZ YAÑEZ Raúl Enrique, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06107,Programación Orientada a Objetos,4,"Programación en Ingeniería",S2,16:00-18:00,,,16:00-18:00,,,A303,"CORREA TOMÉ Fernando Enrique, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06107,Programación Orientada a Objetos,4,"Programación en Ingeniería",S1,12:00-14:00,,,12:00-14:00,,,A310,"LEDESMA OROZCO Sergio Eduardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+EALI06037,Proyectos en Ingeniería,4,Ninguno,S1,16:00-18:00,,,16:00-18:00,,,A310,"TURRUBIATES GARCÍA Héctor, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+NELI06016,Química Universitaria,4,Ninguno,NI_S1,12:00-14:00,,,12:00-14:00,,,A303,"ROJAS SALINAS Wilma Betzabe, Q.F.B.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+SHLI03062,Redacción de CV y Entrevista de Trabajo,2,Ninguno,C1,,,,,,12:00-14:00,A309,"ALMANZA OJEDA María Yanet, Lic.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+IILI06110,Redes de Computadoras I,4,"Sistemas de Administración de Datos",S1,,16:00-18:00,,,16:00-18:00,,A104,"TURRUBIATES GARCÍA Héctor, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06111,Redes de Computadoras II,4,"Redes de Computadoras I",S1,,16:00-18:00,,,16:00-18:00,,A310,"CANEDO MONTOYA Enrique Daniel, Ing.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+SHLI03063,Responsabilidad Social,2,Ninguno,S1,,,10:00-12:00,,,,A303,"VAN AMERONGEN Saskia, Dra.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+SHLI03065,Seminario de Proyecto de Titulación,2,Ninguno,C1,,,10:00-12:00,,,,A303,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","TRUJILLO ROMERO Felipe de Jesús, Dr."
+SHLI03065,Seminario de Proyecto deTitulación,2,220 créditos,S1,,,12:00-14:00,,,,A303,"CANEDO ROMERO Gerardo Enrique, M. en I.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06119,Sistemas de Administración de Datos,4,"Programación Orientada a Objetos",S1,10:00-12:00,,,10:00-12:00,,,A310,"LEDESMA OROZCO Sergio Eduardo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06122,Sistemas de Información,4,"Sistemas de Administración de Datos",S1,,08:00-10:00,,,08:00-10:00,,LAB. B,"CANEDO MONTOYA Gerardo Miguel, Lic.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06127,Sistemas Operativos,4,"Algoritmos y Estructuras de Datos",S1,,12:00-14:00,,,12:00-14:00,,LAB. B,"CORREA TOMÉ Fernando Enrique, Dr.","IBARRA MANZANO Mario Alberto, Dr.","GARCÍA CAPULÍN Carlos Hugo, Dr."
+IILI06136,"Tópico Selecto en Sistemas Computacionales (Programación en JAVA)",4,"Programación Orientada a Objetos",S1,14:00-16:00,,,14:00-16:00,,,A104,"GARCÍA CAPULÍN Carlos Hugo, Dr.","IBARRA MANZANO Mario Alberto, Dr.","CORREA TOMÉ Fernando Enrique, Dr."
