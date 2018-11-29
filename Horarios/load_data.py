@@ -1,5 +1,5 @@
 import pandas as pd
-from schedules.models import Professor, Subject, Schedule
+from schedules.models import Professor, Subject, Schedule, Career_Subject, Career
 
 # para importar los datos de los profesores:
 
@@ -43,3 +43,24 @@ schedules = [
     for index, row in tmp_data.iterrows()
 ]
 Schedule.objects.bulk_create(schedules)
+
+
+tmp_sistemas = pd.read_csv('Horarios/subjects/s_slisc.csv', header=[0], sep=',')
+tmp_artes = pd.read_csv('Horarios/subjects/s_slad.csv', header=[0], sep=',')
+carreras = Career.objects.all()
+materias = Subject.objects.all()
+         
+
+for index in materias:
+    for i in range(0, len(tmp_sistemas)):
+        if str(index) == str(tmp_sistemas.iloc[i]['Name']):
+            a = [Career_Subject(career = carreras[1],subject = index)]
+            Career_Subject.objects.bulk_create(a)
+            
+for index in materias:            
+    for i in range(0, len(tmp_artes)):
+        if str(index) == str(tmp_artes.iloc[i]['Name']):
+            a = [Career_Subject(career = carreras[0],subject = index)]
+            Career_Subject.objects.bulk_create(a)
+    
+
