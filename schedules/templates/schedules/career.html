@@ -1,18 +1,37 @@
-<div class="title">
-  <h1>classTime</h1>
-</div>
-<div class="container">
-  <h4>
-    <div class="subtitle">
-      Materias
+<!DOCTYPE html>
+<html>
+<head>
+  {% load static %}
+  <link rel="stylesheet" type="text/css" href="{% static 'schedules/career_style.css' %}">
+
+  <title>classTime</title>
+
+  <div class="title">
+    <h1>classTime</h1>
+  </div>
+
+  <div class="subtitle">
+    <h4>Materias</h4>
+  </div>
+</head>
+
+<body>
+  <div class="container">
+    <div class="text">
+      Selecciona materias para crear tu horario
     </div>
-  </h4>
-  <div class="texto">
-    Selecciona materias para crear tu horario
+
+    <form>
+      <div class="option">
+        {% for entry in career.subjects.all %}
+          <p class="option">
+            <input type="checkbox" name="subject" id="choice{{ forloop.counter }}">
+            <label for="choice{{ forloop.counter }}">{{entry.subject.name}}</label>
+          </p>
+        {% endfor %}
+      </div>
+      <input type="submit">
+    </form>
   </div>
-  {% for entry in career.subjects.all %}
-  <div class="option">
-    {{entry.subject.name}}
-  </div>
-  {% endfor %}
-</div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+.option{
+  color:#492736;
+  font: bold 16pt arial;
+}
+div.option {
+  width: 500px;
+  border: 5px solid green;
+  padding: 25px;
+  margin: 25px;
+}
+p.option {
+   margin-top: 0.4em; margin-bottom: 0em;
+}
+.text{
+
+}
