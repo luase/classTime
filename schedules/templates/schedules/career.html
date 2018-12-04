@@ -1,18 +1,104 @@
-<div class="title">
-  <h1>classTime</h1>
-</div>
-<div class="container">
-  <h4>
-    <div class="subtitle">
-      Materias
-    </div>
-  </h4>
-  <div class="texto">
-    Selecciona materias para crear tu horario
+<!DOCTYPE html>
+<html>
+<head>
+  {% load static %}
+  <link rel="stylesheet" type="text/css" href="{% static 'schedules/career_style.css' %}">
+
+  <title>ClassTime</title>
+</head>
+
+<body>
+  <div class="title">
+    <h1><span class="title">ClassTime</span></h1>
   </div>
-  {% for entry in career.subjects.all %}
-  <div class="option">
-    {{entry.subject.name}}
+
+  <div class="subtitle">
+    <h4>Materias</h4>
   </div>
-  {% endfor %}
-</div>
+
+  <div class="container">
+    <p class="text">Selecciona materias para crear tu horario</p>
+      <div class="option">
+        <select class="option" multiple="multiple" size="24" id='lstBox1'>
+          {% for entry in career.subjects.all %}
+            <option>{{entry.subject.name}}</option>
+          {% endfor %}
+        </select>
+      </div>
+
+      <div class="subject-info-arrows text-center">
+        <button id="btnRight">></button><br />
+        <button id="btnLeft"><</button><br />
+      </div>
+
+      <div class="option">
+        <select class="option" multiple="multiple" size="24" id='lstBox2'>
+        </select>
+      </div>
+
+  </div>
+  <div>
+  <center><button onclick="submit()" id="mySubmit" >Confirmar materias</button></center>
+  </div>
+  <script type="text/jscript">
+      var hybridSelector = function (source, target, shift, rshift) {
+          var ddlSource = source;
+          var ddlTarget = target;
+          var btnShift = shift;
+          var btnRShift = rshift;
+
+          btnShift.addEventListener("click", function () {
+              var selectedItems = getSelectOptions(source);
+
+              if (selectedItems) {
+                  for (var i = 0; i < selectedItems.length; i++) {
+                      var option = new Option(selectedItems[i].text, selectedItems[i].text);
+                      ddlTarget.appendChild(option);
+                      selectedItems[i].remove();
+                  }
+              }
+          });
+
+          btnRShift.addEventListener("click", function () {
+              var selectedItems = getSelectOptions(target);
+              if (selectedItems) {
+                  for (var i = 0; i < selectedItems.length; i++) {
+                      var option = new Option(selectedItems[i].text, selectedItems[i].text);
+                      ddlSource.appendChild(option);
+                      selectedItems[i].remove();
+
+                  }
+              }
+          });
+
+          function getSelectOptions(select) {
+              var result = [];
+              var options = select.options;
+              var opt;
+
+              for (var i = 0, iLen = options.length; i < iLen; i++) {
+                  opt = options[i];
+
+                  if (opt.selected) {
+                      result.push(opt);
+                  }
+              }
+              return result;
+          }
+
+          return ddlTarget.options;
+      };
+
+      //can instantiate as many as i want
+      var hybridSelector1 = new hybridSelector(document.getElementById('lstBox1'), document.getElementById('lstBox2'), document.getElementById('btnRight'), document.getElementById('btnLeft'));
+
+      function submit() {
+          var options1 = hybridSelector1;
+
+          debugger;
+          return false;
+      }
+
+  </script>
+</body>
+</html>
