@@ -1,16 +1,61 @@
+div.title{
+  font-size: 18pt;
+  color: #20bcd5;
+  text-align: left;
+  padding: 18px 0 0 36px;
+  margin: 0 0 10px 0;
+}
+.subtitle{
+  font-size: 18pt;
+  color:#006400;
+  text-align: right;
+  padding: 0 144px 0 0;
+  margin: 0 0 10px 0;
+}
 .option{
-  color:#492736;
-  font: bold 16pt arial;
+  float:left; /* add this */
+
 }
-div.option {
-  width: 500px;
-  border: 5px solid green;
-  padding: 25px;
-  margin: 25px;
+.subject-info-arrows {
+  float: left;
 }
-p.option {
-   margin-top: 0.4em; margin-bottom: 0em;
+input.subject-info-arrows {
+    width: 70%;
+    margin-bottom: 5px;
 }
 .text{
-
+  padding: 9px 0 9px 36px;
+  color:#006400;
+  font-size: 16pt;
+}
+span.title{
+  border: 4px dashed #20bcd5;
+  padding: 10px;
+  background-color: #fff;
+}
+div.container{
+  background-color: #fff;
+  padding: 15px;
+  margin: 0 10px 15px 10px;
+  border-radius: 10px;
+  overflow: auto;
+}
+div.option {
+  height: auto;
+  width: 45%;
+  border: 5px solid  #90EE90;
+  padding: 5px;
+  margin: auto;
+}
+select.option {
+  height: auto;
+  width: auto;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+  color:#006400;
+  font: bold 12pt arial;
+  padding: 4px 10px 4px 10px;
+}
+body {
+  background-color:lightgreen;
 }
