@@ -1,18 +1,46 @@
-<div class="title">
-  <h1>classTime</h1>
-</div>
-<div class="container">
-  <h3>
-    <div class="subtitle">
-      carreras
-    </div>
-  </h3>
-  {% if career_list %}
-  {% for career in career_list %}
-  <div class="careerchoice">
-    <a href="{% url 'schedules:career' career.id %}">{{career}}</a>
+{% load static %}
+
+<html>
+    <head>
+        <title>ClassTime</title>
+        <link rel="stylesheet" type="text/css" href="{% static 'schedules/hrcolor.css' %}">
+    </head>
+    <body style="background-color:lightgreen;">
+        <div class="section">
+        <h1><span>ClassTime</span></h1><h1>
+        <br >
+        <input type='button' name='boton' value='Mecanica' style='width:300px; height:100px;  FONT-FAMILY: Verdana;
+         BACKGROUND-COLOR: rgb(233,233,233)'>
+        <input type='button' name='boton' value='Artes Digitales' style='width:300px; height:100px; FONT-FAMILY: Verdana;
+         BACKGROUND-COLOR: rgb(233,233,233)'>
+        <br input type='button' name='boton' value='Sistemas Computacionales' style='width:300px; height:100px; FONT-FAMILY: Verdana;
+         BACKGROUND-COLOR: rgb(233,233,233)'>
+        <input type='button' name='boton' value='Mecatronica' style='width:300px; height:100px; FONT-FAMILY: Verdana;
+         BACKGROUND-COLOR: rgb(233,233,233)'>
+        <input type='button' name='boton' value='Gestion Empresarial' style='width:300px; height:100px; FONT-FAMILY: Verdana;
+         BACKGROUND-COLOR: rgb(233,233,233)'>
+         <br input type='button' name='boton' value='Electrica' style='width:300px; height:100px; FONT-FAMILY: Verdana;
+         BACKGROUND-COLOR: rgb(233,233,233)'>
+        <input type='button' name='boton' value='Electronica' style='width:300px; height:100px; FONT-FAMILY: Verdana;
+         BACKGROUND-COLOR: rgb(233,233,233)'>
+    </body>
+    </html>
+
   </div>
-  {% endfor %}
-  {% else %}
-  {% endif %}
-</div>
+  <div class="container">
+    <h3>
+      <div class="subtitle">
+        carreras
+      </div>
+    </h3>
+    {% if career_list %}
+    {% for career in career_list %}
+    <div class="careerchoice">
+      <a href="{% url 'schedules:career' career.id %}">{{career}}</a>
+    </div>
+    {% endfor %}
+    {% else %}
+    {% endif %}
+  </div>
+  </body>
+  </html>
