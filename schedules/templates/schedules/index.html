@@ -23,24 +23,34 @@
          BACKGROUND-COLOR: rgb(233,233,233)'>
         <input type='button' name='boton' value='Electronica' style='width:300px; height:100px; FONT-FAMILY: Verdana;
          BACKGROUND-COLOR: rgb(233,233,233)'>
+         </div>
     </body>
     </html>
 
-  </div>
   <div class="container">
     <h3>
       <div class="subtitle">
         carreras
       </div>
     </h3>
+    <div class="careerchoice">
     {% if career_list %}
     {% for career in career_list %}
-    <div class="careerchoice">
-      <a href="{% url 'schedules:career' career.id %}">{{career}}</a>
-    </div>
+      {% if forloop.counter|divisibleby:2 %}
+        <a href="{% url 'schedules:career' career.id %}">
+          <center><input type='button' name='boton' value='{{career}}' style='width:300px; height:100px;  FONT-FAMILY: Verdana;
+          BACKGROUND-COLOR: rgb(233,233,233)'></center>
+        </a>
+      {% else %}
+        <a href="{% url 'schedules:career' career.id %}">
+          <center><br><input type='button' name='boton' value='{{career}}' style='width:300px; height:100px;  FONT-FAMILY: Verdana;
+          BACKGROUND-COLOR: rgb(233,233,233)'></center>
+        </a>
+      {% endif %}
     {% endfor %}
     {% else %}
     {% endif %}
+    </div>
   </div>
   </body>
   </html>
