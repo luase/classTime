@@ -1,17 +1,34 @@
-h1{
-    font-size: 15pt;
-    color: #20bcd5;
-    text-align: center;
-    padding: 18px 0 18px 0;
-    margin: 0 0 10px 0;
+div.title{
+  font-size: 18pt;
+  color: #20bcd5;
+  text-align: left;
+  padding: 18px 0 0 36px;
+  margin: 0 0 10px 0;
 }
-h1 span{
-    border: 4px dashed #20bcd5;
-    padding: 10px;
+span.title{
+  border: 4px dashed #20bcd5;
+  padding: 10px;
+  background-color: #fff;
+}
+.subtitle{
+  font-size: 18pt;
+  color:#006400;
+  text-align: right;
+  padding: 0 144px 0 0;
+  margin: 0 0 10px 0;
 }
 .section{
     background-color: #fff;
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
+}
+input.materia{
+  width:300px;
+  height:100px;
+  FONT-FAMILY: Verdana;
+  BACKGROUND-COLOR: rgb(233,233,233)
+}
+body{
+  background-color:lightgreen;
 }

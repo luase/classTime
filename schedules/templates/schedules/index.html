@@ -3,54 +3,40 @@
 <html>
     <head>
         <title>ClassTime</title>
-        <link rel="stylesheet" type="text/css" href="{% static 'schedules/hrcolor.css' %}">
+        <link rel="stylesheet" type="text/css"
+        href="{% static 'schedules/hrcolor.css' %}">
     </head>
-    <body style="background-color:lightgreen;">
+    <body>
+      <div class="title">
+        <h1><span class="title">ClassTime</span></h1>
+      </div>
+      <br >
+      <div class="container">
+        <h3>
+          <div class="subtitle">
+            carreras
+          </div>
+        </h3>
         <div class="section">
-        <h1><span>ClassTime</span></h1><h1>
-        <br >
-        <input type='button' name='boton' value='Mecanica' style='width:300px; height:100px;  FONT-FAMILY: Verdana;
-         BACKGROUND-COLOR: rgb(233,233,233)'>
-        <input type='button' name='boton' value='Artes Digitales' style='width:300px; height:100px; FONT-FAMILY: Verdana;
-         BACKGROUND-COLOR: rgb(233,233,233)'>
-        <br input type='button' name='boton' value='Sistemas Computacionales' style='width:300px; height:100px; FONT-FAMILY: Verdana;
-         BACKGROUND-COLOR: rgb(233,233,233)'>
-        <input type='button' name='boton' value='Mecatronica' style='width:300px; height:100px; FONT-FAMILY: Verdana;
-         BACKGROUND-COLOR: rgb(233,233,233)'>
-        <input type='button' name='boton' value='Gestion Empresarial' style='width:300px; height:100px; FONT-FAMILY: Verdana;
-         BACKGROUND-COLOR: rgb(233,233,233)'>
-         <br input type='button' name='boton' value='Electrica' style='width:300px; height:100px; FONT-FAMILY: Verdana;
-         BACKGROUND-COLOR: rgb(233,233,233)'>
-        <input type='button' name='boton' value='Electronica' style='width:300px; height:100px; FONT-FAMILY: Verdana;
-         BACKGROUND-COLOR: rgb(233,233,233)'>
-         </div>
+          <div class="careerchoice">
+            {% if career_list %}
+              {% for career in career_list %}
+                {% if forloop.counter|divisibleby:2 %}
+                  <a href="{% url 'schedules:career' career.id %}">
+                    <center><input type='button' name='boton'
+                      value='{{career}}' class="materia"></center>
+                  </a>
+                {% else %}
+                  <a href="{% url 'schedules:career' career.id %}">
+                    <center><br><input type='button' name='boton'
+                      value='{{career}}' class="materia"></center>
+                  </a>
+                {% endif %}
+              {% endfor %}
+            {% else %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
     </body>
     </html>
-
-  <div class="container">
-    <h3>
-      <div class="subtitle">
-        carreras
-      </div>
-    </h3>
-    <div class="careerchoice">
-    {% if career_list %}
-    {% for career in career_list %}
-      {% if forloop.counter|divisibleby:2 %}
-        <a href="{% url 'schedules:career' career.id %}">
-          <center><input type='button' name='boton' value='{{career}}' style='width:300px; height:100px;  FONT-FAMILY: Verdana;
-          BACKGROUND-COLOR: rgb(233,233,233)'></center>
-        </a>
-      {% else %}
-        <a href="{% url 'schedules:career' career.id %}">
-          <center><br><input type='button' name='boton' value='{{career}}' style='width:300px; height:100px;  FONT-FAMILY: Verdana;
-          BACKGROUND-COLOR: rgb(233,233,233)'></center>
-        </a>
-      {% endif %}
-    {% endfor %}
-    {% else %}
-    {% endif %}
-    </div>
-  </div>
-  </body>
-  </html>

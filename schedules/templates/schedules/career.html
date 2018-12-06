@@ -19,7 +19,7 @@
   <div class="container">
     <p class="text">Selecciona materias para crear tu horario</p>
       <div class="option">
-        <select class="option" multiple="multiple" size="24" id='lstBox1'>
+        <select class="option" multiple="multiple" size="25" id='lstBox1'>
           {% for entry in career.subjects.all %}
             <option>{{entry.subject.name}}</option>
           {% endfor %}
@@ -32,7 +32,7 @@
       </div>
 
       <div class="option">
-        <select class="option" multiple="multiple" size="24" id='lstBox2'>
+        <select class="option" multiple="multiple" size="25" id='lstBox2'>
         </select>
       </div>
 

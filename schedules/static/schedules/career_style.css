@@ -48,8 +48,8 @@ div.option {
   margin: auto;
 }
 select.option {
-  height: auto;
-  width: auto;
+  height: 100%;
+  width: 100%;
   margin-top: 0.4em;
   margin-bottom: 0.4em;
   color:#006400;
